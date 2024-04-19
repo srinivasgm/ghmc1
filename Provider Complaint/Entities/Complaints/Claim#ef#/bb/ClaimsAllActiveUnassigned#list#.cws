@@ -19,12 +19,16 @@
 	<Filters></Filters>
 	<HideIfNoResults>false</HideIfNoResults>
 	<IsCardViewEnabled>false</IsCardViewEnabled>
+	<IsChartViewEnabled>false</IsChartViewEnabled>
+	<IsHighlightUnread>false</IsHighlightUnread>
+	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId>005056A5-1B45-A1EB-B628-5D47CA6DE324</LayoutId>
 	<MaxCount>200</MaxCount>
 	<SecuredByEntity>false</SecuredByEntity>
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
 	<ShowCreateButton>false</ShowCreateButton>
+	<ShowCustomActions>false</ShowCustomActions>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
 	<UserVisible>false</UserVisible>
 	<ActionBar>
@@ -32,14 +36,17 @@
 			id="005056A5-1B45-A1EB-B629-A9C81BAA6324"
 		/>
 	</ActionBar>
+	<AssignedFilterCriteria/>
 	<BuildingBlock>
 		<uri
 			id="005056A5-1B45-A1EB-B120-FA36F7016324"
 		/>
 	</BuildingBlock>
 	<CardViewConfiguration/>
+	<ChartViewConfigurations/>
 	<ConditionalCountCriteria/>
 	<CreatableAssociations/>
+	<CustomActionAssociations/>
 	<DisplayName>
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
@@ -62,7 +69,7 @@
 	<FilterCriteria>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93E9E324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93EA2324</DocumentID>
 			<Name>FilterCriteria</Name>
@@ -242,7 +249,7 @@
 	<WorklistColumns>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B7FF-DC50B7D4E324">
 			<DocumentID>005056A5-1B45-A1EB-B7FF-DC50B7D4A324</DocumentID>
 			<Name>Untitled WorklistColumn (10)</Name>
@@ -304,6 +311,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -315,7 +323,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B801-49C1047FA324">
 			<DocumentID>005056A5-1B45-A1EB-B801-49C1047F6324</DocumentID>
 			<Name>Untitled WorklistColumn (11)</Name>
@@ -377,6 +385,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -388,7 +397,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93E16324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93E12324</DocumentID>
 			<Name>Untitled WorklistColumn (7)</Name>
@@ -466,6 +475,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -477,7 +487,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B7D8-18CF4F5AE324">
 			<DocumentID>005056A5-1B45-A1EB-B7D8-18CF4F5AA324</DocumentID>
 			<Name>Untitled WorklistColumn (9)</Name>
@@ -539,6 +549,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
@@ -568,7 +579,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B50D-82CBAE82E324">
 			<DocumentID>005056A5-1B45-A1EB-B50D-82CBAE82A324</DocumentID>
 			<Name>Untitled WorklistColumn (8)</Name>
@@ -646,6 +657,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
@@ -675,7 +687,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B833-E8494D7CA324">
 			<DocumentID>005056A5-1B45-A1EB-B833-E8494D7C6324</DocumentID>
 			<Name>Untitled WorklistColumn (12)</Name>
@@ -768,6 +780,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -779,7 +792,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B833-E8494D78A324">
 			<DocumentID>005056A5-1B45-A1EB-B833-E8494D786324</DocumentID>
 			<Name>Untitled WorklistColumn (13)</Name>
@@ -857,6 +870,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
@@ -886,7 +900,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B833-E8494D74E324">
 			<DocumentID>005056A5-1B45-A1EB-B833-E8494D74A324</DocumentID>
 			<Name>Untitled WorklistColumn (14)</Name>
@@ -979,6 +993,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
@@ -1008,7 +1023,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B833-E8494D726324">
 			<DocumentID>005056A5-1B45-A1EB-B833-E8494D722324</DocumentID>
 			<Name>Untitled WorklistColumn (15)</Name>
@@ -1101,6 +1116,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
@@ -1130,7 +1146,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93F0E324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93F12324</DocumentID>
 			<Name>Untitled WorklistColumn</Name>
@@ -1192,6 +1208,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1203,7 +1220,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93EFE324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93F02324</DocumentID>
 			<Name>Untitled WorklistColumn (1)</Name>
@@ -1265,6 +1282,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1276,7 +1294,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93EEE324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93EF2324</DocumentID>
 			<Name>Untitled WorklistColumn (2)</Name>
@@ -1338,6 +1356,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1349,7 +1368,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93EDE324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93EE2324</DocumentID>
 			<Name>Untitled WorklistColumn (3)</Name>
@@ -1411,6 +1430,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1422,7 +1442,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93ECE324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93ED2324</DocumentID>
 			<Name>Untitled WorklistColumn (4)</Name>
@@ -1484,6 +1504,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1495,7 +1516,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93EBE324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93EC2324</DocumentID>
 			<Name>Untitled WorklistColumn (5)</Name>
@@ -1557,6 +1578,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1568,7 +1590,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B416-4CFD93EAE324">
 			<DocumentID>005056A5-1B45-A1EB-B416-4CFD93EB2324</DocumentID>
 			<Name>Untitled WorklistColumn (6)</Name>
@@ -1630,6 +1652,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel/>
 			<Property>
 				<uri
@@ -1641,7 +1664,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="005056A5-1B45-A1EB-BAED-82821FC62324">
 			<DocumentID>005056A5-1B45-A1EB-BAED-82821FC5E324</DocumentID>
 			<Name>Untitled WorklistColumn (16)</Name>
@@ -1703,6 +1726,7 @@
 					</RootOwner>
 				</PropertyObjectPath>
 			</ItemMemberPropertyPath>
+			<Layout/>
 			<LocalizableColumnLabel>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"

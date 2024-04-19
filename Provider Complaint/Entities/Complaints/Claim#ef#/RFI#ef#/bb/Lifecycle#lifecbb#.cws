@@ -2,7 +2,7 @@
 <LifecycleBuildingBlock
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.lifecycle.LifecycleBuildingBlock"
-	typeVersion="C91763E5-23E3-4184-921D-E373F2B3C15D"
+	typeVersion="031EBD2B-A888-4E28-B7A8-8707F4E36155"
 	RuntimeDocumentID="005056A5-1B45-A1EB-B609-E0EA49AC6324">
 	<DocumentID>005056A5-1B45-A1EB-B609-E0EA49AC2324</DocumentID>
 	<Name>Lifecycle</Name>
@@ -1880,7 +1880,7 @@
 									<EntityExpression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-B666-64BCCB356324">
 											<DocumentID>005056A5-1B45-A1EB-B666-64BCCB352324</DocumentID>
 											<Name>Entity_Expression_1625054299062</Name>
@@ -2100,7 +2100,7 @@
 									<EntityExpression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-B757-2ADB4FE9E324">
 											<DocumentID>005056A5-1B45-A1EB-B757-2ADB4FE9A324</DocumentID>
 											<Name>Entity_Expression_1625468471459</Name>
@@ -2202,7 +2202,7 @@
 									<EntityExpression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-B6CF-5C591AB7E324">
 											<DocumentID>005056A5-1B45-A1EB-B6CF-5C591AB7A324</DocumentID>
 											<Name>Entity_Expression_1625234266288</Name>
@@ -2404,7 +2404,7 @@
 									<EntityExpression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-B68E-D3EFA9FDE324">
 											<DocumentID>005056A5-1B45-A1EB-B68E-D3EFA9FDA324</DocumentID>
 											<Name>Entity_Expression_1625126572665</Name>
@@ -2669,7 +2669,7 @@
 									<EntityExpression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-B6CF-5C591AAF6324">
 											<DocumentID>005056A5-1B45-A1EB-B6CF-5C591AAF2324</DocumentID>
 											<Name>Entity_Expression_1625234425324</Name>
@@ -2789,7 +2789,7 @@
 									<EntityExpression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-B6CF-5C591AAAA324">
 											<DocumentID>005056A5-1B45-A1EB-B6CF-5C591AAA6324</DocumentID>
 											<Name>Entity_Expression_1625234475001</Name>
@@ -6026,7 +6026,12 @@
 					<Notes/>
 					<Custom>false</Custom>
 					<EnabledOnError>false</EnabledOnError>
+					<RedirectToSpecificURL></RedirectToSpecificURL>
+					<UserEventActionRedirect>false</UserEventActionRedirect>
+					<UserEventActionRedirectType>0</UserEventActionRedirectType>
+					<EntityLayout/>
 					<FormAssociation/>
+					<RedirectToURLEntityExpression/>
 					<TranslatableName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
@@ -6058,7 +6063,12 @@
 					<Notes/>
 					<Custom>false</Custom>
 					<EnabledOnError>false</EnabledOnError>
+					<RedirectToSpecificURL></RedirectToSpecificURL>
+					<UserEventActionRedirect>false</UserEventActionRedirect>
+					<UserEventActionRedirectType>0</UserEventActionRedirectType>
+					<EntityLayout/>
 					<FormAssociation/>
+					<RedirectToURLEntityExpression/>
 					<TranslatableName/>
 				</CMEventType>
 				<CMEventType
@@ -6072,7 +6082,12 @@
 					<Notes/>
 					<Custom>false</Custom>
 					<EnabledOnError>false</EnabledOnError>
+					<RedirectToSpecificURL></RedirectToSpecificURL>
+					<UserEventActionRedirect>false</UserEventActionRedirect>
+					<UserEventActionRedirectType>0</UserEventActionRedirectType>
+					<EntityLayout/>
 					<FormAssociation/>
+					<RedirectToURLEntityExpression/>
 					<TranslatableName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
@@ -6104,7 +6119,12 @@
 					<Notes/>
 					<Custom>false</Custom>
 					<EnabledOnError>false</EnabledOnError>
+					<RedirectToSpecificURL></RedirectToSpecificURL>
+					<UserEventActionRedirect>false</UserEventActionRedirect>
+					<UserEventActionRedirectType>0</UserEventActionRedirectType>
+					<EntityLayout/>
 					<FormAssociation/>
+					<RedirectToURLEntityExpression/>
 					<TranslatableName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"
@@ -6136,7 +6156,12 @@
 					<Notes/>
 					<Custom>false</Custom>
 					<EnabledOnError>false</EnabledOnError>
+					<RedirectToSpecificURL></RedirectToSpecificURL>
+					<UserEventActionRedirect>false</UserEventActionRedirect>
+					<UserEventActionRedirectType>0</UserEventActionRedirectType>
+					<EntityLayout/>
 					<FormAssociation/>
+					<RedirectToURLEntityExpression/>
 					<TranslatableName>
 						<TranslatableText
 							type="com.cordys.translation.TranslatableText"

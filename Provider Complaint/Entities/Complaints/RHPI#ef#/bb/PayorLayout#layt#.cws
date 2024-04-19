@@ -17,6 +17,7 @@
 	<IsPreviewLayout>true</IsPreviewLayout>
 	<LayoutPanelType>FitToScreen</LayoutPanelType>
 	<LayoutType>0</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
 	<ActionBarAssociations>
 		<ActionBarAssociation
 			type="com.cordys.entity.buildingblocks.layout.ActionBarAssociation"
@@ -66,7 +67,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="1FCC367D-DD5A-4E9C-8B4A-24BA4845ECB6"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="005056A5-1B45-A1EB-BA7D-095ADE48E324">
 			<DocumentID>005056A5-1B45-A1EB-BA7D-095ADE492324</DocumentID>
 			<Name>Breadcrumbs</Name>
@@ -85,13 +86,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="1FCC367D-DD5A-4E9C-8B4A-24BA4845ECB6"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="005056A5-1B45-A1EB-BA7D-095ADE486324">
 			<DocumentID>005056A5-1B45-A1EB-BA7D-095ADE48A324</DocumentID>
 			<Name>Actions</Name>
@@ -114,13 +117,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="1FCC367D-DD5A-4E9C-8B4A-24BA4845ECB6"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="005056A5-1B45-A1EB-BA7D-095ADE47E324">
 			<DocumentID>005056A5-1B45-A1EB-BA7D-095ADE482324</DocumentID>
 			<Name>Form</Name>
@@ -161,9 +166,11 @@
 					</Identifier>
 				</TranslatableText>
 			</LocalizableDisplayName>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>

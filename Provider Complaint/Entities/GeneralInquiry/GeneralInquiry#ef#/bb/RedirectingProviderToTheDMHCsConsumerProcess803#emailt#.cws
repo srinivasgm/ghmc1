@@ -35,11 +35,13 @@ Department of Managed Health Care</Body>
 	<IsVisibleToEndUser>true</IsVisibleToEndUser>
 	<Subject>Provider Complaint/Inquiry - PCS-{item.Properties.GeneralInquiryNumber}</Subject>
 	<To>{item.Properties.ContactEMail}</To>
+	<BCCRole/>
 	<BuildingBlock>
 		<uri
 			id="005056A5-1B45-A1EB-A8B6-74DF3E20E320"
 		/>
 	</BuildingBlock>
+	<CCRole/>
 	<CustomEmailConfigurations/>
 	<DisplayName>
 		<TranslatableText
@@ -61,5 +63,6 @@ Department of Managed Health Care</Body>
 		</TranslatableText>
 	</DisplayName>
 	<Original/>
+	<ToRole/>
 	<TypeDefinition/>
 </EmailTemplate>

@@ -11,15 +11,20 @@
 	<CreationDate>2021-04-28T16:27:01.384</CreationDate>
 	<Notes/>
 	<ActionLogged>false</ActionLogged>
+	<ActionOnSingleItem>false</ActionOnSingleItem>
 	<ActionSignedByUser>false</ActionSignedByUser>
 	<AllowChangesFromAnotherEntity>0</AllowChangesFromAnotherEntity>
 	<BusinessProcessReference></BusinessProcessReference>
 	<BusinessProcessReferenceName></BusinessProcessReferenceName>
 	<ButtonVisibility></ButtonVisibility>
 	<CreateNewRuleManagerId>true</CreateNewRuleManagerId>
+	<CustomizeDimensionsOfRuleDialog>false</CustomizeDimensionsOfRuleDialog>
+	<CustomizeHeightOfRuleDialog></CustomizeHeightOfRuleDialog>
+	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
 	<Expression>item.qpid(005056A51B45A1EBA8B6A4801F0CA320.005056A51B45A1EBA6E5B72A4055E320.005056A51B45A1EBA6EED3A6D0386320)!=&quot;Phone&quot; &amp;&amp; (item.qpid(005056A51B45A1EBA8E6A98121EEE320.005056A51B45A1EBA9ADDB43615DE320) is null &amp;&amp; item.qpid(005056A51B45A1EBA8E6A98121EEE320.005056A51B45A1EBA9ADDB4361606320) is null &amp;&amp; (item.qpid(005056A51B45A1EBA8E6A98121EEE320.005056A51B45A1EBA9AC9E6EE9C5A320) is null || item.qpid(005056A51B45A1EBA8E6A98121EEE320.005056A51B45A1EBA9AC9E6EE9C32320) is null || item.qpid(005056A51B45A1EBA8E6A98121EEE320.005056A51B45A1EBA9AC9E6EE9BE2320) is null || item.qpid(005056A51B45A1EBA9AF3AB064306320.005056A51B45A1EBA9AE3654D625A320.005056A51B45A1EBA9AE3654D6252320) is null))</Expression>
+	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -64,11 +69,12 @@
 		</TranslatableText>
 	</RuleActionMessage>
 	<RuleActionTargetCategory/>
+	<RuleActionTargetCategoryPath/>
 	<RuleActionTargetProperty/>
 	<RuleEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-AA0E-7468E7BEE320">
 			<DocumentID>005056A5-1B45-A1EB-AA0E-7468E7BEA320</DocumentID>
 			<Name>ruleEntityExpression</Name>
@@ -395,7 +401,7 @@
 	<RuleSetSourceEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-AA0E-7468E7BDE320">
 			<DocumentID>005056A5-1B45-A1EB-AA0E-7468E7BDA320</DocumentID>
 			<Name>ruleSetSourceEntityExpression</Name>
@@ -428,7 +434,7 @@
 	<RuleSetTargetEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-AA0E-7468E7BE6320">
 			<DocumentID>005056A5-1B45-A1EB-AA0E-7468E7BE2320</DocumentID>
 			<Name>ruleSetTargetEntityExpression</Name>

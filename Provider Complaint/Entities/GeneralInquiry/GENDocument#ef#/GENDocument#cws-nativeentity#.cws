@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -468,7 +470,7 @@
 		</IdentityBuildingBlock>
 		<FileBuildingBlock
 			type="com.cordys.entity.buildingblocks.file.FileBuildingBlock"
-			typeVersion="484D7EEB-6ECA-A1E9-A786-D32D8AE2C341"
+			typeVersion="8C16454B-C921-A1ED-9377-9E052894B50B"
 			RuntimeDocumentID="005056A5-1B45-A1EB-AC81-5C4D76092322">
 			<DocumentID>005056A5-1B45-A1EB-AC81-5C4D7608E322</DocumentID>
 			<Name>File</Name>
@@ -492,6 +494,7 @@
 					<CreationDate>2021-05-11T03:18:02.468</CreationDate>
 					<Notes/>
 					<ConvertedMaxFileSize></ConvertedMaxFileSize>
+					<EnableESignature>false</EnableESignature>
 					<EnableUploadOnError>true</EnableUploadOnError>
 					<FileSizeUnit></FileSizeUnit>
 					<FileTypes>.doc,.docx,.pdf,.xls,.xlsx,.jpeg,.jpg,.bmp,.png,.txt,.ppt,.pptx,.png,.tiff,.mp4,.m4a,.mp3</FileTypes>
@@ -688,6 +691,66 @@
 					<Notes/>
 					<ActionDisplayName>deleteDocument</ActionDisplayName>
 					<ActionId>9890969C4603A1E8B6786AF08CEA775E</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4CDEFF2">
+					<DocumentID>9AAEB170-2B67-385E-A315-7D4A439EF622</DocumentID>
+					<Name>Edit</Name>
+					<Description>Edit</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:19.848</CreationDate>
+					<Notes/>
+					<ActionDisplayName>editDocument</ActionDisplayName>
+					<ActionId>3D47F2DB81F9454CB0674D804BA12EDA</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4CE2FF2">
+					<DocumentID>C73B6C4D-5730-3940-B24F-DB1B797C9525</DocumentID>
+					<Name>RenameDocument</Name>
+					<Description>RenameDocument</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:30.698</CreationDate>
+					<Notes/>
+					<ActionDisplayName>renameDocument</ActionDisplayName>
+					<ActionId>A4C3F04AEC1AA1ECB7FF1177EDAB0ED8</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4CE6FF2">
+					<DocumentID>2FB679E9-6AF6-3330-9C95-81EC943FC4A4</DocumentID>
+					<Name>SendForSignature</Name>
+					<Description>SendForSignature</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:35.568</CreationDate>
+					<Notes/>
+					<ActionDisplayName>sendForSignature</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375773DC747350B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4CEAFF2">
+					<DocumentID>C0A44FC8-ED46-353B-9B89-7B1DF2228140</DocumentID>
+					<Name>CancelSignatureRequest</Name>
+					<Description>CancelSignatureRequest</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:26.54</CreationDate>
+					<Notes/>
+					<ActionDisplayName>cancelSignatureRequest</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED937587A98E84B50B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4CEEFF2">
+					<DocumentID>CC949285-89F6-34D6-846C-B8015104F981</DocumentID>
+					<Name>GetSignatureStatus</Name>
+					<Description>GetSignatureStatus</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:22.01</CreationDate>
+					<Notes/>
+					<ActionDisplayName>getSignatureStatus</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375A10960C0F50B</ActionId>
 				</FileAction>
 			</OwnedActions>
 			<Properties>
@@ -982,6 +1045,7 @@
 		</FileBuildingBlock>
 		<TrackingBuildingBlock
 			type="com.cordys.entity.buildingblocks.tracking.TrackingBuildingBlock"
+			typeVersion="3879939F-3AE9-48DF-A070-A7056C85FB88"
 			RuntimeDocumentID="005056A5-1B45-A1EB-AC81-D8BAB87FE322">
 			<DocumentID>005056A5-1B45-A1EB-AC81-D8BAB87FA322</DocumentID>
 			<Name>Tracking</Name>
@@ -996,6 +1060,32 @@
 			</Entity>
 			<InlinedEntities/>
 			<Original/>
+			<OwnedActions>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4D16FF2">
+					<DocumentID>78AF08F2-F2C8-A1EE-BF84-B78BC4D12FF2</DocumentID>
+					<Name>MarkAsRead</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:21.378</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsRead</ActionDisplayName>
+					<ActionId>F53249C9B9774D49A052D16FBB9D7624</ActionId>
+				</TrackingAction>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4D1EFF2">
+					<DocumentID>78AF08F2-F2C8-A1EE-BF84-B78BC4D1AFF2</DocumentID>
+					<Name>MarkAsUnread</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:41.421</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsUnread</ActionDisplayName>
+					<ActionId>B3EC8D7188F94F4A90C73D7378BEF9A9</ActionId>
+				</TrackingAction>
+			</OwnedActions>
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
@@ -1275,10 +1365,65 @@
 						/>
 					</Target>
 				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4D0AFF2">
+					<DocumentID>22A09354-2428-3586-B652-51A01CAE2C78</DocumentID>
+					<Name>ReadBy</Name>
+					<Description>ReadBy</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:42.16</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>false</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="005056A5-1B45-A1EB-AC81-D8BAB87FA322"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties>
+						<uri
+							id="14CA500C-E2DB-3395-8C3D-34F48C3CD7ED"
+						/>
+					</ForeignKeyProperties>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B78BC4D0EFF2">
+							<DocumentID>14CA500C-E2DB-3395-8C3D-34F48C3CD7ED</DocumentID>
+							<Name>ReadBy_Id</Name>
+							<Description>ReadBy_Id</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2024-04-19T06:13:24.591</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="F8B156B4-FF8F-11E6-E6F1-BB7823D79319"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="F8B156E1-0371-11E6-E9CB-0FBF3334DBBF"
+						/>
+					</Target>
+				</Relationship>
 			</Relationships>
 			<Tracking>
 				<Tracking
 					type="com.cordys.entity.buildingblocks.tracking.Tracking"
+					typeVersion="EEA67FA8-049B-498D-A635-D0A9B48E2456"
 					RuntimeDocumentID="005056A5-1B45-A1EB-AC81-D8BAB87F6322">
 					<DocumentID>005056A5-1B45-A1EB-AC81-D8BAB87F2322</DocumentID>
 					<Name>Tracking</Name>
@@ -1287,6 +1432,7 @@
 					<CreationDate>2021-05-11T03:18:02.468</CreationDate>
 					<Notes/>
 					<ParentAlso>false</ParentAlso>
+					<ReadBy>false</ReadBy>
 					<BuildingBlock>
 						<uri
 							id="005056A5-1B45-A1EB-AC81-D8BAB87FA322"
@@ -1901,7 +2047,7 @@
 		</PropertyBuildingBlock>
 		<SecurityBuildingBlock
 			type="com.cordys.entity.buildingblocks.security.SecurityBuildingBlock"
-			typeVersion="E6399B50-B4CA-4A3B-B58F-BD56B1BDFEA2"
+			typeVersion="6294039D-E23A-48B1-8047-1C7EFC55AF03"
 			RuntimeDocumentID="27a39cd4-dfa6-3f12-ab14-cedacf2fa7ce">
 			<DocumentID>005056A5-1B45-A1EB-AFF3-A5C592C36324</DocumentID>
 			<Name>Security</Name>
@@ -3887,7 +4033,7 @@
 									<expression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-AFF3-D8600AFCA324">
 											<DocumentID>005056A5-1B45-A1EB-AFF3-D8600AFC6324</DocumentID>
 											<Name>IfOwner</Name>

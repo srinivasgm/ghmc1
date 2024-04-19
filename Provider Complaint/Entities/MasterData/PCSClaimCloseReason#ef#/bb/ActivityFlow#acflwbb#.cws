@@ -2,7 +2,7 @@
 <ActivityflowBuildingBlock
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
-	typeVersion="37202967-F137-46EB-9041-3D476F5D6342"
+	typeVersion="193b483e-a3b1-11ec-b909-0242ac120002"
 	RuntimeDocumentID="005056A5-1B45-A1EB-BBEC-C07DBD8DE324">
 	<DocumentID>005056A5-1B45-A1EB-BBEC-C07DBD8DA324</DocumentID>
 	<Name>ActivityFlow</Name>
@@ -18,7 +18,18 @@
 	</Entity>
 	<InboxTask/>
 	<InlinedEntities/>
-	<OwnedActions/>
+	<OwnedActions>
+		<ActivityflowStaticAction
+			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
+			RuntimeDocumentID="63D668B1FD884D818B6864637E3256B6">
+			<DocumentID>8C38EFB2-032C-3EF8-9BCF-28E3AE8F84F4</DocumentID>
+			<Name>Initiateactivityflow</Name>
+			<Description>Initiateactivityflow</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-04-19T06:13:19.852</CreationDate>
+			<Notes/>
+		</ActivityflowStaticAction>
+	</OwnedActions>
 	<Properties/>
 	<Relationships/>
 </ActivityflowBuildingBlock>

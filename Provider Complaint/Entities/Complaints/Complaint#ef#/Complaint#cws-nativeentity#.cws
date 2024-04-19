@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -3329,7 +3331,7 @@
 							<ValuesDefinition>
 								<DynamicTextEnumSet
 									type="com.cordys.entity.core.typesystem.primitives.dynamicenum.DynamicTextEnumSet"
-									typeVersion="7BEF1B00-6957-4DE4-AFA4-8E3CE755D36E"
+									typeVersion="9059AC43-C4E8-47C1-B5EA-FF4BB6EB9463"
 									RuntimeDocumentID="005056A5-1B45-A1EB-B62E-573DB8936324">
 									<DocumentID>005056A5-1B45-A1EB-B62E-573DB8932324</DocumentID>
 									<Name>Untitled DynamicTextEnumSet</Name>
@@ -3339,6 +3341,7 @@
 									<Notes/>
 									<CacheDuration>5</CacheDuration>
 									<CacheDurationUnit>seconds</CacheDurationUnit>
+									<ContextProperties/>
 									<DisplayNameProvider>
 										<BPMEnumProvider
 											type="com.cordys.bpm.provider.BPMEnumProvider"
@@ -5012,6 +5015,7 @@
 		</RelationshipBuildingBlock>
 		<TrackingBuildingBlock
 			type="com.cordys.entity.buildingblocks.tracking.TrackingBuildingBlock"
+			typeVersion="3879939F-3AE9-48DF-A070-A7056C85FB88"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B1EB-06FA2639A324">
 			<DocumentID>005056A5-1B45-A1EB-B1EB-06FA26396324</DocumentID>
 			<Name>Tracking</Name>
@@ -5026,6 +5030,32 @@
 			</Entity>
 			<InlinedEntities/>
 			<Original/>
+			<OwnedActions>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-C2780D316FF2">
+					<DocumentID>78AF08F2-F2C8-A1EE-BF84-C2780D312FF2</DocumentID>
+					<Name>MarkAsRead</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:20.661</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsRead</ActionDisplayName>
+					<ActionId>F53249C9B9774D49A052D16FBB9D7624</ActionId>
+				</TrackingAction>
+				<TrackingAction
+					type="com.cordys.entity.buildingblocks.tracking.TrackingAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-C2780D31EFF2">
+					<DocumentID>78AF08F2-F2C8-A1EE-BF84-C2780D31AFF2</DocumentID>
+					<Name>MarkAsUnread</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:30.661</CreationDate>
+					<Notes/>
+					<ActionDisplayName>MarkAsUnread</ActionDisplayName>
+					<ActionId>B3EC8D7188F94F4A90C73D7378BEF9A9</ActionId>
+				</TrackingAction>
+			</OwnedActions>
 			<Properties>
 				<Property
 					type="com.cordys.entity.core.structure.property.Property"
@@ -5305,10 +5335,65 @@
 						/>
 					</Target>
 				</Relationship>
+				<Relationship
+					type="com.cordys.entity.core.structure.relationship.Relationship"
+					typeVersion="17A97EEB-DDB4-477D-8C9F-C9238015F2A2"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-C2780D30AFF2">
+					<DocumentID>7116FFEC-60F4-3FE5-8D5D-9F83799F357D</DocumentID>
+					<Name>ReadBy</Name>
+					<Description>ReadBy</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:43.641</CreationDate>
+					<Notes/>
+					<ExposeForReuse>false</ExposeForReuse>
+					<HasFK>false</HasFK>
+					<MaxCardinality>-1</MaxCardinality>
+					<MinCardinality>0</MinCardinality>
+					<OwnsJoinTable>true</OwnsJoinTable>
+					<RelationshipType>ToPeer</RelationshipType>
+					<RestrictDeleteTarget>false</RestrictDeleteTarget>
+					<BuildingBlock>
+						<uri
+							id="005056A5-1B45-A1EB-B1EB-06FA26396324"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<ForeignKeyProperties>
+						<uri
+							id="E7404F67-F8A5-3B3F-9020-2158D316BE65"
+						/>
+					</ForeignKeyProperties>
+					<Inverse/>
+					<Original/>
+					<ReferringProperties>
+						<ReferringProperty
+							type="com.cordys.entity.core.structure.relationship.ReferringProperty"
+							RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-C2780D30EFF2">
+							<DocumentID>E7404F67-F8A5-3B3F-9020-2158D316BE65</DocumentID>
+							<Name>ReadBy_Id</Name>
+							<Description>ReadBy_Id</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2024-04-19T06:13:39.871</CreationDate>
+							<Notes/>
+							<NameIsExternallyManaged>false</NameIsExternallyManaged>
+							<TargetProperty>
+								<uri
+									id="F8B156B4-FF8F-11E6-E6F1-BB7823D79319"
+								/>
+							</TargetProperty>
+						</ReferringProperty>
+					</ReferringProperties>
+					<Target>
+						<uri
+							id="F8B156E1-0371-11E6-E9CB-0FBF3334DBBF"
+						/>
+					</Target>
+				</Relationship>
 			</Relationships>
 			<Tracking>
 				<Tracking
 					type="com.cordys.entity.buildingblocks.tracking.Tracking"
+					typeVersion="EEA67FA8-049B-498D-A635-D0A9B48E2456"
 					RuntimeDocumentID="005056A5-1B45-A1EB-B1EB-06FA26392324">
 					<DocumentID>005056A5-1B45-A1EB-B1EB-06FA2638E324</DocumentID>
 					<Name>Tracking</Name>
@@ -5317,6 +5402,7 @@
 					<CreationDate>2021-06-07T16:26:52.452</CreationDate>
 					<Notes/>
 					<ParentAlso>false</ParentAlso>
+					<ReadBy>false</ReadBy>
 					<BuildingBlock>
 						<uri
 							id="005056A5-1B45-A1EB-B1EB-06FA26396324"
@@ -5327,7 +5413,7 @@
 		</TrackingBuildingBlock>
 		<TaskListBuildingBlock
 			type="com.cordys.entity.buildingblocks.tasklist.TaskListBuildingBlock"
-			typeVersion="1F66C65E-A463-4FB6-B249-3C7DE6293509"
+			typeVersion="FB748954-FAA0-4215-8848-E4A76DBEEC65"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B222-9478A61AA324">
 			<DocumentID>005056A5-1B45-A1EB-B222-9478A61A6324</DocumentID>
 			<Name>TaskList</Name>
@@ -5480,7 +5566,7 @@
 		</TitleBuildingBlock>
 		<EmailBuildingBlock
 			type="com.cordys.entity.buildingblocks.email.EmailBuildingBlock"
-			typeVersion="dff266a5-3514-446a-bce9-e1ee24736978"
+			typeVersion="CC3B6D68-6A37-4A70-B79F-D3F9-13CB329E"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B344-CB31287FE324">
 			<DocumentID>005056A5-1B45-A1EB-B344-CB31287FA324</DocumentID>
 			<Name>Email</Name>
@@ -5491,7 +5577,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="70B3859A-6661-405A-915F-79AC52C92B04"
+					typeVersion="B59CF123-2383-49B2-8C3E-D8F323D8F3F8"
 					RuntimeDocumentID="005056A5-1B45-A1EB-B344-CB31287F6324">
 					<DocumentID>005056A5-1B45-A1EB-B344-CB31287F2324</DocumentID>
 					<Name>Email</Name>
@@ -5510,6 +5596,7 @@
 					<EmailConfigurationName></EmailConfigurationName>
 					<EmailMessageFileType>eml</EmailMessageFileType>
 					<SaveLocationOfEmailMessage>Emails/Messages</SaveLocationOfEmailMessage>
+					<UseLoggedInUserInFromAddress>false</UseLoggedInUserInFromAddress>
 					<BuildingBlock>
 						<uri
 							id="005056A5-1B45-A1EB-B344-CB31287FA324"
@@ -5521,11 +5608,18 @@
 					<ContentFolderLocationForIncomingAttachment/>
 					<ContentFolderLocationForSaveEmailTo/>
 					<DisplayName/>
+					<DraftOrForwardEmailAttachmentPreviewLayout/>
+					<EmailAttachmentPreviewLayout/>
 					<EmailConfig>
 						<uri
 							id="005056A5-1B45-A1EB-B344-CB3128816324"
 						/>
 					</EmailConfig>
+					<EmailContentLayout>
+						<uri
+							id="005056A5-1B45-A1EB-B344-DA85E3C36324"
+						/>
+					</EmailContentLayout>
 				</Email>
 			</Email>
 			<Entity>
@@ -5615,6 +5709,7 @@
 					<HistoryLogReferenceName>Complaint_HistoryLog</HistoryLogReferenceName>
 					<OnDeleteAction>0</OnDeleteAction>
 					<RecordAccessEvents>false</RecordAccessEvents>
+					<ShowCumulativeAudit>false</ShowCumulativeAudit>
 					<DisplayName/>
 					<HistoryLog>
 						<uri

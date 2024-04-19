@@ -69,7 +69,7 @@
 			<OwnedExpression>
 				<EntityExpression
 					type="com.cordys.entity.services.entityexpression.EntityExpression"
-					typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+					typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 					RuntimeDocumentID="005056A5-1B45-A1EB-B639-5352B821E324">
 					<DocumentID>005056A5-1B45-A1EB-B639-5352B821A324</DocumentID>
 					<Name>UntitledEntityExpression</Name>

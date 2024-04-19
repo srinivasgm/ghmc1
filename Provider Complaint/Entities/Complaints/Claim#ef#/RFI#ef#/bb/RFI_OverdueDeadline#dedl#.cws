@@ -9,6 +9,7 @@
 	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
 	<CreationDate>2021-07-05T05:35:14.456</CreationDate>
 	<Notes/>
+	<DueDateType></DueDateType>
 	<Duration></Duration>
 	<LifeCycleState>005056A5-1B45-A1EB-B60A-C4FF9263E324</LifeCycleState>
 	<StartPolicyType>stateEntry</StartPolicyType>
@@ -22,7 +23,7 @@
 	<DeadlineDuration>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B754-A15B4E50E324">
 			<DocumentID>005056A5-1B45-A1EB-B754-A15B4E50A324</DocumentID>
 			<Name>DeadlineDurationExpresion</Name>
@@ -127,7 +128,7 @@
 	<StartCondition>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B754-9D4652D4E324">
 			<DocumentID>005056A5-1B45-A1EB-B754-A15B4E51A324</DocumentID>
 			<Name>StartConditionExpression</Name>
@@ -160,7 +161,7 @@
 	<StopCondition>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B754-A15B4E516324">
 			<DocumentID>005056A5-1B45-A1EB-B754-A15B4E512324</DocumentID>
 			<Name>StopConditionExpression</Name>

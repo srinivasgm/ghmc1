@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>true</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -48,7 +50,7 @@
 	<OwnedBuildingBlocks>
 		<SecurityBuildingBlock
 			type="com.cordys.entity.buildingblocks.security.SecurityBuildingBlock"
-			typeVersion="E6399B50-B4CA-4A3B-B58F-BD56B1BDFEA2"
+			typeVersion="6294039D-E23A-48B1-8047-1C7EFC55AF03"
 			RuntimeDocumentID="e2d7e975-c1d7-372f-9de8-63526249c5f4">
 			<DocumentID>005056A5-1B45-A1EB-B5F7-9F2C0C6EA324</DocumentID>
 			<Name>Security</Name>

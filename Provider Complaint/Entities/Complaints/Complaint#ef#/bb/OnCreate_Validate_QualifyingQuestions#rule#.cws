@@ -11,15 +11,20 @@
 	<CreationDate>2021-06-07T18:50:54.525</CreationDate>
 	<Notes/>
 	<ActionLogged>false</ActionLogged>
+	<ActionOnSingleItem>false</ActionOnSingleItem>
 	<ActionSignedByUser>false</ActionSignedByUser>
 	<AllowChangesFromAnotherEntity>0</AllowChangesFromAnotherEntity>
 	<BusinessProcessReference></BusinessProcessReference>
 	<BusinessProcessReferenceName></BusinessProcessReferenceName>
 	<ButtonVisibility></ButtonVisibility>
 	<CreateNewRuleManagerId>true</CreateNewRuleManagerId>
+	<CustomizeDimensionsOfRuleDialog>false</CustomizeDimensionsOfRuleDialog>
+	<CustomizeHeightOfRuleDialog></CustomizeHeightOfRuleDialog>
+	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
 	<Expression>item.qpid(005056A51B45A1EBB1206401C135E324.005056A51B45A1EBB15EF1D1F1AC6324) is null || item.qpid(005056A51B45A1EBB1206401C135E324.005056A51B45A1EBB15EF1D1F1AC6324)==&quot;No&quot; || (item.qpid(005056A51B45A1EBB1206401C135E324.005056A51B45A1EBB15EF1D1F1AC6324)==&quot;Yes&quot; &amp;&amp; item.qpid(005056A51B45A1EBB1206401C135E324.005056A51B45A1EBB161269708E62324)==&quot;No&quot; &amp;&amp; item.qpid(005056A51B45A1EBB1206401C135E324.005056A51B45A1EBB28D765541886324)==&quot;No&quot;)</Expression>
+	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -64,11 +69,12 @@
 		</TranslatableText>
 	</RuleActionMessage>
 	<RuleActionTargetCategory/>
+	<RuleActionTargetCategoryPath/>
 	<RuleActionTargetProperty/>
 	<RuleEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B1EC-FE2A6366E324">
 			<DocumentID>005056A5-1B45-A1EB-B1EC-FE2A6366A324</DocumentID>
 			<Name>ruleEntityExpression</Name>
@@ -289,7 +295,7 @@
 	<RuleSetSourceEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B1EC-FE2A6365E324">
 			<DocumentID>005056A5-1B45-A1EB-B1EC-FE2A6365A324</DocumentID>
 			<Name>ruleSetSourceEntityExpression</Name>
@@ -322,7 +328,7 @@
 	<RuleSetTargetEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="005056A5-1B45-A1EB-B1EC-FE2A63666324">
 			<DocumentID>005056A5-1B45-A1EB-B1EC-FE2A63662324</DocumentID>
 			<Name>ruleSetTargetEntityExpression</Name>

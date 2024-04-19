@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -1206,7 +1208,7 @@
 		</ContentTemplateBuildingBlock>
 		<FileBuildingBlock
 			type="com.cordys.entity.buildingblocks.file.FileBuildingBlock"
-			typeVersion="484D7EEB-6ECA-A1E9-A786-D32D8AE2C341"
+			typeVersion="8C16454B-C921-A1ED-9377-9E052894B50B"
 			RuntimeDocumentID="005056A5-1B45-A1EB-A8B6-C819E1F2E320">
 			<DocumentID>005056A5-1B45-A1EB-A8B6-C819E1F2A320</DocumentID>
 			<Name>File</Name>
@@ -1230,6 +1232,7 @@
 					<CreationDate>2021-04-21T19:53:22.26</CreationDate>
 					<Notes/>
 					<ConvertedMaxFileSize>30</ConvertedMaxFileSize>
+					<EnableESignature>false</EnableESignature>
 					<EnableUploadOnError>true</EnableUploadOnError>
 					<FileSizeUnit>1048576</FileSizeUnit>
 					<FileTypes>.aif,.cda,.mid,.mp3,.mpa,.ogg,.wav,.wma,.wpl,.7z,.arj,.deb,.pkg,.rar,.rpm,.z,.zip,.bin,.dmg,.iso,.toast,.vcd,.csv,.dat,.db,.dbf,.log,.sav,.sql,.tar,.xml,.apk,.bat,.cgi,.pl,.com,.exe,.gadget,.jar,.py,.wsf,.fnt,.fon,.otf,.ttf,.ai,.bmp,.gif,.ico,.jpeg,.png,.ps,.psd,.svg,.tif,.asp,.aspx,.cer,.cfm,.htm,.html,.js,.jsp,.part,.php,.rss,.xhtml,.key,.odp,.pps,.ppt,.pptx,.c,.class,.cpp,.cs,.h,.java,.sh,.swift,.vb,.ods,.xlr,.xls,.xlsx,.bak,.cab,.cfg,.cpl,.cur,.dll,.dmp,.drv,.icns,.ini,.lnk,.msi,.sys,.tmp,.3g2,.3gp,.avi,.flv,.h264,.m4v,.mkv,.mov,.mp4,.mpg,.mpeg,.rm,.swf,.vob,.wmv,.doc,.docx,.odt,.pdf,.rtf,.tex,.txt,.wks,.wps,.wpd</FileTypes>
@@ -1444,6 +1447,66 @@
 					<Notes/>
 					<ActionDisplayName>deleteDocument</ActionDisplayName>
 					<ActionId>9890969C4603A1E8B6786AF08CEA775E</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B5FA278D6FF2">
+					<DocumentID>45C2DE63-C455-35A5-A886-426537B7F644</DocumentID>
+					<Name>Edit</Name>
+					<Description>Edit</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:35.651</CreationDate>
+					<Notes/>
+					<ActionDisplayName>editDocument</ActionDisplayName>
+					<ActionId>3D47F2DB81F9454CB0674D804BA12EDA</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B5FA278DAFF2">
+					<DocumentID>7336B8AF-4276-34EE-AB3E-A7BDFAB83DE3</DocumentID>
+					<Name>RenameDocument</Name>
+					<Description>RenameDocument</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:18.341</CreationDate>
+					<Notes/>
+					<ActionDisplayName>renameDocument</ActionDisplayName>
+					<ActionId>A4C3F04AEC1AA1ECB7FF1177EDAB0ED8</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B5FA278DEFF2">
+					<DocumentID>BD571B4C-BF2E-3E82-ACBF-8255F06F0F38</DocumentID>
+					<Name>SendForSignature</Name>
+					<Description>SendForSignature</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:19.122</CreationDate>
+					<Notes/>
+					<ActionDisplayName>sendForSignature</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375773DC747350B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B5FA278E2FF2">
+					<DocumentID>27C1E903-A392-3335-93AD-087BA621C3D6</DocumentID>
+					<Name>CancelSignatureRequest</Name>
+					<Description>CancelSignatureRequest</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:17.295</CreationDate>
+					<Notes/>
+					<ActionDisplayName>cancelSignatureRequest</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED937587A98E84B50B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="78AF08F2-F2C8-A1EE-BF84-B5FA278E6FF2">
+					<DocumentID>1E0982BC-97A3-3BD4-B8C7-1AFD2BCDC3BF</DocumentID>
+					<Name>GetSignatureStatus</Name>
+					<Description>GetSignatureStatus</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-04-19T06:13:41.396</CreationDate>
+					<Notes/>
+					<ActionDisplayName>getSignatureStatus</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375A10960C0F50B</ActionId>
 				</FileAction>
 			</OwnedActions>
 			<Properties>

@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -47,7 +49,7 @@
 	<OwnedBuildingBlocks>
 		<SecurityBuildingBlock
 			type="com.cordys.entity.buildingblocks.security.SecurityBuildingBlock"
-			typeVersion="E6399B50-B4CA-4A3B-B58F-BD56B1BDFEA2"
+			typeVersion="6294039D-E23A-48B1-8047-1C7EFC55AF03"
 			RuntimeDocumentID="030621a6-72ea-3f18-b8f2-94c88445d3dc">
 			<DocumentID>005056A5-1B45-A1EB-B1F0-C1AF181AA324</DocumentID>
 			<Name>Security</Name>
@@ -2537,7 +2539,7 @@
 									<expression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-BCE3-1CA730D5E324">
 											<DocumentID>005056A5-1B45-A1EB-BCE3-1CA730D5A324</DocumentID>
 											<Name>AllowForItemCreate</Name>
@@ -2613,7 +2615,7 @@
 									<expression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="005056A5-1B45-A1EB-BCE3-1CA730D12324">
 											<DocumentID>005056A5-1B45-A1EB-BCE3-1CA730D0E324</DocumentID>
 											<Name>AllowUpdateForCreator</Name>
