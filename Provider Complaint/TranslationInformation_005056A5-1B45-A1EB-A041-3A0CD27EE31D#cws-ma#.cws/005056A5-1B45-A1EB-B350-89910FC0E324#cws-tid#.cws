@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B350-89910FC12324">
+	<DocumentID>005056A5-1B45-A1EB-B350-89910FC0E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B350-89910FC0E324</Name>
+	<Description>GetClaim_ClaimDocument_BI</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-14T19:25:44.559</CreationDate>
+	<Notes/>
+	<DefaultText>GetClaim_ClaimDocument_BI</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B350-89910FC16324"
+		/>
+	</Translations>
+</TextIdentifier>

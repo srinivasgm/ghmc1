@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2A6-74A3F09E6324">
+	<DocumentID>005056A5-1B45-A1EB-B2A6-74A3F09E2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2A6-74A3F09E2324</Name>
+	<Description>If this complaint does not involve an RBO/Capitated Provider, proceed to the next section. If your complaint involves an RBO/Capitated Provider, then please identify it.</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-11T09:56:42.454</CreationDate>
+	<Notes/>
+	<Text>If this complaint does not involve an RBO/Capitated Provider, proceed to the next section. If your complaint involves an RBO/Capitated Provider, then please identify it.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B2A6-74A3F09DA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

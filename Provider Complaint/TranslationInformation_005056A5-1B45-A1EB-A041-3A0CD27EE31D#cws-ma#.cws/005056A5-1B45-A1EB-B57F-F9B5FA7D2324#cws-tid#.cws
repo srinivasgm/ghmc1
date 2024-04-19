@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B57F-F9B5FA7D6324">
+	<DocumentID>005056A5-1B45-A1EB-B57F-F9B5FA7D2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B57F-F9B5FA7D2324</Name>
+	<Description>RichText</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-25T21:56:07.564</CreationDate>
+	<Notes/>
+	<DefaultText>RichText</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B57F-F9B5FA7DA324"
+		/>
+	</Translations>
+</TextIdentifier>

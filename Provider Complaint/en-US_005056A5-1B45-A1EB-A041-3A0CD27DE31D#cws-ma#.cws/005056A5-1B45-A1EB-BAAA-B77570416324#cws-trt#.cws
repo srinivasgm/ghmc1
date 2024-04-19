@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAAA-B7757041A324">
+	<DocumentID>005056A5-1B45-A1EB-BAAA-B77570416324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAAA-B77570416324</Name>
+	<Description>Claim - PayorResponse RFI Form</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T05:09:03.654</CreationDate>
+	<Notes/>
+	<Text>Claim - PayorResponse RFI Form</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAAA-B7757040E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AE38-DC001F22A324">
+	<DocumentID>005056A5-1B45-A1EB-AE38-DC001F226324</DocumentID>
+	<Name>005056A5-1B45-A1EB-AE38-DC001F226324</Name>
+	<Description>Please enter a valid number for the number of days.</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-19T20:50:14.658</CreationDate>
+	<Notes/>
+	<Text>Please enter a valid number for the number of days.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AE38-DC001F21E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

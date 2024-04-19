@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B75D-17B719BDE324">
+	<DocumentID>005056A5-1B45-A1EB-B75D-17B719BDA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B75D-17B719BDA324</Name>
+	<Description>Is Complaint level Document uploaded?</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-05T09:44:35.867</CreationDate>
+	<Notes/>
+	<Text>Is Complaint level Document uploaded?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B75D-17B719BD2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

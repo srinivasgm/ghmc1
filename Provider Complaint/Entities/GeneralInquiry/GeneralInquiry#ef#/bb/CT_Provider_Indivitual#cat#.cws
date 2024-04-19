@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A8E9-0A2A75862320">
+	<DocumentID>005056A5-1B45-A1EB-A8E9-0A2A7585E320</DocumentID>
+	<Name>CT_Provider_Indivitual</Name>
+	<Description>CT_Provider_Indivitual</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-22T19:57:54.665</CreationDate>
+	<Notes/>
+	<referenceCount>2</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-A8B6-74DF3E216320"
+		/>
+	</BuildingBlock>
+</Category>

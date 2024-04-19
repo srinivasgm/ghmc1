@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA71-48E2DD50A320">
+	<DocumentID>005056A5-1B45-A1EB-AA71-48E2DD506320</DocumentID>
+	<Name>005056A5-1B45-A1EB-AA71-48E2DD506320</Name>
+	<Description>803 Redirecting Provider to the DMHC's Consumer Process</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T15:05:56.623</CreationDate>
+	<Notes/>
+	<Text>803 Redirecting Provider to the DMHC's Consumer Process</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AA71-48E2DD4FE320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBD9-C0F11704E324">
+	<DocumentID>005056A5-1B45-A1EB-BBD9-C0F11704A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBD9-C0F11704A324</Name>
+	<Description>Provider File an Appeal?</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T06:03:00.759</CreationDate>
+	<Notes/>
+	<DefaultText>Provider File an Appeal?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BBD9-C0F117052324"
+		/>
+	</Translations>
+</TextIdentifier>

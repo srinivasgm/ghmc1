@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B1F7-3679CFA12324">
+	<DocumentID>005056A5-1B45-A1EB-B1F7-3679CFA0E324</DocumentID>
+	<Name>CT_QualifyingQuestions_Group1</Name>
+	<Description>CT_QualifyingQuestions_Group1</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-07T22:20:05.657</CreationDate>
+	<Notes/>
+	<referenceCount>8</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C142E324"
+		/>
+	</BuildingBlock>
+</Category>

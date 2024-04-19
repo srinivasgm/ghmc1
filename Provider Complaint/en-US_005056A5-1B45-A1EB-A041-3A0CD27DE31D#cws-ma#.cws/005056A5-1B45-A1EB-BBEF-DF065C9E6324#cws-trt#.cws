@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBEF-DF065C9EA324">
+	<DocumentID>005056A5-1B45-A1EB-BBEF-DF065C9E6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBEF-DF065C9E6324</Name>
+	<Description>SubCategory Already Exists</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-28T16:20:50.791</CreationDate>
+	<Notes/>
+	<Text>SubCategory Already Exists</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBEF-DF065C9DE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

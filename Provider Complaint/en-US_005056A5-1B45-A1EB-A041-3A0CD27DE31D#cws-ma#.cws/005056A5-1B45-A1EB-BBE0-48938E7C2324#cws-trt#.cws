@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBE0-48938E7C6324">
+	<DocumentID>005056A5-1B45-A1EB-BBE0-48938E7C2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBE0-48938E7C2324</Name>
+	<Description>FindClaimsInRHPIResponseState For Two Days</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T08:55:35.318</CreationDate>
+	<Notes/>
+	<Text>FindClaimsInRHPIResponseState For Two Days</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBE0-48938E7BA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

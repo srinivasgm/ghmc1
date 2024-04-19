@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D870874E321">
+	<DocumentID>005056A5-1B45-A1EB-ABD2-4D870874A321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABD2-4D870874A321</Name>
+	<Description>PCS PDR Submitted To History Log</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:32:27.927</CreationDate>
+	<Notes/>
+	<Text>PCS PDR Submitted To History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABD2-4D8708742321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

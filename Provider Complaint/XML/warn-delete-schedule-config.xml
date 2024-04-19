@@ -1,0 +1,8 @@
+<schedule-config>
+<delete-interval>
+<value>30</value>
+</delete-interval>
+<warn-interval>
+<value>5</value>
+</warn-interval>
+</schedule-config>

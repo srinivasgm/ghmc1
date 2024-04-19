@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-9DE30CBEE324">
+	<DocumentID>005056A5-1B45-A1EB-BBB6-9DE30CBEA324</DocumentID>
+	<Name>JurisdictionalAgency</Name>
+	<Description>JurisdictionalAgency</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T13:13:35.035</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-BA47-111426A5E324"
+		/>
+	</BuildingBlock>
+</Category>

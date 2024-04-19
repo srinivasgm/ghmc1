@@ -1,0 +1,52 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B344-DC18BCB9A324">
+	<DocumentID>005056A5-1B45-A1EB-B344-DC18BCB96324</DocumentID>
+	<Name>Complaint_SendWarningMailToProvider</Name>
+	<Description>Complaint_SendWarningMailToProvider</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-14T13:30:00.048</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hello Provider,&lt;br /&gt;
+&lt;br /&gt;
+You have not worked on this complaint since long. So as part of Archival Process, your complaint would get Deleted in couple of days. Please work on the Complaint if you still want to log this to DMHC. Please ignore this mail if you are okay to permanently delete the complaint&lt;br /&gt;
+&lt;br /&gt;
+Thanks,&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>false</IsVisibleToEndUser>
+	<Subject>Warning Mail for Complaint # {item.Properties.ComplaintNumber} </Subject>
+	<To></To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C1426324"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B344-DC18BCB62324">
+			<DocumentID>005056A5-1B45-A1EB-B344-DC18BCB5E324</DocumentID>
+			<Name>005056A5-1B45-A1EB-B344-DC18BCB5E324</Name>
+			<Description>005056A5-1B45-A1EB-B344-DC18BCB5E324</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-14T13:30:00.033</CreationDate>
+			<Notes/>
+			<DeveloperText>Send Warning Mail to Provider</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-B344-DC18BCB66324"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

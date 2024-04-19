@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A84E-14DA7EB9E320">
+	<DocumentID>005056A5-1B45-A1EB-A84E-14DA7EB9A320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A84E-14DA7EB9A320</Name>
+	<Description>RBO List</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-19T18:11:35.754</CreationDate>
+	<Notes/>
+	<DefaultText>RBO List</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A5CA-C0B76D6B2320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A84E-14DA7EBA2320"
+		/>
+	</Translations>
+</TextIdentifier>

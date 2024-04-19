@@ -1,0 +1,29 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25A-65FA0078A324">
+	<DocumentID>005056A5-1B45-A1EB-B25A-65FA00786324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25A-65FA00786324</Name>
+	<Description>005056A5-1B45-A1EB-B25A-65FA00786324</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T21:38:22.903</CreationDate>
+	<Notes/>
+	<Text>I think this is similar to waiting for an RFI, but mostly will handled by the Claim lifecycle as they are processed individually
+
+Do we need a Timeout on no response from payor - yes, need warnings before 5, 10, and 2 days
+
+Need a UX for payor to access RHPI and respond on each
+
+Need a UX for payor to request an extension (with flow for approve/decline), show as a button on each claim</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25A-65FA0077E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

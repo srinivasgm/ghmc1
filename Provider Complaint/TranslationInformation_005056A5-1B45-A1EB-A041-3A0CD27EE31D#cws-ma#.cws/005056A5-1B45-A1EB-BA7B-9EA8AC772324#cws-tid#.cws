@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA7B-9EA8AC776324">
+	<DocumentID>005056A5-1B45-A1EB-BA7B-9EA8AC772324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA7B-9EA8AC772324</Name>
+	<Description>8. Payment Information</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-21T07:55:04.042</CreationDate>
+	<Notes/>
+	<DefaultText>8. Payment Information</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BA7B-9EA8AC77A324"
+		/>
+	</Translations>
+</TextIdentifier>

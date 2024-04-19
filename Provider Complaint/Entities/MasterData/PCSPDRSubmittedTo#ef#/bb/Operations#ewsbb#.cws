@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D87087A2321">
+	<DocumentID>005056A5-1B45-A1EB-ABD2-4D870879E321</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:39:28.035</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D8708796321">
+			<DocumentID>005056A5-1B45-A1EB-ABD2-4D8708792321</DocumentID>
+			<Name>CreateUntitled_Entity</Name>
+			<Description>Create Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-05-07T15:39:28.051</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-ABD2-21F9970FA321"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-ABD2-21F9970FA321"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D870878E321">
+			<DocumentID>005056A5-1B45-A1EB-ABD2-4D870878A321</DocumentID>
+			<Name>ReadUntitled_Entity</Name>
+			<Description>Read Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-05-07T15:39:28.035</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-ABD2-21F9970FA321"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D8708786321">
+			<DocumentID>005056A5-1B45-A1EB-ABD2-4D8708782321</DocumentID>
+			<Name>UpdateUntitled_Entity</Name>
+			<Description>Update Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-05-07T15:39:28.051</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-ABD2-21F9970FA321"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A750-9399D6AF6320">
+	<DocumentID>005056A5-1B45-A1EB-A750-9399D6AF2320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A750-9399D6AF2320</Name>
+	<Description>HP Alias</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-14T16:56:31.999</CreationDate>
+	<Notes/>
+	<Text>HP Alias</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A750-9399D6AEA320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

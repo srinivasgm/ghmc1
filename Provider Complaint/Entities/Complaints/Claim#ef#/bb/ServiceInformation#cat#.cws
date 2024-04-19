@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B288-F374789EA324">
+	<DocumentID>005056A5-1B45-A1EB-B288-F374789E6324</DocumentID>
+	<Name>ServiceInformation</Name>
+	<Description>ServiceInformation</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-10T20:27:07.48</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-FA36F6FF6324"
+		/>
+	</BuildingBlock>
+</Category>

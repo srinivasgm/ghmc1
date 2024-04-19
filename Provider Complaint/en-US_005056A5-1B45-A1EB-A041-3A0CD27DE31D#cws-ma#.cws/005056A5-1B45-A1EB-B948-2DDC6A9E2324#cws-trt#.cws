@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B948-2DDC6A9E6324">
+	<DocumentID>005056A5-1B45-A1EB-B948-2DDC6A9E2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B948-2DDC6A9E2324</Name>
+	<Description>The Documents can be uploaded once you click Create.</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-15T04:08:20.588</CreationDate>
+	<Notes/>
+	<Text>The Documents can be uploaded once you click Create.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B948-2DDC6A9DA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

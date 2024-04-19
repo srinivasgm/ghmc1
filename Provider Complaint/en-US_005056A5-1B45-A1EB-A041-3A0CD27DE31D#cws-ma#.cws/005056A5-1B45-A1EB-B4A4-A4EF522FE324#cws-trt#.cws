@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B4A4-A4EF52302324">
+	<DocumentID>005056A5-1B45-A1EB-B4A4-A4EF522FE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B4A4-A4EF522FE324</Name>
+	<Description>RFI Overdue</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-21T13:16:26.847</CreationDate>
+	<Notes/>
+	<Text>RFI Overdue</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B4A4-A4EF522F6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

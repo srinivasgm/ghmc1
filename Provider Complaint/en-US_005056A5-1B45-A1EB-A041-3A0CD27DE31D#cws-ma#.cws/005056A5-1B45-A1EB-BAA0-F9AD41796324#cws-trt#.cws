@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAA0-F9AD4179A324">
+	<DocumentID>005056A5-1B45-A1EB-BAA0-F9AD41796324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAA0-F9AD41796324</Name>
+	<Description>All RFIs</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-07-22T00:30:07.885</CreationDate>
+	<Notes/>
+	<Text>All RFIs</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAA0-F9AD4178E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AC30-957E4C372321">
+	<DocumentID>005056A5-1B45-A1EB-AC30-957E4C36E321</DocumentID>
+	<Name>005056A5-1B45-A1EB-AC30-957E4C36E321</Name>
+	<Description>Email Communication</Description>
+	<CreatedBy>Pandrangi,Nagaraja@opentext</CreatedBy>
+	<CreationDate>2021-05-10T15:37:55.769</CreationDate>
+	<Notes/>
+	<Text>Email Communication</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AC30-957E4C366321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

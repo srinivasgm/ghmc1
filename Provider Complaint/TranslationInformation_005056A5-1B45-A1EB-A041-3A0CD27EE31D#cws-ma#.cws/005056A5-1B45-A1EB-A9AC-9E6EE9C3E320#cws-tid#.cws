@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9AC-9E6EE9C42320">
+	<DocumentID>005056A5-1B45-A1EB-A9AC-9E6EE9C3E320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9AC-9E6EE9C3E320</Name>
+	<Description>Contact Address</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T17:48:40.448</CreationDate>
+	<Notes/>
+	<DefaultText>Contact Address</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A9AC-9E6EE9C46320"
+		/>
+	</Translations>
+</TextIdentifier>

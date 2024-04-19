@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B332-3F39BBF86324">
+	<DocumentID>005056A5-1B45-A1EB-B332-3F39BBF82324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B332-3F39BBF82324</Name>
+	<Description>(Include Inactive Health Plans)</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-14T04:42:42.732</CreationDate>
+	<Notes/>
+	<DefaultText>(Include Inactive Health Plans)</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B332-3F39BBF8A324"
+		/>
+	</Translations>
+</TextIdentifier>

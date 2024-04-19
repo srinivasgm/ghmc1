@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC51-6FF37E88A324">
+	<DocumentID>005056A5-1B45-A1EB-BC51-6FF37E886324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC51-6FF37E886324</Name>
+	<Description>Claim is already open</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-30T16:01:31.602</CreationDate>
+	<Notes/>
+	<Text>Claim is already open</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC51-6FF37E87E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

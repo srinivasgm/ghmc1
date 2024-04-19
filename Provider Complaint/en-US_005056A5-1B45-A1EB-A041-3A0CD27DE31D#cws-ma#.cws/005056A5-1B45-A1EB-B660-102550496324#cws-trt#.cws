@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B660-10255049A324">
+	<DocumentID>005056A5-1B45-A1EB-B660-102550496324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B660-102550496324</Name>
+	<Description>Send to Wait Flag</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-30T11:52:35.68</CreationDate>
+	<Notes/>
+	<Text>Send to Wait Flag</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B666-64BCCB3B6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

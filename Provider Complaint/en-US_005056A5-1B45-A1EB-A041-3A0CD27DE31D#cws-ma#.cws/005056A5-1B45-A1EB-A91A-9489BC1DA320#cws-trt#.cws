@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A91A-9489BC1DE320">
+	<DocumentID>005056A5-1B45-A1EB-A91A-9489BC1DA320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A91A-9489BC1DA320</Name>
+	<Description>RBO / Capitated Provider</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-23T19:53:57.916</CreationDate>
+	<Notes/>
+	<Text>RBO / Capitated Provider</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A91A-9489BC1D2320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

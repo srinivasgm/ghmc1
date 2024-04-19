@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B291-FB0BE40F2324">
+	<DocumentID>005056A5-1B45-A1EB-B291-FB0BE40EE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B291-FB0BE40EE324</Name>
+	<Description>Health Plan Information</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-11T00:10:52.802</CreationDate>
+	<Notes/>
+	<Text>Health Plan Information</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B291-FB0BE40E6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

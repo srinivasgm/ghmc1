@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9B2-57116289A320">
+	<DocumentID>005056A5-1B45-A1EB-A9B2-571162896320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9B2-571162896320</Name>
+	<Description>State already exists</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T20:19:06.649</CreationDate>
+	<Notes/>
+	<Text>State already exists</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A7B4-BB8973142320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A9B2-57116288E320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

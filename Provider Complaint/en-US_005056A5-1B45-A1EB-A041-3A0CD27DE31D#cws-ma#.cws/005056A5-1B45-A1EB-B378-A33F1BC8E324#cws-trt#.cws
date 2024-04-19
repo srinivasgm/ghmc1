@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B378-A33F1BC92324">
+	<DocumentID>005056A5-1B45-A1EB-B378-A33F1BC8E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B378-A33F1BC8E324</Name>
+	<Description>getAllEmailTemplates</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-15T14:17:38.318</CreationDate>
+	<Notes/>
+	<Text>getAllEmailTemplates</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B378-A33F1BC86324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

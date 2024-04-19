@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBEF-DF065C976324">
+	<DocumentID>005056A5-1B45-A1EB-BBEF-DF065C972324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBEF-DF065C972324</Name>
+	<Description>Reason Of Extenstion Name Already Exists</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-28T16:22:31.714</CreationDate>
+	<Notes/>
+	<Text>Reason Of Extenstion Name Already Exists</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBEF-DF065C96A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

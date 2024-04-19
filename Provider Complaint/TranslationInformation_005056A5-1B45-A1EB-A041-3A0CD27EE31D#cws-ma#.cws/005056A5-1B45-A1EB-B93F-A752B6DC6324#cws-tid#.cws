@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B93F-A752B6DCA324">
+	<DocumentID>005056A5-1B45-A1EB-B93F-A752B6DC6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B93F-A752B6DC6324</Name>
+	<Description>005056A5-1B45-A1EB-B93F-A752B6DC6324</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-15T00:22:11.791</CreationDate>
+	<Notes/>
+	<DefaultText>Please contact pcu@dmhc.ca.gov with any questions or problems regarding this site. If you need assistance for this complaint, you may share any in progress data to DMHC before submitting it by selecting the &quot;Make Visible to DMHC&quot; checkbox below. Once you select the checkbox, please contact DMHC for assistance.</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B93F-A752B6DCE324"
+		/>
+	</Translations>
+</TextIdentifier>

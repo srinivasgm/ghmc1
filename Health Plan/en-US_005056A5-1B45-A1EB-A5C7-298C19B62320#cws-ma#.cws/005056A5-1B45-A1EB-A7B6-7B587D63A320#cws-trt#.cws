@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A7B6-7B587D63E320">
+	<DocumentID>005056A5-1B45-A1EB-A7B6-7B587D63A320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A7B6-7B587D63A320</Name>
+	<Description>HP IsActive</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-16T17:35:21.667</CreationDate>
+	<Notes/>
+	<Text>HP IsActive</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A7B6-7B587D632320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="005056A5-1B45-A1EB-9EE7-EB7A8D6DE31D">
+	<DocumentID>005056A5-1B45-A1EB-9EE7-EB7A8D6DA31D</DocumentID>
+	<Name>PCS Lead Analyst</Name>
+	<Description>PCS Lead Analyst</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-03-02T21:42:37.536</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="005056A5-1B45-A1EB-A6F6-868EF4F66320"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

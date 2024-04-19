@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B918-0EA86CAEE324">
+	<DocumentID>005056A5-1B45-A1EB-B918-0EA86CAEA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B918-0EA86CAEA324</Name>
+	<Description>Is Date of PDR Submission Extent</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-14T05:00:26.11</CreationDate>
+	<Notes/>
+	<DefaultText>Is Date of PDR Submission Extent</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B918-0EA86CAF2324"
+		/>
+	</Translations>
+</TextIdentifier>

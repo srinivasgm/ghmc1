@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B821-8C6802B0A324">
+	<DocumentID>005056A5-1B45-A1EB-B821-8C6802B06324</DocumentID>
+	<Name>PCS Web Library Definition</Name>
+	<Description>PCS Web Library Definition</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-09T09:43:25.14</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="005056A5-1B45-A1EB-B821-8C6802B22324"
+			path="Provider Complaint/Web"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A7B7-40A8B9A12320">
+	<DocumentID>005056A5-1B45-A1EB-A7B7-40A8B9A0E320</DocumentID>
+	<Name>PCSNoteType_HistoryLog</Name>
+	<Description>PCSNoteType_HistoryLog</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-16T20:11:45.425</CreationDate>
+	<Notes/>
+	<CompressType>0</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A7B7-40A8B99EA320">
+			<DocumentID>005056A5-1B45-A1EB-A7B7-40A8B99E6320</DocumentID>
+			<Name>005056A5-1B45-A1EB-A7B7-40A8B99E6320</Name>
+			<Description>005056A5-1B45-A1EB-A7B7-40A8B99E6320</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-16T20:11:45.425</CreationDate>
+			<Notes/>
+			<DeveloperText>PCSNoteType_HistoryLog</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-A7B7-40A8B99EE320"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

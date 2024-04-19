@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B3B6-75D75BE86324">
+	<DocumentID>005056A5-1B45-A1EB-B3B6-75D75BE82324</DocumentID>
+	<Name>ProviderSubCategory3</Name>
+	<Description>ProviderSubCategory3</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-16T19:47:21.368</CreationDate>
+	<Notes/>
+	<referenceCount>4</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C142E324"
+		/>
+	</BuildingBlock>
+</Category>

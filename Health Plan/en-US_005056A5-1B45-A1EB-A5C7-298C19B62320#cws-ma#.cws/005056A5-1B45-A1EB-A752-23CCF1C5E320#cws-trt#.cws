@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A752-23CCF1C62320">
+	<DocumentID>005056A5-1B45-A1EB-A752-23CCF1C5E320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A752-23CCF1C5E320</Name>
+	<Description>HPAliasToHealthPlan</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-14T17:43:05.587</CreationDate>
+	<Notes/>
+	<Text>HPAliasToHealthPlan</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A752-23CCF1C56320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

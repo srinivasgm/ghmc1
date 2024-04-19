@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B1F8-ECDF278AE324">
+	<DocumentID>005056A5-1B45-A1EB-B1F8-ECDF278AA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B1F8-ECDF278AA324</Name>
+	<Description>Before a provider can submit a dispute to the Department for a substantive review, the provider is required to submit the dispute to the payer's Dispute Resolution process.</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-07T23:31:16.91</CreationDate>
+	<Notes/>
+	<DefaultText>Before a provider can submit a dispute to the Department for a substantive review, the provider is required to submit the dispute to the payer's Dispute Resolution process.</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B1F8-ECDF278B2324"
+		/>
+	</Translations>
+</TextIdentifier>

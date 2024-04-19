@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAE9-250FEB782324">
+	<DocumentID>005056A5-1B45-A1EB-BAE9-250FEB77E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAE9-250FEB77E324</Name>
+	<Description>Extension Response Note</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-23T10:57:59.702</CreationDate>
+	<Notes/>
+	<Text>Extension Response Note</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAE9-250FEB776324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

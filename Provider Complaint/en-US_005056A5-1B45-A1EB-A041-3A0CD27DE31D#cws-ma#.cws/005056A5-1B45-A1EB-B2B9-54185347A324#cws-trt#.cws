@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2B9-54185347E324">
+	<DocumentID>005056A5-1B45-A1EB-B2B9-54185347A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2B9-54185347A324</Name>
+	<Description>Allowed 45 Days To Respond</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-11T19:23:48.956</CreationDate>
+	<Notes/>
+	<Text>Allowed 45 Days To Respond</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B2BA-61EBDE506324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

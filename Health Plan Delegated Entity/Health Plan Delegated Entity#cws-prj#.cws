@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A5CA-C0B76D6D2320">
+	<DocumentID>005056A5-1B45-A1EB-A5CA-C0B76D6CE320</DocumentID>
+	<Name>Health Plan Delegated Entity</Name>
+	<Description>Health Plan Delegated Entity</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-06T22:54:42.515</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A5CA-C0B76D6BE320">
+			<DocumentID>005056A5-1B45-A1EB-A5CA-C0B76D6BA320</DocumentID>
+			<Name>CADMHC Health Plan Delegated Entity</Name>
+			<Description>CADMHC Health Plan Delegated Entity</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-06T22:54:42.515</CreationDate>
+			<Notes/>
+			<BuildNumber>438</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>CADMHC Health Plan Delegated Entity 1.0.438</ISVPackageFileName>
+			<ISVPackageOwner>CADMHC</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Health Plan Delegated Entity</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="005056A5-1B45-A1EB-A5CA-C0B76D6C6320"
+			path="Health Plan Delegated Entity"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A5CA-C0B76D6B6320">
+			<DocumentID>005056A5-1B45-A1EB-A5CA-C0B76D6B2320</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-06T22:54:42.515</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="005056A5-1B45-A1EB-A5CA-C0B76D6A6320">
+					<DocumentID>005056A5-1B45-A1EB-A5CA-C0B76D6A2320</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>hmehta@opentext.com</CreatedBy>
+					<CreationDate>2021-04-06T22:54:42.515</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="005056A5-1B45-A1EB-A5CA-C0B76D69A320"
+							path="Health Plan Delegated Entity/en-US_005056A5-1B45-A1EB-A5CA-C0B76D69A320"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="005056A5-1B45-A1EB-A5CA-C0B76D6B2320"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="005056A5-1B45-A1EB-A5CA-C0B76D6A2320"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="005056A5-1B45-A1EB-A5CA-C0B76D6AA320"
+					path="Health Plan Delegated Entity/TranslationInformation_005056A5-1B45-A1EB-A5CA-C0B76D6AA320"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

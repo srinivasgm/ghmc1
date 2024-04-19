@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA47-5696BE1B2324">
+	<DocumentID>005056A5-1B45-A1EB-BA47-5696BE1AE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA47-5696BE1AE324</Name>
+	<Description>Provider Filed Appeal?</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T05:50:42.51</CreationDate>
+	<Notes/>
+	<Text>Provider Filed Appeal?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA47-5696BE1A6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

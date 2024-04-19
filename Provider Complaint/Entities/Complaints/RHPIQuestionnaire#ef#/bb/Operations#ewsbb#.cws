@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA52-6290563A2324">
+	<DocumentID>005056A5-1B45-A1EB-BA52-62905639E324</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T11:04:27.56</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BA52-629056396324">
+			<DocumentID>005056A5-1B45-A1EB-BA52-629056392324</DocumentID>
+			<Name>CreateRHPIQuestionnaire</Name>
+			<Description>Create RHPIQuestionnaire</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-20T11:04:27.56</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BA47-111426AAE324"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BA52-62905637E324">
+			<DocumentID>005056A5-1B45-A1EB-BA52-62905637A324</DocumentID>
+			<Name>DeleteRHPIQuestionnaire</Name>
+			<Description>Delete RHPIQuestionnaire</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-20T11:04:27.56</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BA47-111426AAE324"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-BA47-111426AAE324"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BA52-629056386324">
+			<DocumentID>005056A5-1B45-A1EB-BA52-629056382324</DocumentID>
+			<Name>ReadRHPIQuestionnaire</Name>
+			<Description>Read RHPIQuestionnaire</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-20T11:04:27.56</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BA47-111426AAE324"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BA52-62905638E324">
+			<DocumentID>005056A5-1B45-A1EB-BA52-62905638A324</DocumentID>
+			<Name>UpdateRHPIQuestionnaire</Name>
+			<Description>Update RHPIQuestionnaire</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-20T11:04:27.56</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BA47-111426AAE324"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

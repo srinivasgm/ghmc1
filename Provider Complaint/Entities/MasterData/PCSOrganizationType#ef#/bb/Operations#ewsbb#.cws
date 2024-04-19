@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A6ED-F22F269FA320">
+	<DocumentID>005056A5-1B45-A1EB-A6ED-F22F269F6320</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-12T17:56:09.799</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A6ED-F22F269EE320">
+			<DocumentID>005056A5-1B45-A1EB-A6ED-F22F269EA320</DocumentID>
+			<Name>CreatePCSOrganizationType</Name>
+			<Description>Create PCSOrganizationType</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-12T17:56:09.799</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A6E9-953AEABB6320"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-A6E9-953AEABB6320"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A6ED-F22F269E6320">
+			<DocumentID>005056A5-1B45-A1EB-A6ED-F22F269E2320</DocumentID>
+			<Name>ReadPCSOrganizationType</Name>
+			<Description>Read PCSOrganizationType</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-12T17:56:09.799</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A6E9-953AEABB6320"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A6ED-F22F269DE320">
+			<DocumentID>005056A5-1B45-A1EB-A6ED-F22F269DA320</DocumentID>
+			<Name>UpdatePCSOrganizationType</Name>
+			<Description>Update PCSOrganizationType</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-12T17:56:09.799</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A6E9-953AEABB6320"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

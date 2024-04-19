@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B122-01FEA916E324">
+	<DocumentID>005056A5-1B45-A1EB-B122-01FEA916A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B122-01FEA916A324</Name>
+	<Description>Subscriber Name Same As Patient Name</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-03T17:49:43.74</CreationDate>
+	<Notes/>
+	<Text>Subscriber Name Same As Patient Name</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B122-01FEA9162324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

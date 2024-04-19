@@ -1,0 +1,23 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A076-0DEE5CBEE31D">
+	<DocumentID>005056A5-1B45-A1EB-A076-0DEE5CBEA31D</DocumentID>
+	<Name>PCS Business Administrator</Name>
+	<Description>PCS Business Administrator</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-03-10T19:41:54.206</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="005056A5-1B45-A1EB-A6F6-868EF4F66320"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

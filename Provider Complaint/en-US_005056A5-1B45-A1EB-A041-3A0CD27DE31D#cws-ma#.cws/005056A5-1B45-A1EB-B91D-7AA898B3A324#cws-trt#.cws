@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B91D-7AA898B3E324">
+	<DocumentID>005056A5-1B45-A1EB-B91D-7AA898B3A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B91D-7AA898B3A324</Name>
+	<Description>Complaint_UpdateDMHCSubcategory</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-14T07:40:50.587</CreationDate>
+	<Notes/>
+	<Text>Complaint_UpdateDMHCSubcategory</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B91D-7AA898B32324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

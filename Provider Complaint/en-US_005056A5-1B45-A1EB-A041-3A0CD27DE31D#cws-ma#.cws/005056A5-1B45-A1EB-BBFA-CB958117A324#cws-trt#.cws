@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBFA-CB958117E324">
+	<DocumentID>005056A5-1B45-A1EB-BBFA-CB958117A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBFA-CB958117A324</Name>
+	<Description>Is Date of PDR Submission After Or Equal To End Date</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-28T21:46:21.592</CreationDate>
+	<Notes/>
+	<Text>Is Date of PDR Submission After Or Equal To End Date</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBFA-CB9581172324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

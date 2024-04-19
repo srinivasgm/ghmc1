@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABE0-DEF136442321">
+	<DocumentID>005056A5-1B45-A1EB-ABE0-DEF13643E321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABE0-DEF13643E321</Name>
+	<Description>System - On Assignee Change</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-07T22:29:34.928</CreationDate>
+	<Notes/>
+	<Text>System - On Assignee Change</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABE0-DEF136436321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

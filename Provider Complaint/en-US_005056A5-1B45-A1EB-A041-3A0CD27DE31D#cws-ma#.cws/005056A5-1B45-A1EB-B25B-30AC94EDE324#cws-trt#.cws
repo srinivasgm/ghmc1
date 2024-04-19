@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25B-30AC94EE2324">
+	<DocumentID>005056A5-1B45-A1EB-B25B-30AC94EDE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25B-30AC94EDE324</Name>
+	<Description>Calculate PDR Determination Respond Due Date</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-09T22:21:11.219</CreationDate>
+	<Notes/>
+	<Text>Calculate PDR Determination Respond Due Date</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25B-30AC94ED6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

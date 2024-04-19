@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B80C-3414F38AE324">
+	<DocumentID>005056A5-1B45-A1EB-B80C-3414F38AA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B80C-3414F38AA324</Name>
+	<Description>Submitted By</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-08T22:00:18.48</CreationDate>
+	<Notes/>
+	<DefaultText>Submitted By</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B80C-3414F38B2324"
+		/>
+	</Translations>
+</TextIdentifier>

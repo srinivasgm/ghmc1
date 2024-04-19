@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA51-181E84822324">
+	<DocumentID>005056A5-1B45-A1EB-BA51-181E8481E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA51-181E8481E324</Name>
+	<Description>RHPIQuestionnaire_Claim_BI</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T10:33:08.779</CreationDate>
+	<Notes/>
+	<Text>RHPIQuestionnaire_Claim_BI</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA51-181E84816324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

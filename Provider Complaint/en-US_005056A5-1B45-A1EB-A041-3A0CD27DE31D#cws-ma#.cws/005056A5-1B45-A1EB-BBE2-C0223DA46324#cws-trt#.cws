@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBE2-C0223DA4A324">
+	<DocumentID>005056A5-1B45-A1EB-BBE2-C0223DA46324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBE2-C0223DA46324</Name>
+	<Description>ReadPCSDenialCategory</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T10:37:16.217</CreationDate>
+	<Notes/>
+	<Text>ReadPCSDenialCategory</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBE2-C0223DA3E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

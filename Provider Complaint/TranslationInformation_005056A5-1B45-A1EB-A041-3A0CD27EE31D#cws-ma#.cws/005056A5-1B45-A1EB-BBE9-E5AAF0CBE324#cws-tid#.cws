@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBE9-E5AAF0CC2324">
+	<DocumentID>005056A5-1B45-A1EB-BBE9-E5AAF0CBE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBE9-E5AAF0CBE324</Name>
+	<Description>RHPIQuestionnaire_SetRequiredDocuments</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T13:27:54.963</CreationDate>
+	<Notes/>
+	<DefaultText>RHPIQuestionnaire_SetRequiredDocuments</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BBE9-E5AAF0CC6324"
+		/>
+	</Translations>
+</TextIdentifier>

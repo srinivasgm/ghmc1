@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B122-0388AAD5E324">
+	<DocumentID>005056A5-1B45-A1EB-B122-0388AAD5A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B122-0388AAD5A324</Name>
+	<Description>Complaint_RBO</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-03T16:51:49.721</CreationDate>
+	<Notes/>
+	<Text>Complaint_RBO</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B122-0388AAD52324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

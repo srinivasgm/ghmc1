@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAB2-9BC0C5F02324">
+	<DocumentID>005056A5-1B45-A1EB-BAB2-9BC0C5EFE324</DocumentID>
+	<Name>HideAfterSubmit</Name>
+	<Description>HideAfterSubmit</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T10:12:37.838</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C142E324"
+		/>
+	</BuildingBlock>
+</Category>

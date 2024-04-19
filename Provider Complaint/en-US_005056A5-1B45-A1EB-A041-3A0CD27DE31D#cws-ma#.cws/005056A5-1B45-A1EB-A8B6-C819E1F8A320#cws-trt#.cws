@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A8B6-C819E1F8E320">
+	<DocumentID>005056A5-1B45-A1EB-A8B6-C819E1F8A320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A8B6-C819E1F8A320</Name>
+	<Description>Dynamic folder</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-21T19:53:22.252</CreationDate>
+	<Notes/>
+	<Text>Dynamic folder</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A8B6-C819E1F82320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B95E-DA05B1CB2324">
+	<DocumentID>005056A5-1B45-A1EB-B95E-DA05B1CAE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B95E-DA05B1CAE324</Name>
+	<Description>You will be able to upload documents to support this claim after clicking OK below and opening the newly created Claim for editing.</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-15T15:08:34.407</CreationDate>
+	<Notes/>
+	<Text>You will be able to upload documents to support this claim after clicking OK below and opening the newly created Claim for editing.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B95E-DA05B1CA6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC13-3DB8C3016324">
+	<DocumentID>005056A5-1B45-A1EB-BC13-3DB8C3012324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC13-3DB8C3012324</Name>
+	<Description>Escalated Claims</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-29T09:15:51.01</CreationDate>
+	<Notes/>
+	<DefaultText>Escalated Claims</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BC13-3DB8C301A324"
+		/>
+	</Translations>
+</TextIdentifier>

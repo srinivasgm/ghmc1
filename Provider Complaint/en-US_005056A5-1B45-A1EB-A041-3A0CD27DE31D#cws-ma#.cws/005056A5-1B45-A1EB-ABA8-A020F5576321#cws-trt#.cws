@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABA8-A020F557A321">
+	<DocumentID>005056A5-1B45-A1EB-ABA8-A020F5576321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABA8-A020F5576321</Name>
+	<Description>All PCS Provider Complaint Type</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-05-06T19:42:40.536</CreationDate>
+	<Notes/>
+	<Text>All PCS Provider Complaint Type</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABA8-A020F556E321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

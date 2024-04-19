@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2B5-922C8F39A324">
+	<DocumentID>005056A5-1B45-A1EB-B2B9-4C6E7DE02324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2B9-4C6E7DE02324</Name>
+	<Description>Complaint Provider Form</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-11T18:47:14.896</CreationDate>
+	<Notes/>
+	<Text>Complaint Provider Form</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B2B9-4C6E7DDFA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

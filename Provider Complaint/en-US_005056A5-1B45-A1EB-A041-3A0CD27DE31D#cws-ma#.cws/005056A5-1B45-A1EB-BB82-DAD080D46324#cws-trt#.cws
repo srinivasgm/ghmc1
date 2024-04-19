@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BB82-DAD080D4A324">
+	<DocumentID>005056A5-1B45-A1EB-BB82-DAD080D46324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BB82-DAD080D46324</Name>
+	<Description>ClearClaim_PCSReasonOfExtension</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-26T12:55:02.852</CreationDate>
+	<Notes/>
+	<Text>ClearClaim_PCSReasonOfExtension</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BB82-DAD080D3E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

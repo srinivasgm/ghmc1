@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB2-B666C5AE2324">
+	<DocumentID>005056A5-1B45-A1EB-BBB2-B666C5ADE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBB2-B666C5ADE324</Name>
+	<Description>Claims - All For Payor With Payor RFIs</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T11:11:20.532</CreationDate>
+	<Notes/>
+	<Text>Claims - All For Payor With Payor RFIs</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBB2-B666C5AD6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

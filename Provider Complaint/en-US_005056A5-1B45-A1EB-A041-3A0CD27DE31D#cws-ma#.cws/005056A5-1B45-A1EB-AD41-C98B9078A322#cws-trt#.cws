@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD41-C98B9078E322">
+	<DocumentID>005056A5-1B45-A1EB-AD41-C98B9078A322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD41-C98B9078A322</Name>
+	<Description>PCSConfiguration_HistoryLog</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T23:11:37.001</CreationDate>
+	<Notes/>
+	<Text>PCSConfiguration_HistoryLog</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD42-66E81D51A322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBE2-2E525EA82324">
+	<DocumentID>005056A5-1B45-A1EB-BBE2-2E525EA7E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBE2-2E525EA7E324</Name>
+	<Description>ReadPCSDetermination</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T09:48:57.776</CreationDate>
+	<Notes/>
+	<Text>ReadPCSDetermination</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBE2-2E525EA76324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

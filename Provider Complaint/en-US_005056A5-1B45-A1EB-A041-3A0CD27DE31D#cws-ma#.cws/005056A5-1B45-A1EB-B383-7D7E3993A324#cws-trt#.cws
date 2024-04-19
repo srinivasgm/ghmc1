@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B383-7D7E3993E324">
+	<DocumentID>005056A5-1B45-A1EB-B383-7D7E3993A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B383-7D7E3993A324</Name>
+	<Description>The following document still need to be uploaded to the claim:</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-15T19:24:36.227</CreationDate>
+	<Notes/>
+	<Text>The following document still need to be uploaded to the claim:</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B383-7D7E39932324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

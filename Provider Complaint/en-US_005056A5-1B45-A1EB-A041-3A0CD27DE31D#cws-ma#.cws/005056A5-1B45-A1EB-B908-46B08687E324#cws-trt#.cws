@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B908-46B086882324">
+	<DocumentID>005056A5-1B45-A1EB-B908-46B08687E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B908-46B08687E324</Name>
+	<Description>Is Billed Amount Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T21:38:43.61</CreationDate>
+	<Notes/>
+	<Text>Is Billed Amount Valid</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B908-46B086876324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

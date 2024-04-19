@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B669-2BB755732324">
+	<DocumentID>005056A5-1B45-A1EB-B669-2BB75572E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B669-2BB75572E324</Name>
+	<Description>Are you sure you want to send RFIs for all Claims ?</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-30T13:29:09.608</CreationDate>
+	<Notes/>
+	<Text>Are you sure you want to send RFIs for all Claims ?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B669-2BB755726324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

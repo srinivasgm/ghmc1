@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9B1-29CF1ACFE320">
+	<DocumentID>005056A5-1B45-A1EB-A9B1-29CF1ACFA320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9B1-29CF1ACFA320</Name>
+	<Description>General Inquiry Number Seed</Description>
+	<CreatedBy>kpandran@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T19:25:00.706</CreationDate>
+	<Notes/>
+	<Text>General Inquiry Number Seed</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A9B1-29CF1ACF2320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

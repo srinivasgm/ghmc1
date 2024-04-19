@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB5-E13A68906324">
+	<DocumentID>005056A5-1B45-A1EB-BBB5-E13A68902324</DocumentID>
+	<Name>JurisdictionAgency_HistoryLog</Name>
+	<Description>JurisdictionAgency_HistoryLog</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T12:49:13.896</CreationDate>
+	<Notes/>
+	<CompressType>0</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBB5-E13A688C6324">
+			<DocumentID>005056A5-1B45-A1EB-BBB5-E13A688C2324</DocumentID>
+			<Name>005056A5-1B45-A1EB-BBB5-E13A688C2324</Name>
+			<Description>005056A5-1B45-A1EB-BBB5-E13A688C2324</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-27T12:49:13.896</CreationDate>
+			<Notes/>
+			<DeveloperText>Jurisdiction Agency History Log</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-BBB5-E13A688CA324"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

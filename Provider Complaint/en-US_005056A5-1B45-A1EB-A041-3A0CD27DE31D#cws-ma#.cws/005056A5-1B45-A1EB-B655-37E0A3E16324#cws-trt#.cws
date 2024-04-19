@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B655-37E0A3E1A324">
+	<DocumentID>005056A5-1B45-A1EB-B655-37E0A3E16324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B655-37E0A3E16324</Name>
+	<Description>Claims - All at Provider</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-30T04:30:46.66</CreationDate>
+	<Notes/>
+	<Text>Claims - All at Provider</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B655-37E0A3E0E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

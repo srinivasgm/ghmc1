@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC57-835EEEA2E324">
+	<DocumentID>005056A5-1B45-A1EB-BC57-835EEEA2A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC57-835EEEA2A324</Name>
+	<Description>Close Letter Sent</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-30T17:46:56.991</CreationDate>
+	<Notes/>
+	<DefaultText>Close Letter Sent</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BC57-835EEEA32324"
+		/>
+	</Translations>
+</TextIdentifier>

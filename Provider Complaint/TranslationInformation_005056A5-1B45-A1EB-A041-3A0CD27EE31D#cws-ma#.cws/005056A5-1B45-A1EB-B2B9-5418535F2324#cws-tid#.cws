@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2B9-5418535F6324">
+	<DocumentID>005056A5-1B45-A1EB-B2B9-5418535F2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2B9-5418535F2324</Name>
+	<Description>Please provide the date of PDR submission if a written determination has not been received</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-11T18:46:41.123</CreationDate>
+	<Notes/>
+	<DefaultText>Please provide the date of PDR submission if a written determination has not been received</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B2B9-5418535FA324"
+		/>
+	</Translations>
+</TextIdentifier>

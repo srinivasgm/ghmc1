@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD32-F11624B3A322">
+	<DocumentID>005056A5-1B45-A1EB-AD32-F11624B36322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD32-F11624B36322</Name>
+	<Description>Show In Provider Portal</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-14T16:20:06.059</CreationDate>
+	<Notes/>
+	<Text>Show In Provider Portal</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD32-F11624B2E322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

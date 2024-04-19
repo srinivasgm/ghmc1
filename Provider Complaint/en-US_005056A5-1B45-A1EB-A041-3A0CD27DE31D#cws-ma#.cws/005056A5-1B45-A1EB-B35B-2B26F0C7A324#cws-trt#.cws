@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B35B-2B26F0C7E324">
+	<DocumentID>005056A5-1B45-A1EB-B35B-2B26F0C7A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B35B-2B26F0C7A324</Name>
+	<Description>Patient ID #</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-15T00:12:59.059</CreationDate>
+	<Notes/>
+	<Text>Patient ID #</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B35B-2B26F0C72324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B512-295520B8E324">
+	<DocumentID>005056A5-1B45-A1EB-B512-295520B8A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B512-295520B8A324</Name>
+	<Description>Complaint - All Unsubmitted Visible To DMHC</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-23T17:32:04.001</CreationDate>
+	<Notes/>
+	<Text>Complaint - All Unsubmitted Visible To DMHC</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B512-295520B82324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

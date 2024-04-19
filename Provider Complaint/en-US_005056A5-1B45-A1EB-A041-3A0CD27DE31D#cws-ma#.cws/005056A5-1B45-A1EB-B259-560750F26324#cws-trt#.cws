@@ -1,0 +1,24 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B259-560750F2A324">
+	<DocumentID>005056A5-1B45-A1EB-B259-560750F26324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B259-560750F26324</Name>
+	<Description>005056A5-1B45-A1EB-B259-560750F26324</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T21:38:22.918</CreationDate>
+	<Notes/>
+	<Text>An RHPI may be sent again, it supersedes the existing RHPI for two reasons:
+Change of plan, change of requirements. SendRHPI action button available to be clicked as needed, remember if/who we already sent to, and send a revocation, form can ask if this is a new payor (a modification is just an RFI to the plan)</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B259-560750F1E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

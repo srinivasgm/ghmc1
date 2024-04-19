@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25F-3A7AB57E6324">
+	<DocumentID>005056A5-1B45-A1EB-B25F-3A7AB57E2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25F-3A7AB57E2324</Name>
+	<Description>Set Allowed 45 Days to No and Exception Message</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-09T23:52:54.018</CreationDate>
+	<Notes/>
+	<Text>Set Allowed 45 Days to No and Exception Message</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25F-3A7AB57DA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABA8-DFF590942321">
+	<DocumentID>005056A5-1B45-A1EB-ABA8-DFF59093E321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABA8-DFF59093E321</Name>
+	<Description>Provider Complaint Type already exists</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-05-06T19:45:30.85</CreationDate>
+	<Notes/>
+	<Text>Provider Complaint Type already exists</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABA8-DFF590936321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

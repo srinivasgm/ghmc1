@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B49D-B6ADED79E324">
+	<DocumentID>005056A5-1B45-A1EB-B49D-B6ADED79A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B49D-B6ADED79A324</Name>
+	<Description>Assign Claims</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-21T10:09:39.306</CreationDate>
+	<Notes/>
+	<Text>Assign Claims</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B49D-B6ADED792324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

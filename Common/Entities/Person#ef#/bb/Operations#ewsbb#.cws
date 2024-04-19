@@ -1,0 +1,29 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B5F6-C621D67F2324">
+	<DocumentID>005056A5-1B45-A1EB-B5F7-9F2C0C746324</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-28T07:02:20.033</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-B5F5-2C94BE0CE324"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original>
+		<uri
+			id="F8B156B4-FF8F-11E6-F61A-EEB0ED69B7E6"
+		/>
+	</Original>
+	<ReadOperation/>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

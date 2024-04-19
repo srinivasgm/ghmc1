@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD3F-BCDE16A02322">
+	<DocumentID>005056A5-1B45-A1EB-AD3F-BCDE169FE322</DocumentID>
+	<Name>General Inquiry Notification with no activities for X days</Name>
+	<Description>Daily scheduler job for General Inquiry Notification with no activities for X days - Run Daily at 6 am</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T21:58:47.272</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="General Inquiry Notification with no activities for X days"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2021-05-14T19:09:40.033"
+			msgHolderLastModified="2021-05-11T18:00:09.005">
+			<datetime>
+				<daily>
+					<time>6:0</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AD3F-BCDE169DA322">
+			<DocumentID>005056A5-1B45-A1EB-AD3F-BCDE169D6322</DocumentID>
+			<Name>005056A5-1B45-A1EB-AD3F-BCDE169D6322</Name>
+			<Description>005056A5-1B45-A1EB-AD3F-BCDE169D6322</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-05-14T21:58:47.272</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="005056A5-1B45-A1EB-ACA0-7FA707E6E322"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

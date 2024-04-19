@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9B1-A1BD1CA6A320">
+	<DocumentID>005056A5-1B45-A1EB-A9B1-A1BD1CA66320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9B1-A1BD1CA66320</Name>
+	<Description>Zip Code</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T19:38:56.842</CreationDate>
+	<Notes/>
+	<Text>Zip Code</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A9B1-A1BD1CA5E320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

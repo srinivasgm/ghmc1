@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B65B-5F72B29DE324">
+	<DocumentID>005056A5-1B45-A1EB-B65B-5F72B29DA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B65B-5F72B29DA324</Name>
+	<Description>Claim - RFI Form</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-30T06:45:42.876</CreationDate>
+	<Notes/>
+	<DefaultText>Claim - RFI Form</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B65B-5F72B29E2324"
+		/>
+	</Translations>
+</TextIdentifier>

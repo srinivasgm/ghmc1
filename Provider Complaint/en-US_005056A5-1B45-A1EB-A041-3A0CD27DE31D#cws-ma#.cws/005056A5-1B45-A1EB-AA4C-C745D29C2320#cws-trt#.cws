@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA4C-C745D29C6320">
+	<DocumentID>005056A5-1B45-A1EB-AA4C-C745D29C2320</DocumentID>
+	<Name>005056A5-1B45-A1EB-AA4C-C745D29C2320</Name>
+	<Description>SoftDeleteFlag</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-29T21:42:27.962</CreationDate>
+	<Notes/>
+	<Text>SoftDeleteFlag</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AA4C-C745D29BA320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

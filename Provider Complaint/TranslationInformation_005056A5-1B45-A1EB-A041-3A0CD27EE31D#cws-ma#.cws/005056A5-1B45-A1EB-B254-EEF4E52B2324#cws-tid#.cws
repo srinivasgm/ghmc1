@@ -1,0 +1,36 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B254-EEF4E52B6324">
+	<DocumentID>005056A5-1B45-A1EB-B254-EEF4E52B2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B254-EEF4E52B2324</Name>
+	<Description>005056A5-1B45-A1EB-B254-EEF4E52B2324</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T18:54:54.835</CreationDate>
+	<Notes/>
+	<DefaultText>Need to add:
+
+We need a Timeout on no response from provider (do we need to alert first)?
+
+We need a flag on the RFI to indicate if it a response is required and route appropriately on timeout
+
+Need a UX for provider to access RFIs and respond to them
+
+Need a UX for provider to withdraw claim (is that only for MC?)
+
+Need a UX for a provider to request an extension (and flow here to allow intake analyst to approve/decline the request?)
+
+Need a UX for provider to request an extension</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B254-EEF4E52BA324"
+		/>
+	</Translations>
+</TextIdentifier>

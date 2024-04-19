@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC54-71B6295BA324">
+	<DocumentID>005056A5-1B45-A1EB-BC54-71B6295B6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC54-71B6295B6324</Name>
+	<Description>Yes, Skip</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-30T16:20:42.017</CreationDate>
+	<Notes/>
+	<Text>Yes, Skip</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC54-71B6295AE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

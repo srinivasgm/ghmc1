@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABE2-B16062052321">
+	<DocumentID>005056A5-1B45-A1EB-ABE2-B1606204E321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABE2-B1606204E321</Name>
+	<Description>TestBPM</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-07T23:32:14.156</CreationDate>
+	<Notes/>
+	<Text>TestBPM</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABE2-B16062046321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

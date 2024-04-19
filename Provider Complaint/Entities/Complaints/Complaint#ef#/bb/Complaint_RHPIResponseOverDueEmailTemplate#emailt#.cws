@@ -1,0 +1,55 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC0F-9CE062D02324">
+	<DocumentID>005056A5-1B45-A1EB-BC0F-9CE062D06324</DocumentID>
+	<Name>Complaint_RHPIResponseOverDueEmailTemplate</Name>
+	<Description>Complaint_RHPIResponseOverDueEmailTemplate</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-29T08:39:11.621</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hello Payor,&lt;br /&gt;
+&lt;br /&gt;
+We are yet to receive RHPI Response from your end for the Claim which is overdue now. Please find the Link Below to open the Claim for which Response is expected. Please Submit the RHPI Response as soon as possible&lt;br /&gt;
+&lt;br /&gt;
+{config.ProviderComplaint.Properties.BaseURL}/app/start/web/#/item/005056A51B45A1EBB120FA36F704A324.{item.Properties.Complaint_ClaimIdForReminderMails}/005056A51B45A1EBBA210EF3FBDDE324&lt;br /&gt;
+&lt;br /&gt;
+Sincerely,&lt;br /&gt;
+Provider Complaint Section&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>false</IsVisibleToEndUser>
+	<Subject>RHPI Response is Overdue</Subject>
+	<To></To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C1426324"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BC0F-9CE062CDE324">
+			<DocumentID>005056A5-1B45-A1EB-BC0F-9CE062CDA324</DocumentID>
+			<Name>005056A5-1B45-A1EB-BC0F-9CE062CDA324</Name>
+			<Description>005056A5-1B45-A1EB-BC0F-9CE062CDA324</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-29T08:39:11.621</CreationDate>
+			<Notes/>
+			<DeveloperText>Complaint_RHPIResponseOverDueEmailTemplate</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-BC0F-9CE062CE2324"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

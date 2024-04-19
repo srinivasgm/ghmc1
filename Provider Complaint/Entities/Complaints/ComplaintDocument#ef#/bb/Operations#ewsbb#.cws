@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B1EC-FE2A6371E324">
+	<DocumentID>005056A5-1B45-A1EB-B1EC-FE2A6371A324</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-07T17:16:17.412</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B2A2-1EC75F042324">
+			<DocumentID>005056A5-1B45-A1EB-B2A2-1EC75F03E324</DocumentID>
+			<Name>CreateComplaintDocument</Name>
+			<Description>Create ComplaintDocument</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-11T07:54:03.94</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B1EC-2504FA1F6324"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B2A2-8A2879AEE324">
+			<DocumentID>005056A5-1B45-A1EB-B2A2-8A2879AEA324</DocumentID>
+			<Name>DeleteComplaintDocument</Name>
+			<Description>Delete ComplaintDocument</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-11T07:54:03.94</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B1EC-2504FA1F6324"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-B1EC-2504FA1F6324"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B2A2-1EC75F03A324">
+			<DocumentID>005056A5-1B45-A1EB-B2A2-1EC75F036324</DocumentID>
+			<Name>ReadComplaintDocument</Name>
+			<Description>Read ComplaintDocument</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-11T07:54:03.94</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B1EC-2504FA1F6324"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B2A2-1EC75F032324">
+			<DocumentID>005056A5-1B45-A1EB-B2A2-1EC75F02E324</DocumentID>
+			<Name>UpdateComplaintDocument</Name>
+			<Description>Update ComplaintDocument</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-11T07:54:03.94</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B1EC-2504FA1F6324"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

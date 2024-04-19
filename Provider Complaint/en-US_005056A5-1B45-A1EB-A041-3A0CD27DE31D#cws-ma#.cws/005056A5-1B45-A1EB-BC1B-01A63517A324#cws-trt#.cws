@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC1B-01A63517E324">
+	<DocumentID>005056A5-1B45-A1EB-BC1B-01A63517A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC1B-01A63517A324</Name>
+	<Description>Test Role Error On Init</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-29T13:01:20.466</CreationDate>
+	<Notes/>
+	<Text>Test Role Error On Init</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC1B-01A635172324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

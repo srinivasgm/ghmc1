@@ -1,0 +1,44 @@
+
+<XMLStoreSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.xmlstore.sourceroot.XMLStoreSource"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2A9-267475712324">
+	<DocumentID>005056A5-1B45-A1EB-B2A9-26747570E324</DocumentID>
+	<Name>PCS XML Store Definition</Name>
+	<Description>PCS XML Store Definition</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-11T11:12:36.203</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SecurityDescriptor>
+		<XMLStoreSecurityDescriptor
+			type="com.cordys.xmlstore.sourceroot.XMLStoreSecurityDescriptor"
+			typeVersion="FFB228E4-5344-4FC9-893D-77229FA7C061"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B2A9-26747570A324">
+			<DocumentID>005056A5-1B45-A1EB-B2A9-267475706324</DocumentID>
+			<Name>Untitled XML Store Definition</Name>
+			<Description>Untitled XML Store Definition</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-11T11:12:36.203</CreationDate>
+			<Notes/>
+			<inherit>true</inherit>
+			<accesscontrolentries/>
+			<accesscontrollists/>
+			<conditions/>
+			<instanceConditions/>
+			<securedObject>
+				<uri
+					id="005056A5-1B45-A1EB-B2A9-26747570E324"
+				/>
+			</securedObject>
+			<staticConditions/>
+		</XMLStoreSecurityDescriptor>
+	</SecurityDescriptor>
+	<SourceFolder>
+		<uri
+			id="005056A5-1B45-A1EB-B2A9-26747571E324"
+			path="Provider Complaint/XML"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</XMLStoreSource>

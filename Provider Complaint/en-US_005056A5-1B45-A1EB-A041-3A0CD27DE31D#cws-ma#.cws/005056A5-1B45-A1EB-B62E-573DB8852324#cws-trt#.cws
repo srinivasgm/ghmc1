@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B62E-573DB8856324">
+	<DocumentID>005056A5-1B45-A1EB-B62E-573DB8852324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B62E-573DB8852324</Name>
+	<Description>Load Analyst List for Complaint</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-29T10:53:28.384</CreationDate>
+	<Notes/>
+	<Text>Load Analyst List for Complaint</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B62E-573DB884A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

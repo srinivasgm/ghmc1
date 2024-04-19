@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B49C-97F4DC012324">
+	<DocumentID>005056A5-1B45-A1EB-B49C-97F4DC00E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B49C-97F4DC00E324</Name>
+	<Description>Claims Waiting on RFI</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-21T12:13:16.359</CreationDate>
+	<Notes/>
+	<Text>Claims Waiting on RFI</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B49C-97F4DC006324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

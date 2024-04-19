@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAAB-A509F7672324">
+	<DocumentID>005056A5-1B45-A1EB-BAAB-A509F766E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAAB-A509F766E324</Name>
+	<Description>RHPIQuestionnaire_PCSDetermination</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T06:02:22.303</CreationDate>
+	<Notes/>
+	<DefaultText>RHPIQuestionnaire_PCSDetermination</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BAAB-A509F7676324"
+		/>
+	</Translations>
+</TextIdentifier>

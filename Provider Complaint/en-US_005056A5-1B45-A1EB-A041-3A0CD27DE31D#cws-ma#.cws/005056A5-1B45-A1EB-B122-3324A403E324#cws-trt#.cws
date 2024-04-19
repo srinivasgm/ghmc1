@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B122-3324A4042324">
+	<DocumentID>005056A5-1B45-A1EB-B122-3324A403E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B122-3324A403E324</Name>
+	<Description>Claim Number Assigned By Payor</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-03T17:49:43.771</CreationDate>
+	<Notes/>
+	<Text>Claim Number Assigned By Payor</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B122-3324A4036324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

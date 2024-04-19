@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABE2-064FB477E321">
+	<DocumentID>005056A5-1B45-A1EB-ABE2-064FB477A321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABE2-064FB477A321</Name>
+	<Description>Condition met for new created note</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-07T23:15:53.22</CreationDate>
+	<Notes/>
+	<Text>Condition met for new created note</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABE2-064FB4772321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B421-4F2A543EA324">
+	<DocumentID>005056A5-1B45-A1EB-B421-4F2A543E6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B421-4F2A543E6324</Name>
+	<Description>Reset to Provider (debug)</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-18T22:36:55.868</CreationDate>
+	<Notes/>
+	<Text>Reset to Provider (debug)</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B421-4F2A543DE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

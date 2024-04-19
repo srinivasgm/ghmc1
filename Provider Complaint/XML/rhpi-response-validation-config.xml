@@ -1,0 +1,100 @@
+<RHPIResponse>
+  <Questions>
+    <Question name="Is the patient's plan coverage type within the jurisdiction of the DMHC" Identifier="Jurisdiction">
+      <DocTypes>
+        <DocType>Evidence of Coverage (EOC)</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Did the provider file an appeal" Identifier="Appeal">
+      <DocTypes>
+        <DocType>Provider Dispute Resolution (PDR) Submission/Appeal Letter</DocType>
+        <DocType>Provider Dispute Resolution Acknowledgement Letter</DocType>
+        <DocType>Provider Dispute Resolution (PDR) Determination Letter</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Was the provider contracted during the dates of service" Identifier="Contracted">
+      <DocTypes>
+        <DocType>Contract</DocType>
+        <DocType>Fee Schedule/Rates</DocType>
+        <DocType>Letter of Agreement / Memorandum of Understanding / Single Case Agreement</DocType>
+        <DocType>Provider Manual</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Was the delegate responsible for claims processing" Identifier="DelegateClaimProcessing">
+      <DocTypes>
+        <DocType>All Claims</DocType>
+        <DocType>Division of Financial Responsibility (DOFR)</DocType>
+        <DocType>Explanation of Benefits (EOB) / Remittance Advice (RA)</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Was the delegate responsible for authorization" Identifier="DelegateAuthorisation">
+      <DocTypes>
+        <DocType>Authorization Related Document (Authorization Number / Form)</DocType>
+        <DocType>Correspondences, Email, Phone Log (all records of communication)</DocType>
+        <DocType>Payor's Policy and Procedures</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Was the delegate responsible for PDR" Identifier="DelegatePDR">
+      <DocTypes>
+        <DocType>Provider Dispute Resolution (PDR) Submission/Appeal Letter</DocType>
+        <DocType>Provider Dispute Resolution Acknowledgement Letter</DocType>
+        <DocType>Provider Dispute Resolution (PDR) Determination Letter</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Coverage Type: Medicare" Identifier="Medicare">
+      <DocTypes>
+        <DocType>Evidence of Coverage (EOC)</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied - Duplicate claim" Identifier="DenialCategory1">
+      <DocTypes>
+        <DocType>All Claims</DocType>
+        <DocType>Explanation of Benefits (EOB) / Remittance Advice (RA)</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied - Enrollee not eligible" Identifier="DenialCategory2">
+      <DocTypes>
+        <DocType>Patient Eligibility</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied – Not authorised" Identifier="DenialCategory3">
+      <DocTypes>
+        <DocType>Authorization Related Document (Authorization Number / Form)</DocType>
+        <DocType>Correspondences, Email, Phone Log (all records of communication)</DocType>
+        <DocType>Payor's Policy and Procedures</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied – Not a covered benefit" Identifier="DenialCategory4">
+      <DocTypes>
+        <DocType>Evidence of Coverage (EOC)</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied – Claim not filed timely" Identifier="DenialCategory5">
+      <DocTypes>
+        <DocType>All Claims</DocType>
+        <DocType>Explanation of Benefits (EOB) / Remittance Advice (RA)</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied – PDR not filed timely" Identifier="DenialCategory6">
+      <DocTypes>
+        <DocType>All Claims</DocType>
+        <DocType>Explanation of Benefits (EOB) / Remittance Advice (RA)</DocType>
+        <DocType>Provider Dispute Resolution (PDR) Submission/Appeal Letter</DocType>
+        <DocType>Provider Dispute Resolution Acknowledgement Letter</DocType>
+        <DocType>Provider Dispute Resolution (PDR) Determination Letter</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Denied – Not medically necessary" Identifier="DenialCategory7">
+      <DocTypes>
+        <DocType>UM Review/Denial</DocType>
+      </DocTypes>
+    </Question>
+    <Question name="Did the payor receive the provider dispute" Identifier="ProviderDispute">
+      <DocTypes>
+        <DocType>Provider Dispute Resolution (PDR) Submission/Appeal Letter</DocType>
+        <DocType>Provider Dispute Resolution Acknowledgement Letter</DocType>
+        <DocType>Provider Dispute Resolution (PDR) Determination Letter</DocType>
+      </DocTypes>
+    </Question>
+  </Questions>
+</RHPIResponse>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC24-D13C3952A324">
+	<DocumentID>005056A5-1B45-A1EB-BC24-D13C39526324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC24-D13C39526324</Name>
+	<Description>ReadPCSClaimCloseReason</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-29T17:44:36.479</CreationDate>
+	<Notes/>
+	<Text>ReadPCSClaimCloseReason</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC24-D13C3951E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

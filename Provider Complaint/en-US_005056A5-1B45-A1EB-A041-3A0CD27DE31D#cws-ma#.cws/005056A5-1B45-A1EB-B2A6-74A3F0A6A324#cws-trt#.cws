@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2A6-74A3F0A6E324">
+	<DocumentID>005056A5-1B45-A1EB-B2A6-74A3F0A6A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2A6-74A3F0A6A324</Name>
+	<Description>Do you have an existing direct contract with the health plan ?</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-11T09:52:03.959</CreationDate>
+	<Notes/>
+	<Text>Do you have an existing direct contract with the health plan ?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B2A6-74A3F0A62324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

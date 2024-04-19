@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B7D4-BA72A6436324">
+	<DocumentID>005056A5-1B45-A1EB-B7D4-BA72A6432324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B7D4-BA72A6432324</Name>
+	<Description>Read SubCategory 1</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-07T18:41:44.293</CreationDate>
+	<Notes/>
+	<Text>Read SubCategory 1</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B7D4-BA72A642A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

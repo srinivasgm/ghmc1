@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD42-66E81D4FA322">
+	<DocumentID>005056A5-1B45-A1EB-AD42-66E81D4F6322</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T23:14:30.78</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AD42-66E81D4EE322">
+			<DocumentID>005056A5-1B45-A1EB-AD42-66E81D4EA322</DocumentID>
+			<Name>CreatePCSConfiguration</Name>
+			<Description>Create PCSConfiguration</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-05-14T23:14:30.78</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-ACD8-26A582E4A322"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-ACD8-26A582E4A322"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AD42-66E81D4E6322">
+			<DocumentID>005056A5-1B45-A1EB-AD42-66E81D4E2322</DocumentID>
+			<Name>ReadPCSConfiguration</Name>
+			<Description>Read PCSConfiguration</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-05-14T23:14:30.785</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-ACD8-26A582E4A322"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AD42-66E81D4DE322">
+			<DocumentID>005056A5-1B45-A1EB-AD42-66E81D4DA322</DocumentID>
+			<Name>UpdatePCSConfiguration</Name>
+			<Description>Update PCSConfiguration</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-05-14T23:14:30.78</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-ACD8-26A582E4A322"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

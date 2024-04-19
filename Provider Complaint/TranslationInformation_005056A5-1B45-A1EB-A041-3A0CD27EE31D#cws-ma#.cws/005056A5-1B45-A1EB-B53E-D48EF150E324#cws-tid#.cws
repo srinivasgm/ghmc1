@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B53E-D48EF1512324">
+	<DocumentID>005056A5-1B45-A1EB-B53E-D48EF150E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B53E-D48EF150E324</Name>
+	<Description>Approve</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-24T15:48:33.688</CreationDate>
+	<Notes/>
+	<DefaultText>Approve</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B53E-D48EF1516324"
+		/>
+	</Translations>
+</TextIdentifier>

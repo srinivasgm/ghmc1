@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA47-95C85DEEE324">
+	<DocumentID>005056A5-1B45-A1EB-BA47-95C85DEEA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA47-95C85DEEA324</Name>
+	<Description>Life and Indemmity</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T05:53:24.298</CreationDate>
+	<Notes/>
+	<Text>Life and Indemmity</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA47-95C85DEE2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

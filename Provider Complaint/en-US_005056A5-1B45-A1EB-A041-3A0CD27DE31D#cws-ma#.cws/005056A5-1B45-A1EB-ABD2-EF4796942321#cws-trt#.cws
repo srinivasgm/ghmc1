@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-EF4796946321">
+	<DocumentID>005056A5-1B45-A1EB-ABD2-EF4796942321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABD2-EF4796942321</Name>
+	<Description>PDR Submitted To already exists</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:52:54.458</CreationDate>
+	<Notes/>
+	<Text>PDR Submitted To already exists</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABD2-EF479693A321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

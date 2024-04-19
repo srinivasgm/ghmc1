@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B7F3-54884729A324">
+	<DocumentID>005056A5-1B45-A1EB-B7F3-548847296324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B7F3-548847296324</Name>
+	<Description>Withdrawal Reason</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-08T09:47:13.906</CreationDate>
+	<Notes/>
+	<Text>Withdrawal Reason</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B7F3-54884728E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

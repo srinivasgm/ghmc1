@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD34-1B9AE604E322">
+	<DocumentID>005056A5-1B45-A1EB-AD34-1B9AE604A322</DocumentID>
+	<Name>NonGI</Name>
+	<Description>NonGI</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T17:17:35.041</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-ABA6-AA31F4AC6321"
+		/>
+	</BuildingBlock>
+</Category>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B288-F37478982324">
+	<DocumentID>005056A5-1B45-A1EB-B288-F3747897E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B288-F3747897E324</Name>
+	<Description>The Payor must be allowed 45 business days since PDR Submission to respond.</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-10T20:27:07.48</CreationDate>
+	<Notes/>
+	<Text>The Payor must be allowed 45 business days since PDR Submission to respond.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B288-F37478976324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

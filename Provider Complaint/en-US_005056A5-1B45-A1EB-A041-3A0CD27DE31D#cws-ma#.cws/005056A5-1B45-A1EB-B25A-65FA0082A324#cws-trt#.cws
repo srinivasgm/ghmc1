@@ -1,0 +1,37 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25A-65FA0082E324">
+	<DocumentID>005056A5-1B45-A1EB-B25A-65FA0082A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25A-65FA0082A324</Name>
+	<Description>005056A5-1B45-A1EB-B25A-65FA0082A324</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T21:38:22.918</CreationDate>
+	<Notes/>
+	<Text>Need to add:
+
+We need a Timeout on no response from provider (do we need to alert first two days before?
+
+We need a flag on the RFI to indicate if it a response is required and route appropriately on timeout (how do we know?)
+
+We have different RFI types?
+
+Need a UX for provider to access RFIs and respond to them
+
+Need a UX for provider to withdraw claim (is that only for MC?), only available until we send an RHPI? Provide a settlement reason dropdown.
+
+Need a UX for a provider to request an extension (and flow here to allow intake analyst to approve/decline the request?)
+
+Need a UX for provider to request an extension - no, but need a &quot;special request&quot; button</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25A-65FA00822324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

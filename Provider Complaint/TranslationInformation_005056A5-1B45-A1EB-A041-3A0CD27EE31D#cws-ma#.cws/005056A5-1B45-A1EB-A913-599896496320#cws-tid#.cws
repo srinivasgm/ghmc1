@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A913-59989649A320">
+	<DocumentID>005056A5-1B45-A1EB-A913-599896496320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A913-599896496320</Name>
+	<Description>PCS Close Reason History Log</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-23T16:08:05.702</CreationDate>
+	<Notes/>
+	<DefaultText>PCS Close Reason History Log</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A913-59989649E320"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B7D7-B4E620EFA324">
+	<DocumentID>005056A5-1B45-A1EB-B7D7-B4E620EF6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B7D7-B4E620EF6324</Name>
+	<Description>Claim_SetClaimNumberFromComplaint</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-07T20:11:35.241</CreationDate>
+	<Notes/>
+	<Text>Claim_SetClaimNumberFromComplaint</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B7D7-B4E620EEE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

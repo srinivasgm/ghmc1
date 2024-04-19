@@ -1,0 +1,19 @@
+
+<WorklistBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.worklist.WorklistBuildingBlock"
+	typeVersion="A1E48F22-80FF-4247-BE7C-B62A8B001962"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B418-A2B65F8FA324">
+	<DocumentID>005056A5-1B45-A1EB-B418-A2B65F8F6324</DocumentID>
+	<Name>Worklists</Name>
+	<Description>Worklists</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-18T18:30:33.179</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-B418-A2B65F926324"
+		/>
+	</Entity>
+	<Worklists/>
+</WorklistBuildingBlock>

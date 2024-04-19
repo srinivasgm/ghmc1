@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AB09-B9D0AD28A321">
+	<DocumentID>005056A5-1B45-A1EB-AB09-B9D0AD286321</DocumentID>
+	<Name>PCSDocumentType_HistoryLog</Name>
+	<Description>PCSDocumentType_HistoryLog</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-03T15:57:22.288</CreationDate>
+	<Notes/>
+	<CompressType>0</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AB09-B9D0AD262321">
+			<DocumentID>005056A5-1B45-A1EB-AB09-B9D0AD25E321</DocumentID>
+			<Name>005056A5-1B45-A1EB-AB09-B9D0AD25E321</Name>
+			<Description>005056A5-1B45-A1EB-AB09-B9D0AD25E321</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-05-03T15:57:22.288</CreationDate>
+			<Notes/>
+			<DeveloperText>PCS Document Type History Log</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-AB09-B9D0AD266321"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

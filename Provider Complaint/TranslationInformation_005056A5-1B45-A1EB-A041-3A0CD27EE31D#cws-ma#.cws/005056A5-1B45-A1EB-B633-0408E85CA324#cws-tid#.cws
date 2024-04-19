@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B633-0408E85CE324">
+	<DocumentID>005056A5-1B45-A1EB-B633-0408E85CA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B633-0408E85CA324</Name>
+	<Description>Generate Output XML</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-29T11:30:04.023</CreationDate>
+	<Notes/>
+	<DefaultText>Generate Output XML</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B633-0408E85D2324"
+		/>
+	</Translations>
+</TextIdentifier>

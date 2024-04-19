@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B956-E289D8FDE324">
+	<DocumentID>005056A5-1B45-A1EB-B956-E289D8FDA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B956-E289D8FDA324</Name>
+	<Description>DMHC SubCategory</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-15T11:29:59.563</CreationDate>
+	<Notes/>
+	<Text>DMHC SubCategory</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B956-E289D8FD2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

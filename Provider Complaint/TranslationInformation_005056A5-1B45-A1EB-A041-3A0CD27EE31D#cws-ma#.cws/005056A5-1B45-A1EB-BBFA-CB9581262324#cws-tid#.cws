@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBFA-CB9581266324">
+	<DocumentID>005056A5-1B45-A1EB-BBFA-CB9581262324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBFA-CB9581262324</Name>
+	<Description>What is Written Determination of PDR Answer</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-28T21:34:28.984</CreationDate>
+	<Notes/>
+	<DefaultText>What is Written Determination of PDR Answer</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BBFA-CB958126A324"
+		/>
+	</Translations>
+</TextIdentifier>

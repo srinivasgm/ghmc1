@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A8E6-20D97D8FA320">
+	<DocumentID>005056A5-1B45-A1EB-A8E6-20D97D8F6320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A8E6-20D97D8F6320</Name>
+	<Description>Provider NPI</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-22T18:43:07.854</CreationDate>
+	<Notes/>
+	<Text>Provider NPI</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A8E6-20D97D8EE320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B537-B5DFE35E2324">
+	<DocumentID>005056A5-1B45-A1EB-B537-B5DFE35DE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B537-B5DFE35DE324</Name>
+	<Description>CreateClaim_ClaimAttachments</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-24T11:33:27.577</CreationDate>
+	<Notes/>
+	<DefaultText>CreateClaim_ClaimAttachments</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B537-B5DFE35E6324"
+		/>
+	</Translations>
+</TextIdentifier>

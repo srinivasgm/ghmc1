@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B6CB-953CF2B92324">
+	<DocumentID>005056A5-1B45-A1EB-B6CB-953CF2B8E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B6CB-953CF2B8E324</Name>
+	<Description>Claim_ToOneRFIFormProvider</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-02T12:26:59.714</CreationDate>
+	<Notes/>
+	<Text>Claim_ToOneRFIFormProvider</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B6CB-953CF2B86324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

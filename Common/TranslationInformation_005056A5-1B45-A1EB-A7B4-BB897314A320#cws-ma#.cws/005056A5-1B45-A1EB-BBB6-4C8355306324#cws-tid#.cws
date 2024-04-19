@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-4C835530A324">
+	<DocumentID>005056A5-1B45-A1EB-BBB6-4C8355306324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBB6-4C8355306324</Name>
+	<Description>All Jurisdiction Agency</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T12:51:37.366</CreationDate>
+	<Notes/>
+	<DefaultText>All Jurisdiction Agency</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A7B4-BB8973152320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BBB6-4C835530E324"
+		/>
+	</Translations>
+</TextIdentifier>

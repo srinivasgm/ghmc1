@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B57C-6670BEA96324">
+	<DocumentID>005056A5-1B45-A1EB-B57C-6670BEA92324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B57C-6670BEA92324</Name>
+	<Description>Text cannot be Error (onUpdate)</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-25T20:12:20.893</CreationDate>
+	<Notes/>
+	<Text>Text cannot be Error (onUpdate)</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B57C-6670BEA8A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

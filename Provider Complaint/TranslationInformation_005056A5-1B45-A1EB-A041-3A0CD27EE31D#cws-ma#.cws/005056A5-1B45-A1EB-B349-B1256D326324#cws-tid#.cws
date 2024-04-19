@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B349-B1256D32A324">
+	<DocumentID>005056A5-1B45-A1EB-B349-B1256D326324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B349-B1256D326324</Name>
+	<Description>Date of service must be within the last four years (not later than {now - duration(&quot;P4Y&quot;)})</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-14T16:00:10.075</CreationDate>
+	<Notes/>
+	<DefaultText>Date of service must be within the last four years (not later than {now - duration(&quot;P4Y&quot;)})</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B349-B1256D32E324"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25E-F26D54E62324">
+	<DocumentID>005056A5-1B45-A1EB-B25E-F26D54E5E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25E-F26D54E5E324</Name>
+	<Description>Set Allowed 45 Days to Yes</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-09T23:42:30.74</CreationDate>
+	<Notes/>
+	<Text>Set Allowed 45 Days to Yes</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25E-F26D54E56324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

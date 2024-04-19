@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD43-94C874BD6322">
+	<DocumentID>005056A5-1B45-A1EB-AD43-94C874BD2322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD43-94C874BD2322</Name>
+	<Description>Read PCS Configuration</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-15T00:11:24.902</CreationDate>
+	<Notes/>
+	<Text>Read PCS Configuration</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD43-94C874BCA322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

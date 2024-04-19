@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B253-D68527202324">
+	<DocumentID>005056A5-1B45-A1EB-B253-D685271FE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B253-D685271FE324</Name>
+	<Description>The complaint waits here for the RFI response (not sure how that interaction works), it should exit this state automatically when an RFI is received.</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T18:43:09.559</CreationDate>
+	<Notes/>
+	<Text>The complaint waits here for the RFI response (not sure how that interaction works), it should exit this state automatically when an RFI is received.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B253-D685271F6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

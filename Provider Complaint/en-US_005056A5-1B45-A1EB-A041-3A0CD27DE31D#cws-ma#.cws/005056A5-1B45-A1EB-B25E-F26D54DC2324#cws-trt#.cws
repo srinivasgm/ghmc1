@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25E-F26D54DC6324">
+	<DocumentID>005056A5-1B45-A1EB-B25E-F26D54DC2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25E-F26D54DC2324</Name>
+	<Description>Set PDR Determination Respond Due Date,  Exception Message, and Allowed 45 Days to No</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-09T23:42:30.74</CreationDate>
+	<Notes/>
+	<Text>Set PDR Determination Respond Due Date,  Exception Message, and Allowed 45 Days to No</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25E-F26D54DBA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

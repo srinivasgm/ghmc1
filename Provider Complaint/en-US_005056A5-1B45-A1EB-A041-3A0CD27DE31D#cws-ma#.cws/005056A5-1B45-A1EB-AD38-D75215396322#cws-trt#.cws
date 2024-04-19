@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD38-D7521539A322">
+	<DocumentID>005056A5-1B45-A1EB-AD38-D75215396322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD38-D75215396322</Name>
+	<Description>Open General Inquiry</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T18:52:35.684</CreationDate>
+	<Notes/>
+	<Text>Open General Inquiry</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD38-D7521538E322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A750-9A26D39A2320">
+	<DocumentID>005056A5-1B45-A1EB-A750-9A26D399E320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A750-9A26D399E320</Name>
+	<Description>Health Provider Details</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-14T17:01:50.972</CreationDate>
+	<Notes/>
+	<Text>Health Provider Details</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A750-9A26D3996320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

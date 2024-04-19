@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AB08-F3CA93336321">
+	<DocumentID>005056A5-1B45-A1EB-AB08-F3CA93332321</DocumentID>
+	<Name>005056A5-1B45-A1EB-AB08-F3CA93332321</Name>
+	<Description>All PCS Document Types</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-03T15:27:44.084</CreationDate>
+	<Notes/>
+	<DefaultText>All PCS Document Types</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-AB08-F3CA9333A321"
+		/>
+	</Translations>
+</TextIdentifier>

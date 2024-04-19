@@ -1,0 +1,19 @@
+
+<EmailTemplateBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplateBuildingBlock"
+	typeVersion="37B215D1-B4AB-40A1-B3E3-3DE39BF492DA"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ACD8-26A582DF6322">
+	<DocumentID>005056A5-1B45-A1EB-ACD8-26A582DF2322</DocumentID>
+	<Name>EmailTemplates</Name>
+	<Description>EmailTemplates</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-12T20:30:45.944</CreationDate>
+	<Notes/>
+	<EmailTemplates/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-ACD8-26A582E4A322"
+		/>
+	</Entity>
+</EmailTemplateBuildingBlock>

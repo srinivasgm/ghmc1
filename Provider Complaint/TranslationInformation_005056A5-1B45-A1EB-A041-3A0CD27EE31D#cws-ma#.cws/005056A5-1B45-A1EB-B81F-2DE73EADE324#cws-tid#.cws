@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B81F-2DE73EAE2324">
+	<DocumentID>005056A5-1B45-A1EB-B81F-2DE73EADE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B81F-2DE73EADE324</Name>
+	<Description>RFI_Deadline Overdue Process</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-09T06:13:16.739</CreationDate>
+	<Notes/>
+	<DefaultText>RFI_Deadline Overdue Process</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B81F-2DE73EAE6324"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A65B-E64769BFA320">
+	<DocumentID>005056A5-1B45-A1EB-A65B-E64769BF6320</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-09T20:17:15.305</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A65B-E64769BEE320">
+			<DocumentID>005056A5-1B45-A1EB-A65B-E64769BEA320</DocumentID>
+			<Name>CreateRBO</Name>
+			<Description>Create RBO</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-09T20:17:15.305</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A5CA-CE27BB94E320"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A65C-178D1F956320">
+			<DocumentID>005056A5-1B45-A1EB-A65C-178D1F952320</DocumentID>
+			<Name>DeleteRBO</Name>
+			<Description>Delete RBO</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-09T20:17:15.305</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A5CA-CE27BB94E320"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-A5CA-CE27BB94E320"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A65C-178D1F966320">
+			<DocumentID>005056A5-1B45-A1EB-A65C-178D1F962320</DocumentID>
+			<Name>ReadRBO</Name>
+			<Description>Read RBO</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-09T20:17:15.289</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A5CA-CE27BB94E320"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A65C-178D1F95E320">
+			<DocumentID>005056A5-1B45-A1EB-A65C-178D1F95A320</DocumentID>
+			<Name>UpdateRBO</Name>
+			<Description>Update RBO</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-09T20:17:15.305</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A5CA-CE27BB94E320"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

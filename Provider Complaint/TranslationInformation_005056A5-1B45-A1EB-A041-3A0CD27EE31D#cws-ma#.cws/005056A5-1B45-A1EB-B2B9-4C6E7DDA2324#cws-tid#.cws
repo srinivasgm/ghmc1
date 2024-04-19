@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2B9-4C6E7DDA6324">
+	<DocumentID>005056A5-1B45-A1EB-B2B9-4C6E7DDA2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2B9-4C6E7DDA2324</Name>
+	<Description>Henry Debug Create For IC Example</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-11T18:49:37.98</CreationDate>
+	<Notes/>
+	<DefaultText>Henry Debug Create For IC Example</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B2B9-4C6E7DDAA324"
+		/>
+	</Translations>
+</TextIdentifier>

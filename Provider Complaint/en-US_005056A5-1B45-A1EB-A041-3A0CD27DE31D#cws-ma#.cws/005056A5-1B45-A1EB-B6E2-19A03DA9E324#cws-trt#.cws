@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B6E2-19A03DAA2324">
+	<DocumentID>005056A5-1B45-A1EB-B6E2-19A03DA9E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B6E2-19A03DA9E324</Name>
+	<Description>This BPM may not be needed after switching to use a separate form for issue summary.</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-02T22:54:49.664</CreationDate>
+	<Notes/>
+	<Text>This BPM may not be needed after switching to use a separate form for issue summary.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B6E2-19A03DA96324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

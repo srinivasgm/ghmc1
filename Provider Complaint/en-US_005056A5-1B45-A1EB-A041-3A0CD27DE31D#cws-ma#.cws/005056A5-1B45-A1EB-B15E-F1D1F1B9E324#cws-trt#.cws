@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B15E-F1D1F1BA2324">
+	<DocumentID>005056A5-1B45-A1EB-B15E-F1D1F1B9E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B15E-F1D1F1B9E324</Name>
+	<Description>DMHC Category 2</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-04T21:33:19.135</CreationDate>
+	<Notes/>
+	<Text>DMHC Category 2</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B15E-F1D1F1B96324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

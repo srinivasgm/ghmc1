@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBEE-DFD21BE36324">
+	<DocumentID>005056A5-1B45-A1EB-BBEE-DFD21BE32324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBEE-DFD21BE32324</Name>
+	<Description>PCS Claim Close Reasons - All</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-28T15:54:33.573</CreationDate>
+	<Notes/>
+	<Text>PCS Claim Close Reasons - All</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBEE-DFD21BE2A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

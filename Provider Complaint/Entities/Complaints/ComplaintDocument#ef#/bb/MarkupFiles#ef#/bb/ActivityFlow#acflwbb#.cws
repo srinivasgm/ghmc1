@@ -1,0 +1,24 @@
+
+<ActivityflowBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
+	typeVersion="37202967-F137-46EB-9041-3D476F5D6342"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B337-BE85B966E324">
+	<DocumentID>005056A5-1B45-A1EB-B337-BE85B966A324</DocumentID>
+	<Name>ActivityFlow</Name>
+	<Description>ActivityFlow</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-14T07:07:52.5</CreationDate>
+	<Notes/>
+	<Activityflows/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-B337-BE85B96A2324"
+		/>
+	</Entity>
+	<InboxTask/>
+	<InlinedEntities/>
+	<OwnedActions/>
+	<Properties/>
+	<Relationships/>
+</ActivityflowBuildingBlock>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD32-4461DEA6E322">
+	<DocumentID>005056A5-1B45-A1EB-AD32-4461DEA6A322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD32-4461DEA6A322</Name>
+	<Description>Nature of Complaint Main Categories</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-14T15:48:27.867</CreationDate>
+	<Notes/>
+	<DefaultText>Nature of Complaint Main Categories</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-AD32-4461DEA72322"
+		/>
+	</Translations>
+</TextIdentifier>

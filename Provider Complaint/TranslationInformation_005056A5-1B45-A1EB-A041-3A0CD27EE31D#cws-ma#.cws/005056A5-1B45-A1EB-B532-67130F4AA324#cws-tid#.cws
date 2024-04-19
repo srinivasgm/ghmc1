@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B532-67130F4AE324">
+	<DocumentID>005056A5-1B45-A1EB-B532-67130F4AA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B532-67130F4AA324</Name>
+	<Description>ItemId</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-24T08:58:04.051</CreationDate>
+	<Notes/>
+	<DefaultText>ItemId</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B532-67130F4B2324"
+		/>
+	</Translations>
+</TextIdentifier>

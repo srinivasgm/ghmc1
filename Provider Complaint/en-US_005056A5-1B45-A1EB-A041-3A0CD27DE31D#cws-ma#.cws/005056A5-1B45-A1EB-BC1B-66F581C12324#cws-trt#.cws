@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC1B-66F581C16324">
+	<DocumentID>005056A5-1B45-A1EB-BC1B-66F581C12324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC1B-66F581C12324</Name>
+	<Description>ClaimDocument_CalculateMissingDocumentsForRHPIResponse</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-29T13:06:05.858</CreationDate>
+	<Notes/>
+	<Text>ClaimDocument_CalculateMissingDocumentsForRHPIResponse</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC1B-66F581C0A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

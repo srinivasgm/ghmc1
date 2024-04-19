@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8B1-D2F315D32324">
+	<DocumentID>005056A5-1B45-A1EB-B8B1-D2F315D2E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8B1-D2F315D2E324</Name>
+	<Description>Assign to Review when all the claims are assigned</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-12T05:58:04.852</CreationDate>
+	<Notes/>
+	<Text>Assign to Review when all the claims are assigned</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8B1-D2F315D26324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

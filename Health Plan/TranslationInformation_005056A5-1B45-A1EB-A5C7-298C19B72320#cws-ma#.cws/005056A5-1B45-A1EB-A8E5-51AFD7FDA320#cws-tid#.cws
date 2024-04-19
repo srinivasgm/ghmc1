@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A8E5-51AFD7FDE320">
+	<DocumentID>005056A5-1B45-A1EB-A8E5-51AFD7FDA320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A8E5-51AFD7FDA320</Name>
+	<Description>Health Plan</Description>
+	<CreatedBy>kpandran@opentext.com</CreatedBy>
+	<CreationDate>2021-04-22T18:24:32.806</CreationDate>
+	<Notes/>
+	<DefaultText>Health Plan</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B7A320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A8E5-51AFD7FE2320"
+		/>
+	</Translations>
+</TextIdentifier>

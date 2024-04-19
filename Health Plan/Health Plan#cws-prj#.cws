@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A5C7-298C19B9A320">
+	<DocumentID>005056A5-1B45-A1EB-A5C7-298C19B96320</DocumentID>
+	<Name>Health Plan</Name>
+	<Description>Health Plan</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-06T22:54:11.38</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A5C7-298C19B86320">
+			<DocumentID>005056A5-1B45-A1EB-A5C7-298C19B82320</DocumentID>
+			<Name>CADMHC Health Plan</Name>
+			<Description>CADMHC Health Plan</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-06T22:54:11.38</CreationDate>
+			<Notes/>
+			<BuildNumber>438</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>CADMHC Health Plan 1.0.438</ISVPackageFileName>
+			<ISVPackageOwner>CADMHC</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Health Plan</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B8E320"
+			path="Health Plan"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A5C7-298C19B7E320">
+			<DocumentID>005056A5-1B45-A1EB-A5C7-298C19B7A320</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-04-06T22:54:11.38</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="005056A5-1B45-A1EB-A5C7-298C19B6E320">
+					<DocumentID>005056A5-1B45-A1EB-A5C7-298C19B6A320</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>hmehta@opentext.com</CreatedBy>
+					<CreationDate>2021-04-06T22:54:11.38</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="005056A5-1B45-A1EB-A5C7-298C19B62320"
+							path="Health Plan/en-US_005056A5-1B45-A1EB-A5C7-298C19B62320"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="005056A5-1B45-A1EB-A5C7-298C19B7A320"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="005056A5-1B45-A1EB-A5C7-298C19B72320"
+					path="Health Plan/TranslationInformation_005056A5-1B45-A1EB-A5C7-298C19B72320"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

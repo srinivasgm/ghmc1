@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ADC9-67FC35686324">
+	<DocumentID>005056A5-1B45-A1EB-ADC9-67FC35682324</DocumentID>
+	<Name>005056A5-1B45-A1EB-ADC9-67FC35682324</Name>
+	<Description>OnGenEmailReceive</Description>
+	<CreatedBy>otadmin@otds.admin</CreatedBy>
+	<CreationDate>2021-05-17T15:36:26.768</CreationDate>
+	<Notes/>
+	<Text>OnGenEmailReceive</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ADC9-67FC3567A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

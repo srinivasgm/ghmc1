@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B267-EC2196776324">
+	<DocumentID>005056A5-1B45-A1EB-B267-EC2196772324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B267-EC2196772324</Name>
+	<Description>Complaint_TestBPM</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-10T03:56:06.525</CreationDate>
+	<Notes/>
+	<DefaultText>Complaint_TestBPM</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B267-EC219677A324"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAAD-93B41D2AE324">
+	<DocumentID>005056A5-1B45-A1EB-BAAD-93B41D2AA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAAD-93B41D2AA324</Name>
+	<Description>PCS Denial Category History Log</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T06:34:36.835</CreationDate>
+	<Notes/>
+	<Text>PCS Denial Category History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAAD-93B41D2A2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

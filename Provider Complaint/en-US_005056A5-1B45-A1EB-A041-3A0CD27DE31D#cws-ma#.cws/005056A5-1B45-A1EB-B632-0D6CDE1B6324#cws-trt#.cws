@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B632-0D6CDE1BA324">
+	<DocumentID>005056A5-1B45-A1EB-B632-0D6CDE1B6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B632-0D6CDE1B6324</Name>
+	<Description>Analyst Assignment</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-29T11:10:33.595</CreationDate>
+	<Notes/>
+	<Text>Analyst Assignment</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B632-0D6CDE1AE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

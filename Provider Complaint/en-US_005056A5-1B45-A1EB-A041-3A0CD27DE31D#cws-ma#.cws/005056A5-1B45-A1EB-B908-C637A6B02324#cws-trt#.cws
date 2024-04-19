@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B908-C637A6B06324">
+	<DocumentID>005056A5-1B45-A1EB-B908-C637A6B02324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B908-C637A6B02324</Name>
+	<Description>Is Delivery of Emergency Or On Call Services Involved In Claim Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T23:00:33.834</CreationDate>
+	<Notes/>
+	<Text>Is Delivery of Emergency Or On Call Services Involved In Claim Valid</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B908-C637A6AFA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

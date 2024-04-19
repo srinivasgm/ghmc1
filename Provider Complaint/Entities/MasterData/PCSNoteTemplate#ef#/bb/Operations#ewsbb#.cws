@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B4ED-1E92773BE324">
+	<DocumentID>005056A5-1B45-A1EB-B4ED-1E92773BA324</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-22T23:54:09.695</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B512-8800330EA324">
+			<DocumentID>005056A5-1B45-A1EB-B512-8800330E6324</DocumentID>
+			<Name>CreatePCSNoteTemplate</Name>
+			<Description>Create PCSNoteTemplate</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-06-23T18:29:48.558</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B4EB-E560D4386324"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-B4EB-E560D4386324"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B512-8800330E2324">
+			<DocumentID>005056A5-1B45-A1EB-B512-8800330DE324</DocumentID>
+			<Name>ReadPCSNoteTemplate</Name>
+			<Description>Read PCSNoteTemplate</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-06-23T18:29:48.558</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B4EB-E560D4386324"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B512-8800330DA324">
+			<DocumentID>005056A5-1B45-A1EB-B512-8800330D6324</DocumentID>
+			<Name>UpdatePCSNoteTemplate</Name>
+			<Description>Update PCSNoteTemplate</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-06-23T18:29:48.558</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-B4EB-E560D4386324"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

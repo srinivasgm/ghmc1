@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ACD1-74500AD9E322">
+	<DocumentID>005056A5-1B45-A1EB-ACD1-74500AD9A322</DocumentID>
+	<Name>005056A5-1B45-A1EB-ACD1-74500AD9A322</Name>
+	<Description>PCS Nature of Complaint Sub Category History Log</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-12T17:18:06.177</CreationDate>
+	<Notes/>
+	<Text>PCS Nature of Complaint Sub Category History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ACD1-74500AD92322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

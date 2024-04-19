@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B337-23B397632324">
+	<DocumentID>005056A5-1B45-A1EB-B337-23B39762E324</DocumentID>
+	<Name>Delete Complaint Scheduler</Name>
+	<Description>Delete Complaint Scheduler</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-14T07:51:12.14</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="Delete Complaint Scheduler"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2021-06-11T12:44:11.107"
+			msgHolderLastModified="2021-06-11T11:29:10.336">
+			<datetime>
+				<daily>
+					<time>0:20</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B337-23B397616324">
+			<DocumentID>005056A5-1B45-A1EB-B337-23B397612324</DocumentID>
+			<Name>005056A5-1B45-A1EB-B337-23B397612324</Name>
+			<Description>005056A5-1B45-A1EB-B337-23B397612324</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-06-14T07:51:12.14</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="005056A5-1B45-A1EB-B2A9-E30266B36324"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

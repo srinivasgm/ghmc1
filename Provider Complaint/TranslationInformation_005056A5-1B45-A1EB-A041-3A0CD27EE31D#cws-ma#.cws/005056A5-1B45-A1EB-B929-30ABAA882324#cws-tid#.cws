@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B929-30ABAA886324">
+	<DocumentID>005056A5-1B45-A1EB-B929-30ABAA882324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B929-30ABAA882324</Name>
+	<Description>Nature Of Complaint_1</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-14T13:18:34.545</CreationDate>
+	<Notes/>
+	<DefaultText>Nature Of Complaint_1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B929-30ABAA88A324"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-9DE30CCC6324">
+	<DocumentID>005056A5-1B45-A1EB-BBB6-9DE30CCC2324</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T13:02:34.615</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-9DE30CCBA324">
+			<DocumentID>005056A5-1B45-A1EB-BBB6-9DE30CCB6324</DocumentID>
+			<Name>CreatePCSDetermination</Name>
+			<Description>Create PCSDetermination</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-27T13:02:34.615</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BAAA-FC8FCD76E324"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-9DE30CCA2324">
+			<DocumentID>005056A5-1B45-A1EB-BBB6-9DE30CC9E324</DocumentID>
+			<Name>DeletePCSDetermination</Name>
+			<Description>Delete PCSDetermination</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-27T13:02:34.615</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BAAA-FC8FCD76E324"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-BAAA-FC8FCD76E324"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-9DE30CCB2324">
+			<DocumentID>005056A5-1B45-A1EB-BBB6-9DE30CCAE324</DocumentID>
+			<Name>ReadPCSDetermination</Name>
+			<Description>Read PCSDetermination</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-27T13:02:34.615</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BAAA-FC8FCD76E324"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-9DE30CCAA324">
+			<DocumentID>005056A5-1B45-A1EB-BBB6-9DE30CCA6324</DocumentID>
+			<Name>UpdatePCSDetermination</Name>
+			<Description>Update PCSDetermination</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-27T13:02:34.615</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BAAA-FC8FCD76E324"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

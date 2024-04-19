@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8CE-C7D25AE7E324">
+	<DocumentID>005056A5-1B45-A1EB-B8CE-C7D25AE7A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8CE-C7D25AE7A324</Name>
+	<Description>Complaint_ValidateAndSubmitOrReject</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-12T18:21:37.937</CreationDate>
+	<Notes/>
+	<Text>Complaint_ValidateAndSubmitOrReject</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8CE-C7D25AE72324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

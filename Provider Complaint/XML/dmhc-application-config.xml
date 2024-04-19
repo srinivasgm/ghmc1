@@ -1,0 +1,31 @@
+<dmhcapplicationconfig>
+	<claimsassignment>
+		<roles>
+		     <analystrole>PCS Analyst</analystrole>
+		</roles>
+	</claimsassignment>
+	<bundledDocumentType>
+		<name>Bundled Documents</name>
+	</bundledDocumentType>
+    <claimrhpiduration>
+        <value>15</value>
+    </claimrhpiduration>
+    <claimrhpiemailtemplate>
+        <value>Complaint_RHPIResponseEmailTemplate</value>
+    </claimrhpiemailtemplate>
+    <claimrhpireminderemailtemplates>
+        <twodaysremindertemplatename>Complaint_RHPITwoDaysReminderEmailTemplate</twodaysremindertemplatename>
+        <fivedaysremindertemplatename>Complaint_RHPIFiveDaysReminderEmailTemplate</fivedaysremindertemplatename>
+        <tendaysremindertemplatename>Complaint_RHPITenDaysReminderEmailTemplate</tendaysremindertemplatename>
+        <overduerhpitemplatename>Complaint_RHPIResponseOverDueEmailTemplate</overduerhpitemplatename>
+    </claimrhpireminderemailtemplates>
+    <claimrhpitempEmailAddress>
+        <value>pdoshi@solusofttech.com</value>
+    </claimrhpitempEmailAddress>
+    <RHPIDefaultNoteType>
+    	<NoteType>General Note</NoteType>
+    </RHPIDefaultNoteType>
+	<dmhcBusinessCalendar>
+		<Name>BusinessCalendar/DMHC Business Calendar</Name>
+	</dmhcBusinessCalendar>
+</dmhcapplicationconfig>

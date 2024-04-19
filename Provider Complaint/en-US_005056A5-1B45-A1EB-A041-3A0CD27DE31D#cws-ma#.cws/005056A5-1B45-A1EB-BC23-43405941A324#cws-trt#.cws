@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC23-43405941E324">
+	<DocumentID>005056A5-1B45-A1EB-BC23-43405941A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC23-43405941A324</Name>
+	<Description>FindClaimsByClaimNumberAssignedByPayor</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-29T17:44:36.495</CreationDate>
+	<Notes/>
+	<Text>FindClaimsByClaimNumberAssignedByPayor</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC23-434059412324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

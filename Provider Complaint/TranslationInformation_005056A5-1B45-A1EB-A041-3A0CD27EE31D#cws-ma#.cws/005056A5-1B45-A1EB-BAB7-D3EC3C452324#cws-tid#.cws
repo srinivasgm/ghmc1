@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAB7-D3EC3C456324">
+	<DocumentID>005056A5-1B45-A1EB-BAB7-D3EC3C452324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAB7-D3EC3C452324</Name>
+	<Description>Did the payor receive the provider dispute?</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T12:20:21.111</CreationDate>
+	<Notes/>
+	<DefaultText>Did the payor receive the provider dispute?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BAB7-D3EC3C45A324"
+		/>
+	</Translations>
+</TextIdentifier>

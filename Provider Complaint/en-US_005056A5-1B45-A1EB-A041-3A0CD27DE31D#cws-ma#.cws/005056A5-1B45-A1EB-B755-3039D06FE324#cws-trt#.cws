@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B755-3039D0702324">
+	<DocumentID>005056A5-1B45-A1EB-B755-3039D06FE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B755-3039D06FE324</Name>
+	<Description>Overdue Text</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-05T06:11:24.38</CreationDate>
+	<Notes/>
+	<Text>Overdue Text</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B755-3039D06F6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A798-63D7ADD16320">
+	<DocumentID>005056A5-1B45-A1EB-A798-63D7ADD12320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A798-63D7ADD12320</Name>
+	<Description>Breadcrumbs2</Description>
+	<CreatedBy>kpandran@opentext.com</CreatedBy>
+	<CreationDate>2021-04-16T03:13:39.802</CreationDate>
+	<Notes/>
+	<DefaultText>Breadcrumbs2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B7A320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A798-63D7ADD1A320"
+		/>
+	</Translations>
+</TextIdentifier>

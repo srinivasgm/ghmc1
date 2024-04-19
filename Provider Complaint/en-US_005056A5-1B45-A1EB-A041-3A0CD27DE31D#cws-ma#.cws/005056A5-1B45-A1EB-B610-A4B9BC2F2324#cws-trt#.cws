@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B610-A4B9BC2F6324">
+	<DocumentID>005056A5-1B45-A1EB-B610-A4B9BC2F2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B610-A4B9BC2F2324</Name>
+	<Description>Create And View RFIs</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-28T19:29:57.39</CreationDate>
+	<Notes/>
+	<Text>Create And View RFIs</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B610-A4B9BC2EA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

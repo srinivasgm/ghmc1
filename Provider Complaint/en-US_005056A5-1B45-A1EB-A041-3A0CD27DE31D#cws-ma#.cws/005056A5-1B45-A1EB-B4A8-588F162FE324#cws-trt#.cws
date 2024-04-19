@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B4A8-588F16302324">
+	<DocumentID>005056A5-1B45-A1EB-B4A8-588F162FE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B4A8-588F162FE324</Name>
+	<Description>Analyst View - Provider Complaint System</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-21T17:51:37.26</CreationDate>
+	<Notes/>
+	<Text>Analyst View - Provider Complaint System</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B4A8-588F162F6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

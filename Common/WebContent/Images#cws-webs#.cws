@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AE3C-178CB5176324">
+	<DocumentID>005056A5-1B45-A1EB-AE3C-178CB5172324</DocumentID>
+	<Name>Images</Name>
+	<Description>Images</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-20T15:40:02.341</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="005056A5-1B45-A1EB-AD36-46EA2795E322"
+			path="Common/Images"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

@@ -1,0 +1,18 @@
+
+<EmailConfig
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.emailconfig.EmailConfig"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA71-055316276320">
+	<DocumentID>005056A5-1B45-A1EB-AA71-055316272320</DocumentID>
+	<Name>GeneralInquiryEmailConfiguration</Name>
+	<Description>General Inquiry Email Configuration</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T14:57:03.818</CreationDate>
+	<Notes/>
+	<EmailProfileUserID></EmailProfileUserID>
+	<EnableDefault>false</EnableDefault>
+	<From></From>
+	<FromDisplayName></FromDisplayName>
+	<ReplyTo></ReplyTo>
+	<DisplayName/>
+</EmailConfig>

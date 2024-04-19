@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-D65F97E0E321">
+	<DocumentID>005056A5-1B45-A1EB-ABD2-D65F97E0A321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABD2-D65F97E0A321</Name>
+	<Description>All PDR Exceptions</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:51:27.313</CreationDate>
+	<Notes/>
+	<DefaultText>All PDR Exceptions</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-ABD2-D65F97E12321"
+		/>
+	</Translations>
+</TextIdentifier>

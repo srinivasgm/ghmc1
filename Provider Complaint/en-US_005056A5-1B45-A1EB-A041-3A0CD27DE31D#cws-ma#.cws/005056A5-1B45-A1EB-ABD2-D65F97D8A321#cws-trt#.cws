@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-D65F97D8E321">
+	<DocumentID>005056A5-1B45-A1EB-ABD2-D65F97D8A321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABD2-D65F97D8A321</Name>
+	<Description>PDR Exception History Log</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:48:14.922</CreationDate>
+	<Notes/>
+	<Text>PDR Exception History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABD2-D65F97D82321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

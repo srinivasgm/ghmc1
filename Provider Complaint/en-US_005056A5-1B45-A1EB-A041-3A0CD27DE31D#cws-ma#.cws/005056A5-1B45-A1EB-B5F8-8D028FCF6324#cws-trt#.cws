@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B5F8-8D028FCFA324">
+	<DocumentID>005056A5-1B45-A1EB-B5F8-8D028FCF6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B5F8-8D028FCF6324</Name>
+	<Description>GetPersonByUserId</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-28T07:30:41.865</CreationDate>
+	<Notes/>
+	<Text>GetPersonByUserId</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B5F8-8D028FCEE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

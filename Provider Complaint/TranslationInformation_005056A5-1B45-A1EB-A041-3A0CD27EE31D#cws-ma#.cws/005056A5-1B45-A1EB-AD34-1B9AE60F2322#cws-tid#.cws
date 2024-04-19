@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD34-1B9AE60F6322">
+	<DocumentID>005056A5-1B45-A1EB-AD34-1B9AE60F2322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD34-1B9AE60F2322</Name>
+	<Description>Open Record</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T17:09:02.551</CreationDate>
+	<Notes/>
+	<DefaultText>Open Record</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-AD34-1B9AE60FA322"
+		/>
+	</Translations>
+</TextIdentifier>

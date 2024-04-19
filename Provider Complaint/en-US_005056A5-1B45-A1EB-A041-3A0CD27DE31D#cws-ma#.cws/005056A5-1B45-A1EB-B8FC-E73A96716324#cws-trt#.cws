@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8FC-E73A9671A324">
+	<DocumentID>005056A5-1B45-A1EB-B8FC-E73A96716324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8FC-E73A96716324</Name>
+	<Description>Is Nature File Extant</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T16:10:44.469</CreationDate>
+	<Notes/>
+	<Text>Is Nature File Extant</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8FC-E73A9670E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

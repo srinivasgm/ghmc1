@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A752-4B4905066320">
+	<DocumentID>005056A5-1B45-A1EB-A752-4B4905062320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A752-4B4905062320</Name>
+	<Description>All HP Health Plan</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-14T17:46:50.721</CreationDate>
+	<Notes/>
+	<DefaultText>All HP Health Plan</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B7A320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A752-4B490506A320"
+		/>
+	</Translations>
+</TextIdentifier>

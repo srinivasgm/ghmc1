@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9AE-5D3E9538A320">
+	<DocumentID>005056A5-1B45-A1EB-A9AE-5D3E95386320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9AE-5D3E95386320</Name>
+	<Description>USState_HistoryLog</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T18:07:14.014</CreationDate>
+	<Notes/>
+	<Text>USState_HistoryLog</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A7B4-BB8973142320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A9AE-5D3E9537E320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

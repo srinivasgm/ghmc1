@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AE9C-D69067ABE324">
+	<DocumentID>005056A5-1B45-A1EB-AE9C-D69067ABA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-AE9C-D69067ABA324</Name>
+	<Description>Health Plan Status Change</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-21T21:08:12.471</CreationDate>
+	<Notes/>
+	<Text>Health Plan Status Change</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AE9C-D69067AB2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

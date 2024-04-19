@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB6-5BDBC0BEA324">
+	<DocumentID>005056A5-1B45-A1EB-BBB6-5BDBC0BE6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBB6-5BDBC0BE6324</Name>
+	<Description>US States</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T12:58:15.293</CreationDate>
+	<Notes/>
+	<Text>US States</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A7B4-BB8973142320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBB6-5BDBC0BDE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B6DA-7BAA6A1A6324">
+	<DocumentID>005056A5-1B45-A1EB-B6DA-7BAA6A1A2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B6DA-7BAA6A1A2324</Name>
+	<Description>ClaimNote_CreateIssueSummary</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-02T20:27:58.19</CreationDate>
+	<Notes/>
+	<Text>ClaimNote_CreateIssueSummary</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B6DA-7BAA6A19A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

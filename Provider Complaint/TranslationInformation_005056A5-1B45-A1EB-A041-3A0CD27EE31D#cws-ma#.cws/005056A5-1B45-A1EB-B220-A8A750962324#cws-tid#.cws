@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B21F-871B7DE46324">
+	<DocumentID>005056A5-1B45-A1EB-B220-A8A750962324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B220-A8A750962324</Name>
+	<Description>Claim withdrawn</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-08T18:00:48.049</CreationDate>
+	<Notes/>
+	<DefaultText>Claim withdrawn</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B21F-871B7DE4A324"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B903-8699968F2324">
+	<DocumentID>005056A5-1B45-A1EB-B903-8699968EE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B903-8699968EE324</Name>
+	<Description>Claim_ValidateFully</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T19:13:10.574</CreationDate>
+	<Notes/>
+	<Text>Claim_ValidateFully</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B903-8699968E6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

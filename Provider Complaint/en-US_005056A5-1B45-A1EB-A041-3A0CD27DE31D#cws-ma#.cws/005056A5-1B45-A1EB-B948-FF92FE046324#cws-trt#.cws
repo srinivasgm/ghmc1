@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B948-FF92FE04A324">
+	<DocumentID>005056A5-1B45-A1EB-B948-FF92FE046324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B948-FF92FE046324</Name>
+	<Description>Claim_DMHCDocumentsForm</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-15T04:24:29.604</CreationDate>
+	<Notes/>
+	<Text>Claim_DMHCDocumentsForm</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B948-FF92FE03E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

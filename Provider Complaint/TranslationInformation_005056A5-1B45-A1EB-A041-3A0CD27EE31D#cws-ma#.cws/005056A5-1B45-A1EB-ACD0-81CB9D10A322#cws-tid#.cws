@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ACD0-81CB9D10E322">
+	<DocumentID>005056A5-1B45-A1EB-ACD0-81CB9D10A322</DocumentID>
+	<Name>005056A5-1B45-A1EB-ACD0-81CB9D10A322</Name>
+	<Description>PCS Nature Of Complaint Master Category</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-12T17:10:17.728</CreationDate>
+	<Notes/>
+	<DefaultText>PCS Nature Of Complaint Master Category</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-ACD0-81CB9D112322"
+		/>
+	</Translations>
+</TextIdentifier>

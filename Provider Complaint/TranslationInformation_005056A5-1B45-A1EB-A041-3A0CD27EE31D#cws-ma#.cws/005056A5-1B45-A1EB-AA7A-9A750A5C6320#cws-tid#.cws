@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA7A-9A750A5CA320">
+	<DocumentID>005056A5-1B45-A1EB-AA7A-9A750A5C6320</DocumentID>
+	<Name>005056A5-1B45-A1EB-AA7A-9A750A5C6320</Name>
+	<Description>GeneralInquiry_CloseReasonCode</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-30T20:39:13.324</CreationDate>
+	<Notes/>
+	<DefaultText>GeneralInquiry_CloseReasonCode</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-AA7A-9A750A5CE320"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B90B-747EEB0A2324">
+	<DocumentID>005056A5-1B45-A1EB-B90B-747EEB09E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B90B-747EEB09E324</Name>
+	<Description>Is Date of PDR Submission Included With Determination Date</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T23:06:37.794</CreationDate>
+	<Notes/>
+	<Text>Is Date of PDR Submission Included With Determination Date</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B90B-747EEB096324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

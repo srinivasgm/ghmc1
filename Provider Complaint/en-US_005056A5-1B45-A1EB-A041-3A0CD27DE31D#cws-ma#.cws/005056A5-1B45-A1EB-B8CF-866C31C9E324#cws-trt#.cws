@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8CF-866C31CA2324">
+	<DocumentID>005056A5-1B45-A1EB-B8CF-866C31C9E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8CF-866C31C9E324</Name>
+	<Description>All Active PCS Note Template For RFI Provider</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-12T18:34:00.45</CreationDate>
+	<Notes/>
+	<Text>All Active PCS Note Template For RFI Provider</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8CF-866C31C96324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

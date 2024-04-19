@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B7FF-271A8440A324">
+	<DocumentID>005056A5-1B45-A1EB-B7FF-271A84406324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B7FF-271A84406324</Name>
+	<Description>PCS Analyst</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-08T15:02:10.361</CreationDate>
+	<Notes/>
+	<Text>PCS Analyst</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B7FF-271A843FE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

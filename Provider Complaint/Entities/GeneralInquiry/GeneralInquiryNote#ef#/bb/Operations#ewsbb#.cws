@@ -1,0 +1,41 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABA7-70168327E321">
+	<DocumentID>005056A5-1B45-A1EB-ABA7-70168327A321</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-06T19:06:39.473</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-AA3E-F2BCD29AE320"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-ABA7-701683272321">
+			<DocumentID>005056A5-1B45-A1EB-ABA7-70168326E321</DocumentID>
+			<Name>ReadGeneralInquiryNote</Name>
+			<Description>Read GeneralInquiryNote</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-05-06T19:06:39.473</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-AA3E-F2BCD29AE320"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation/>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAE4-14F363BF2324">
+	<DocumentID>005056A5-1B45-A1EB-BAE4-14F363BEE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAE4-14F363BEE324</Name>
+	<Description>Claim_RHPIExtensionRequestedFlag</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-23T09:02:30.691</CreationDate>
+	<Notes/>
+	<Text>Claim_RHPIExtensionRequestedFlag</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAE4-14F363BE6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

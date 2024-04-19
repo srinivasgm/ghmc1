@@ -1,0 +1,68 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA71-05531623A320">
+	<DocumentID>005056A5-1B45-A1EB-AA71-055316236320</DocumentID>
+	<Name>MisdirectedMail801</Name>
+	<Description>801 Misdirected Mail</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T15:05:56.576</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>{now.getMonth()+1}/{now.getDayOfMonth()}/{now.getYear()}&lt;br /&gt;
+&lt;br /&gt;
+{item.Properties.ContactFirstName} {item.Properties.ContactLastName}&lt;br /&gt;
+{item.Properties.ContactAddress}&lt;br /&gt;
+{item.Properties.ContactCity} {item.GeneralInquiry_USState.Properties.StateAbbreviation} {item.Properties.ContactZipCode1}&lt;br /&gt;
+&lt;br /&gt;
+Complaint #: {item.Properties.GeneralInquiryNumber}&lt;br /&gt;
+&lt;br /&gt;
+Dear {item.Properties.ContactFirstName} {item.Properties.ContactLastName}:&lt;br /&gt;
+&lt;br /&gt;
+The Department of Managed Health Care&amp;rsquo;s (Department) Provider Complaint Section received [[description of correspondence]] from your office that appears to be intended for [[insert intended recipient]]. For your convenience, we have enclosed your original documents so you may direct them to the appropriate entity.&lt;br /&gt;
+&lt;br /&gt;
+The mission of the Department is to protect consumers&amp;rsquo; health care rights and ensure a stable health care delivery system. The Provider Complaint Section is responsible for accepting provider complaints for review of unfair payment patterns and trend analysis.&lt;br /&gt;
+&lt;br /&gt;
+If you have any questions, please contact our office toll free at &amp;lt;a href=&amp;quot;te;:1-877-525-1295 &amp;quot;&amp;gt;1-877-525-1295&amp;lt;/a&amp;gt; or visit us online at &amp;lt;a href=&amp;quot;http://healthhelp.ca.gov&amp;quot;&amp;gt;http://healthhelp.ca.gov&amp;lt;/a&amp;gt;.&lt;br /&gt;
+&lt;br /&gt;
+If you wish to reply to this email, please do not edit the subject line.&amp;nbsp; This will ensure that your response is directed to the appropriate party.&lt;br /&gt;
+&lt;br /&gt;
+Sincerely,&lt;br /&gt;
+{User.toPerson.Properties.FirstName} {User.toPerson.Properties.LastName}&lt;br /&gt;
+Provider Complaint Section&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Misdirected Mail Received by the Provider Complaint Section - PCS-{item.Properties.GeneralInquiryNumber}</Subject>
+	<To>{item.Properties.ContactEMail}</To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-A8B6-74DF3E20E320"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AA71-48E2DD51E320">
+			<DocumentID>005056A5-1B45-A1EB-AA71-48E2DD51A320</DocumentID>
+			<Name>005056A5-1B45-A1EB-AA71-48E2DD51A320</Name>
+			<Description>005056A5-1B45-A1EB-AA71-48E2DD51A320</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-30T15:05:56.607</CreationDate>
+			<Notes/>
+			<DeveloperText>801 Misdirected Mail</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-AA71-48E2DD522320"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

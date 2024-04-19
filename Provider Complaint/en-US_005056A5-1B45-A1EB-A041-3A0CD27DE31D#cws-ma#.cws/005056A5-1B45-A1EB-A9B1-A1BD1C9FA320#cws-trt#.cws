@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9B1-A1BD1C9FE320">
+	<DocumentID>005056A5-1B45-A1EB-A9B1-A1BD1C9FA320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9B1-A1BD1C9FA320</Name>
+	<Description>Contact EMail</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T19:39:14.181</CreationDate>
+	<Notes/>
+	<Text>Contact EMail</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A9B1-A1BD1C9F2320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

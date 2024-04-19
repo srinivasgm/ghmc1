@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B757-0122F8762324">
+	<DocumentID>005056A5-1B45-A1EB-B757-0122F875E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B757-0122F875E324</Name>
+	<Description>FindAllOverdueRFI</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-05T07:02:32.289</CreationDate>
+	<Notes/>
+	<DefaultText>FindAllOverdueRFI</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B757-0122F8766324"
+		/>
+	</Translations>
+</TextIdentifier>

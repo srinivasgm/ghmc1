@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAB5-FBB597332324">
+	<DocumentID>005056A5-1B45-A1EB-BAB5-FBB59732E324</DocumentID>
+	<Name>HideIfProviderRFIEmpty</Name>
+	<Description>HideIfProviderRFIEmpty</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T10:34:37.618</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-FA36F6FF6324"
+		/>
+	</BuildingBlock>
+</Category>

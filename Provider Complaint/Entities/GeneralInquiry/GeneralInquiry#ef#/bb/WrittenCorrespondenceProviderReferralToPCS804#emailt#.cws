@@ -1,0 +1,64 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AC9F-D02A5DD2A322">
+	<DocumentID>005056A5-1B45-A1EB-AC9F-D02A5DD26322</DocumentID>
+	<Name>WrittenCorrespondenceProviderReferralToPCS804</Name>
+	<Description>WrittenCorrespondenceProviderReferralToPCS804</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-11T17:39:45.776</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>{now.getMonth()+1}/{now.getDayOfMonth()}/{now.getYear()}&lt;br /&gt;
+&lt;br /&gt;
+Complaint #: {item.Properties.GeneralInquiryNumber}&lt;br /&gt;
+&lt;br /&gt;
+Dear {item.Properties.ContactFirstName} {item.Properties.ContactLastName}:&lt;br /&gt;
+&lt;br /&gt;
+Thank you for contacting the Provider Complaint Section at the Department of Managed Health Care (Department). The Department recognizes that it is important for hospitals, doctors and other providers to be paid promptly and accurately, and our provider complaint process is offered as a means of ensuring prompt payment.&lt;br /&gt;
+&lt;br /&gt;
+Before the Department can accept a provider complaint, the provider is required to submit the underlying dispute to the payor&amp;rsquo;s Provider Dispute Resolution (PDR) mechanism for a minimum of 45 working days. If the provider has submitted PDR to the payor and disagrees with the payor&amp;rsquo;s response, or if the payor fails to respond to the dispute, the provider may file a provider complaint with the Department online at &amp;lt;a href=&amp;quot;http://healthhelp.ca.gov&amp;quot;&amp;gt;http://healthhelp.ca.gov&amp;lt;/a&amp;gt;.&lt;br /&gt;
+&lt;br /&gt;
+If you have any questions, please contact our office toll free at &amp;lt;a href=&amp;quot;tel:1-877-525-1295&amp;quot;&amp;gt;1-877-525-1295&amp;lt;/a&amp;gt;.&lt;br /&gt;
+&lt;br /&gt;
+If you wish to reply to this email, please do not edit the subject line.&amp;nbsp; This will ensure that your response is directed to the appropriate party.&lt;br /&gt;
+&lt;br /&gt;
+Sincerely,&lt;br /&gt;
+{User.toPerson.Properties.FirstName} {User.toPerson.Properties.LastName}&lt;br /&gt;
+Provider Complaint Section&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Provider Dispute Resolution Referral - PCS-{item.Properties.GeneralInquiryNumber}</Subject>
+	<To>{item.Properties.ContactEMail}</To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-A8B6-74DF3E20E320"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AC9F-D02A5DD22322">
+			<DocumentID>005056A5-1B45-A1EB-AC9F-D02A5DD1E322</DocumentID>
+			<Name>005056A5-1B45-A1EB-AC9F-D02A5DD1E322</Name>
+			<Description>005056A5-1B45-A1EB-AC9F-D02A5DD1E322</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-05-11T17:39:45.776</CreationDate>
+			<Notes/>
+			<DeveloperText>804 Written Correspondence Provider Referral to PCS</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-AA71-48E2DD4DA320"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

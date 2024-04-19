@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2A6-74A3F0AAE324">
+	<DocumentID>005056A5-1B45-A1EB-B2A6-74A3F0AAA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2A6-74A3F0AAA324</Name>
+	<Description>Health Plan Contract</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-11T09:46:31.051</CreationDate>
+	<Notes/>
+	<Text>Health Plan Contract</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B2A6-74A3F0AA2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

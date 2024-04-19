@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B39D-ACFD1D11E324">
+	<DocumentID>005056A5-1B45-A1EB-B39D-ACFD1D11A324</DocumentID>
+	<Name>noc_document_selected</Name>
+	<Description>noc_document_selected</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-16T09:08:03.141</CreationDate>
+	<Notes/>
+	<referenceCount>4</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C142E324"
+		/>
+	</BuildingBlock>
+</Category>

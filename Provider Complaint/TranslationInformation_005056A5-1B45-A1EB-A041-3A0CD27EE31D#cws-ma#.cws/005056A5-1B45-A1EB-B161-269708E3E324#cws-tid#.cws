@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B161-269708E42324">
+	<DocumentID>005056A5-1B45-A1EB-B161-269708E3E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B161-269708E3E324</Name>
+	<Description>Did you submit a written appeal to the health plan's and/or the RBO/Capitated Provider's dispute resolution process?</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-04T22:35:04.061</CreationDate>
+	<Notes/>
+	<DefaultText>Did you submit a written appeal to the health plan's and/or the RBO/Capitated Provider's dispute resolution process?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B161-269708E46324"
+		/>
+	</Translations>
+</TextIdentifier>

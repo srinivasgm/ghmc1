@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B161-5F51427B6324">
+	<DocumentID>005056A5-1B45-A1EB-B161-5F51427B2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B161-5F51427B2324</Name>
+	<Description>Date of PDR Submission</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-04T22:40:04.373</CreationDate>
+	<Notes/>
+	<Text>Date of PDR Submission</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B161-5F51427AA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

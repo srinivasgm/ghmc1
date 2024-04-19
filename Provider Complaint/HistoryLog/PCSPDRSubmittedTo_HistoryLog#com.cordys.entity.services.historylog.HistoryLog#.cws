@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D8708766321">
+	<DocumentID>005056A5-1B45-A1EB-ABD2-4D8708762321</DocumentID>
+	<Name>PCSPDRSubmittedTo_HistoryLog</Name>
+	<Description>PCSPDRSubmittedTo_HistoryLog</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:32:27.927</CreationDate>
+	<Notes/>
+	<CompressType>0</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-ABD2-4D870873E321">
+			<DocumentID>005056A5-1B45-A1EB-ABD2-4D870873A321</DocumentID>
+			<Name>005056A5-1B45-A1EB-ABD2-4D870873A321</Name>
+			<Description>005056A5-1B45-A1EB-ABD2-4D870873A321</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-05-07T15:32:27.927</CreationDate>
+			<Notes/>
+			<DeveloperText>PCS PDR Submitted To History Log</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-ABD2-4D8708742321"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

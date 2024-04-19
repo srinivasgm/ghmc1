@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC25-25C6477EE324">
+	<DocumentID>005056A5-1B45-A1EB-BC25-25C6477EA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC25-25C6477EA324</Name>
+	<Description>Claim_CheckForDuplicateClaim</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-29T17:44:36.479</CreationDate>
+	<Notes/>
+	<Text>Claim_CheckForDuplicateClaim</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC25-25C6477E2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

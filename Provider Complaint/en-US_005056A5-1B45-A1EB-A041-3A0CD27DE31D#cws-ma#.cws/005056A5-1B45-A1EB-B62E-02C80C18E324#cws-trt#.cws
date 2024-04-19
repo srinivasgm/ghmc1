@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B62E-02C80C192324">
+	<DocumentID>005056A5-1B45-A1EB-B62E-02C80C18E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B62E-02C80C18E324</Name>
+	<Description>Complaint Document - Claim Layout List</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-29T09:04:59.166</CreationDate>
+	<Notes/>
+	<Text>Complaint Document - Claim Layout List</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B62E-02C80C186324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

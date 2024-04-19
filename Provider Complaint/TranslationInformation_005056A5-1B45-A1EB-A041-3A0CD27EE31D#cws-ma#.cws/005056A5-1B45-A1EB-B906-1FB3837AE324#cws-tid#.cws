@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B906-1FB3837B2324">
+	<DocumentID>005056A5-1B45-A1EB-B906-1FB3837AE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B906-1FB3837AE324</Name>
+	<Description>Please ensure all required values are entered</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T20:25:53.909</CreationDate>
+	<Notes/>
+	<DefaultText>Please ensure all required values are entered</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B906-1FB3837B6324"
+		/>
+	</Translations>
+</TextIdentifier>

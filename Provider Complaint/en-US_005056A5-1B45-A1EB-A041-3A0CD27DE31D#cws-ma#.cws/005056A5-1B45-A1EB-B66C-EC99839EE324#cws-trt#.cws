@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B66C-EC99839F2324">
+	<DocumentID>005056A5-1B45-A1EB-B66C-EC99839EE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B66C-EC99839EE324</Name>
+	<Description>Please uplaod a file or click Cancel.</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-30T16:22:15.458</CreationDate>
+	<Notes/>
+	<Text>Please uplaod a file or click Cancel.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B66C-EC99839E6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9AE-A207BC2F2320">
+	<DocumentID>005056A5-1B45-A1EB-A9AE-A207BC2EE320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9AE-A207BC2EE320</Name>
+	<Description>USStatesLayout</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T18:18:54.709</CreationDate>
+	<Notes/>
+	<DefaultText>USStatesLayout</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A7B4-BB8973152320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A9AE-A207BC2F6320"
+		/>
+	</Translations>
+</TextIdentifier>

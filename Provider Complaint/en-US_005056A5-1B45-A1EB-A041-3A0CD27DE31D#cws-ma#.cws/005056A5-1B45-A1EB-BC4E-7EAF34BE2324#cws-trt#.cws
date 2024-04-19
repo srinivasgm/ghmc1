@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC4E-7EAF34BE6324">
+	<DocumentID>005056A5-1B45-A1EB-BC4E-7EAF34BE2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC4E-7EAF34BE2324</Name>
+	<Description>Legal subcase state</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-30T13:36:29.77</CreationDate>
+	<Notes/>
+	<Text>Legal subcase state</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC4E-7EAF34BDA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

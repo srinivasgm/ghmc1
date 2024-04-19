@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA7D-B76F49912324">
+	<DocumentID>005056A5-1B45-A1EB-BA7D-B76F4990E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA7D-B76F4990E324</Name>
+	<Description>RHPIs</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-21T07:40:45.508</CreationDate>
+	<Notes/>
+	<Text>RHPIs</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA7D-B76F49906324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

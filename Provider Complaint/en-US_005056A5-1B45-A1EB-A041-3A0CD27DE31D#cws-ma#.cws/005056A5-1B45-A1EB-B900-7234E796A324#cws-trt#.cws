@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B900-7234E796E324">
+	<DocumentID>005056A5-1B45-A1EB-B900-7234E796A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B900-7234E796A324</Name>
+	<Description>Is Patient Lat Name Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T17:46:41.303</CreationDate>
+	<Notes/>
+	<Text>Is Patient Lat Name Valid</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B900-7234E7962324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

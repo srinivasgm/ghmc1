@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B639-5352B80B2324">
+	<DocumentID>005056A5-1B45-A1EB-B639-5352B80AE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B639-5352B80AE324</Name>
+	<Description>FindUnAssignedClaimsByComplaint</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-29T14:34:52.547</CreationDate>
+	<Notes/>
+	<Text>FindUnAssignedClaimsByComplaint</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B639-5352B80A6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

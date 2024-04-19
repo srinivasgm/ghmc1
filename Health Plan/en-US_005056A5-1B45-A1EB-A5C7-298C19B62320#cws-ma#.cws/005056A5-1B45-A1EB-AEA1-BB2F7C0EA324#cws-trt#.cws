@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AEA1-BB2F7C0EE324">
+	<DocumentID>005056A5-1B45-A1EB-AEA1-BB2F7C0EA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-AEA1-BB2F7C0EA324</Name>
+	<Description>{(item.HPAlias_AliasType.Properties.HPAliasTypeName==&quot;Legal Name&quot;? &quot;Is True - show Legal Name&quot;:&quot;No Legal Name&quot; ) + (item.HPAliasToHealthPlan.Properties.IsActive==&quot;Yes&quot;? &quot;Is Active&quot;:&quot; Is Not Active&quot;)}</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-21T23:02:05.073</CreationDate>
+	<Notes/>
+	<Text>{(item.HPAlias_AliasType.Properties.HPAliasTypeName==&quot;Legal Name&quot;? &quot;Is True - show Legal Name&quot;:&quot;No Legal Name&quot; ) + (item.HPAliasToHealthPlan.Properties.IsActive==&quot;Yes&quot;? &quot;Is Active&quot;:&quot; Is Not Active&quot;)}</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AEA1-BB2F7C0E2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

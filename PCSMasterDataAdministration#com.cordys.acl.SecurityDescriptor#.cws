@@ -1,0 +1,20 @@
+
+<SecurityDescriptor
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.acl.SecurityDescriptor"
+	typeVersion="FFB228E4-5344-4FC9-893D-77229FA7C061"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A6F1-37B2BB966320">
+	<DocumentID>005056A5-1B45-A1EB-A6F1-37B2BB962320</DocumentID>
+	<Name>PCSMasterDataAdministration</Name>
+	<Description>PCSMasterDataAdministration</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-12T21:57:30.495</CreationDate>
+	<Notes/>
+	<inherit>true</inherit>
+	<accesscontrolentries/>
+	<accesscontrollists/>
+	<conditions/>
+	<instanceConditions/>
+	<securedObject/>
+	<staticConditions/>
+</SecurityDescriptor>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B90A-55B7A954A324">
+	<DocumentID>005056A5-1B45-A1EB-B90A-55B7A9546324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B90A-55B7A9546324</Name>
+	<Description>Is Date of PDR Determination Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T23:00:33.834</CreationDate>
+	<Notes/>
+	<Text>Is Date of PDR Determination Valid</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B90A-754076856324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

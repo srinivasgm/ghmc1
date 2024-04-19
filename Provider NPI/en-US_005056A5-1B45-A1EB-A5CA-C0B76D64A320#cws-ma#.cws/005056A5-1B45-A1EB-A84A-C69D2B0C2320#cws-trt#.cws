@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A84A-C69D2B0C6320">
+	<DocumentID>005056A5-1B45-A1EB-A84A-C69D2B0C2320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A84A-C69D2B0C2320</Name>
+	<Description>Provider Business Mailing Address Telephone Number</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-19T16:25:29.547</CreationDate>
+	<Notes/>
+	<Text>Provider Business Mailing Address Telephone Number</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5CA-C0B76D652320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A84A-C69D2B0BA320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BABA-45150A806324">
+	<DocumentID>005056A5-1B45-A1EB-BABA-45150A802324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BABA-45150A802324</Name>
+	<Description>RHPI Response Email Template</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T12:50:45.991</CreationDate>
+	<Notes/>
+	<Text>RHPI Response Email Template</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BABA-45150A7FA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBDB-6986B4C22324">
+	<DocumentID>005056A5-1B45-A1EB-BBDB-6986B4C1E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBDB-6986B4C1E324</Name>
+	<Description>Was the delegate responsible for authorization</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T06:44:51.887</CreationDate>
+	<Notes/>
+	<Text>Was the delegate responsible for authorization</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBDB-6986B4C16324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

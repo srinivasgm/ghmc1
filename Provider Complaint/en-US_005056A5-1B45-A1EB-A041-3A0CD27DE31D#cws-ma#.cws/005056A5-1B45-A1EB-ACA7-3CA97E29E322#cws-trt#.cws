@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ACA7-3CA97E2A2322">
+	<DocumentID>005056A5-1B45-A1EB-ACA7-3CA97E29E322</DocumentID>
+	<Name>005056A5-1B45-A1EB-ACA7-3CA97E29E322</Name>
+	<Description>Emergency IDRP</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-11T21:22:03.698</CreationDate>
+	<Notes/>
+	<Text>Emergency IDRP</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ACA7-3CA97E296322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

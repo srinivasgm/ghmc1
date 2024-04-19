@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA81-D83A7E166320">
+	<DocumentID>005056A5-1B45-A1EB-AA81-D83A7E162320</DocumentID>
+	<Name>005056A5-1B45-A1EB-AA81-D83A7E162320</Name>
+	<Description>HenryTest_RBO</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T23:02:23.698</CreationDate>
+	<Notes/>
+	<Text>HenryTest_RBO</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AA81-D83A7E15A320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

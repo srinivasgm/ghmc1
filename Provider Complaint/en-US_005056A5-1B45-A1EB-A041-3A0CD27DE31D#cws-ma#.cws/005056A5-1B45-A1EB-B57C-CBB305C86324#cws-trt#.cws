@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B57C-CBB305C8A324">
+	<DocumentID>005056A5-1B45-A1EB-B57C-CBB305C86324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B57C-CBB305C86324</Name>
+	<Description>Respond to RFI</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-25T20:37:44.816</CreationDate>
+	<Notes/>
+	<Text>Respond to RFI</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B57C-CBB305C7E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

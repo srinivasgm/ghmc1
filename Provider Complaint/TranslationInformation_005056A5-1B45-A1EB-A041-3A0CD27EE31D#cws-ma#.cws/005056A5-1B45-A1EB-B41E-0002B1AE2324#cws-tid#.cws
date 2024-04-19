@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B41E-0002B1AE6324">
+	<DocumentID>005056A5-1B45-A1EB-B41E-0002B1AE2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B41E-0002B1AE2324</Name>
+	<Description>Assign for Review</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-18T21:38:49.616</CreationDate>
+	<Notes/>
+	<DefaultText>Assign for Review</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B41E-0002B1AEA324"
+		/>
+	</Translations>
+</TextIdentifier>

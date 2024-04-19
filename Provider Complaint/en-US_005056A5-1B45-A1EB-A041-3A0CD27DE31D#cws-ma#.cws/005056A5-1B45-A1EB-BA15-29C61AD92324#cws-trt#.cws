@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA15-29C61AD96324">
+	<DocumentID>005056A5-1B45-A1EB-BA15-29C61AD92324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA15-29C61AD92324</Name>
+	<Description>Error Message on Property Change</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-19T06:25:15.087</CreationDate>
+	<Notes/>
+	<Text>Error Message on Property Change</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA15-29C61AD8A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

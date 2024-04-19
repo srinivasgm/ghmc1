@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B78B-0EC391532324">
+	<DocumentID>005056A5-1B45-A1EB-B78B-0EC39152E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B78B-0EC39152E324</Name>
+	<Description>Claims_Create Bulk RFIs Process</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-06T10:05:40.075</CreationDate>
+	<Notes/>
+	<Text>Claims_Create Bulk RFIs Process</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B78B-0EC391526324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

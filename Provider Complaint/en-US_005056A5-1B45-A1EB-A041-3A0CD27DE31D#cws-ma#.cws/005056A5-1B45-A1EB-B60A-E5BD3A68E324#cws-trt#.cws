@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B60A-E5BD3A692324">
+	<DocumentID>005056A5-1B45-A1EB-B60A-E5BD3A68E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B60A-E5BD3A68E324</Name>
+	<Description>Superseded</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-28T16:29:40.803</CreationDate>
+	<Notes/>
+	<Text>Superseded</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B60A-E5BD3A686324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,34 @@
+
+<HistoryLog
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.historylog.HistoryLog"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAAD-55492AFCE324">
+	<DocumentID>005056A5-1B45-A1EB-BAAD-55492AFCA324</DocumentID>
+	<Name>PCSDenialCategory_HistoryLog</Name>
+	<Description>PCSDenialCategory_HistoryLog</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T06:34:36.835</CreationDate>
+	<Notes/>
+	<CompressType>0</CompressType>
+	<RetentionInterval>0</RetentionInterval>
+	<RetentionUnit></RetentionUnit>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BAAD-93B41D29E324">
+			<DocumentID>005056A5-1B45-A1EB-BAAD-93B41D29A324</DocumentID>
+			<Name>005056A5-1B45-A1EB-BAAD-93B41D29A324</Name>
+			<Description>005056A5-1B45-A1EB-BAAD-93B41D29A324</Description>
+			<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-22T06:34:36.835</CreationDate>
+			<Notes/>
+			<DeveloperText>PCS Denial Category History Log</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-BAAD-93B41D2A2324"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+</HistoryLog>

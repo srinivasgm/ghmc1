@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ACA7-699CA5802322">
+	<DocumentID>005056A5-1B45-A1EB-ACA7-699CA57FE322</DocumentID>
+	<Name>005056A5-1B45-A1EB-ACA7-699CA57FE322</Name>
+	<Description>Nature of Compaling Main Category HIstory Log</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-11T21:13:52.036</CreationDate>
+	<Notes/>
+	<DefaultText>Nature of Compaling Main Category HIstory Log</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-ACA7-699CA5806322"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B5D4-7A0F10A72324">
+	<DocumentID>005056A5-1B45-A1EB-B5D4-7A0F10A6E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B5D4-7A0F10A6E324</Name>
+	<Description>ErrorTest_Claim</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-27T14:57:16.739</CreationDate>
+	<Notes/>
+	<DefaultText>ErrorTest_Claim</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B5D4-7A0F10A76324"
+		/>
+	</Translations>
+</TextIdentifier>

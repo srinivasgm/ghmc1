@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBDF-689B92D52324">
+	<DocumentID>005056A5-1B45-A1EB-BBDF-689B92D4E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBDF-689B92D4E324</Name>
+	<Description>Complaint_RHPIFiveDaysReminderEmailTemplate</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T08:38:57.737</CreationDate>
+	<Notes/>
+	<DefaultText>Complaint_RHPIFiveDaysReminderEmailTemplate</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BBDF-689B92D56324"
+		/>
+	</Translations>
+</TextIdentifier>

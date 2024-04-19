@@ -1,0 +1,19 @@
+
+<LayoutBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.layout.LayoutBuildingBlock"
+	typeVersion="DC978CBB-0A47-4BEE-846D-F1D35152083E"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA70-F4D8BD006320">
+	<DocumentID>005056A5-1B45-A1EB-AA70-F4D8BD002320</DocumentID>
+	<Name>Layout</Name>
+	<Description>Layout</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T15:05:56.607</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-AA70-F4D8BD02A320"
+		/>
+	</Entity>
+	<Layouts/>
+</LayoutBuildingBlock>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA47-95C85DFB6324">
+	<DocumentID>005056A5-1B45-A1EB-BA47-95C85DFB2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA47-95C85DFB2324</Name>
+	<Description>Small Group</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T05:53:24.298</CreationDate>
+	<Notes/>
+	<Text>Small Group</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA47-95C85DFAA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

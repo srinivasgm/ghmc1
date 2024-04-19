@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B7FA-F7843BF06324">
+	<DocumentID>005056A5-1B45-A1EB-B7FA-F7843BF02324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B7FA-F7843BF02324</Name>
+	<Description>Close reasons include: non jurisdictional, documents not received, should have been filed as MC, and provider withdrawal</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-07-08T12:58:35.125</CreationDate>
+	<Notes/>
+	<Text>Close reasons include: non jurisdictional, documents not received, should have been filed as MC, and provider withdrawal</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B7FA-F7843BEFA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

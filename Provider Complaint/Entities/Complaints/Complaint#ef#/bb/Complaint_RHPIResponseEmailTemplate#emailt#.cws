@@ -1,0 +1,55 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BABA-45150A81E324">
+	<DocumentID>005056A5-1B45-A1EB-BABA-45150A81A324</DocumentID>
+	<Name>Complaint_RHPIResponseEmailTemplate</Name>
+	<Description>Complaint_RHPIResponseEmailTemplate</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T12:50:45.991</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hello Payor,&lt;br /&gt;
+&lt;br /&gt;
+A Complaint has been submitted with Complaint Id #&amp;nbsp;{item.Properties.ComplaintNumber} with Claims for which we need RHPI Response from your end. Please find the Link Below to open the List of all Claims for which RHPI is needed. Please Submit the RHPI as per the Deadline mentioned&lt;br /&gt;
+&lt;br /&gt;
+{config.ProviderComplaint.Properties.BaseURL}/app/start/web/#/item/{item.Complaint_RHPI_BI.Identity.ItemId}/005056A51B45A1EBBA7D095ADE49E324&lt;br /&gt;
+&lt;br /&gt;
+Sincerely,&lt;br /&gt;
+Provider Complaint Section&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>false</IsVisibleToEndUser>
+	<Subject>RHPI Submitted for Complaint # {item.Properties.ComplaintNumber}</Subject>
+	<To></To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C1426324"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BABA-45150A7F6324">
+			<DocumentID>005056A5-1B45-A1EB-BABA-45150A7F2324</DocumentID>
+			<Name>005056A5-1B45-A1EB-BABA-45150A7F2324</Name>
+			<Description>005056A5-1B45-A1EB-BABA-45150A7F2324</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-22T12:50:45.991</CreationDate>
+			<Notes/>
+			<DeveloperText>RHPI Response Email Template</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-BABA-45150A7FA324"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8FF-0B63A72DA324">
+	<DocumentID>005056A5-1B45-A1EB-B8FF-0B63A72D6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8FF-0B63A72D6324</Name>
+	<Description>Is Patient First Name Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T17:04:22.353</CreationDate>
+	<Notes/>
+	<DefaultText>Is Patient First Name Valid</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B8FF-0B63A72DE324"
+		/>
+	</Translations>
+</TextIdentifier>

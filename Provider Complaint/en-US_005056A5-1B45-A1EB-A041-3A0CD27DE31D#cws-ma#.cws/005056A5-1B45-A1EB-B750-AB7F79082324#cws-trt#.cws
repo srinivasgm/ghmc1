@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B750-AB7F79086324">
+	<DocumentID>005056A5-1B45-A1EB-B750-AB7F79082324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B750-AB7F79082324</Name>
+	<Description>Due Date Duration</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-05T04:40:18.58</CreationDate>
+	<Notes/>
+	<Text>Due Date Duration</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B750-AB7F7907A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

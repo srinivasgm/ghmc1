@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD32-4461DEA4E322">
+	<DocumentID>005056A5-1B45-A1EB-AD32-4461DEA4A322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD32-4461DEA4A322</Name>
+	<Description>Nature of Complaint Sub Categories</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-14T15:48:27.867</CreationDate>
+	<Notes/>
+	<Text>Nature of Complaint Sub Categories</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD32-4461DEA42322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

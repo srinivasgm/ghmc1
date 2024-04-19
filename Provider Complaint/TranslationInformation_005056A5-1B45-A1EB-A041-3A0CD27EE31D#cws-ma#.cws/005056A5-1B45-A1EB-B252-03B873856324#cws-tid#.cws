@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B252-03B87385A324">
+	<DocumentID>005056A5-1B45-A1EB-B252-03B873856324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B252-03B873856324</Name>
+	<Description>Invalid ICD Code</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-09T18:55:36.045</CreationDate>
+	<Notes/>
+	<DefaultText>Invalid ICD Code</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B252-03B87385E324"
+		/>
+	</Translations>
+</TextIdentifier>

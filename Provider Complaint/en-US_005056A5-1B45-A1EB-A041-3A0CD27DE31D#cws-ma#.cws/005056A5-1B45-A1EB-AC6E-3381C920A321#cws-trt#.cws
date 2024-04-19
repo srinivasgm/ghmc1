@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AC6E-3381C920E321">
+	<DocumentID>005056A5-1B45-A1EB-AC6E-3381C920A321</DocumentID>
+	<Name>005056A5-1B45-A1EB-AC6E-3381C920A321</Name>
+	<Description>Closed General Inquiries</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-10T17:57:35.365</CreationDate>
+	<Notes/>
+	<Text>Closed General Inquiries</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AC6E-3381C9202321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B25E-F26D54E8A324">
+	<DocumentID>005056A5-1B45-A1EB-B25E-F26D54E86324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B25E-F26D54E86324</Name>
+	<Description>Update Complaint Qualifying Questions</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-09T23:42:30.756</CreationDate>
+	<Notes/>
+	<Text>Update Complaint Qualifying Questions</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B25E-F26D54E7E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

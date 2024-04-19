@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B6C1-C7607EBF6324">
+	<DocumentID>005056A5-1B45-A1EB-B6C5-0E93A5826324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B6C5-0E93A5826324</Name>
+	<Description>Claims - All for Complaint for DMHC</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-02T09:04:59.331</CreationDate>
+	<Notes/>
+	<Text>Claims - All for Complaint for DMHC</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B6C5-0E93A581E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

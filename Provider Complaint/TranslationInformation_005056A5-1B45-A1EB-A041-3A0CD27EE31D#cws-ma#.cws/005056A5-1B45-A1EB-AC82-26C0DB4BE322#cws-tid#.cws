@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AC82-26C0DB4C2322">
+	<DocumentID>005056A5-1B45-A1EB-AC82-26C0DB4BE322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AC82-26C0DB4BE322</Name>
+	<Description>GeneralInquiry to many PCSCaseDocument</Description>
+	<CreatedBy>Pandrangi,Nagaraja@opentext</CreatedBy>
+	<CreationDate>2021-05-11T20:20:29.643</CreationDate>
+	<Notes/>
+	<DefaultText>GeneralInquiry to many PCSCaseDocument</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-AC82-26C0DB4C6322"
+		/>
+	</Translations>
+</TextIdentifier>

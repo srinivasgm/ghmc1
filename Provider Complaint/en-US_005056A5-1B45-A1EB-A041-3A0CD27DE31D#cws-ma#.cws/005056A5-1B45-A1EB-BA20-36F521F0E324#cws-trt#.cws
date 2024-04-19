@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA20-36F521F12324">
+	<DocumentID>005056A5-1B45-A1EB-BA20-36F521F0E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA20-36F521F0E324</Name>
+	<Description>Claims - All at RHPI Response For Payor</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-19T11:05:22.618</CreationDate>
+	<Notes/>
+	<Text>Claims - All at RHPI Response For Payor</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA20-36F521F06324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

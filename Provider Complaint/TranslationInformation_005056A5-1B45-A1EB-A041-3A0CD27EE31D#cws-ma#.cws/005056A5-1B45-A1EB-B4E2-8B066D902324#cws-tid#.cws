@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B4E2-8B066D906324">
+	<DocumentID>005056A5-1B45-A1EB-B4E2-8B066D902324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B4E2-8B066D902324</Name>
+	<Description>ClaimNote_ApplyIssueSummary</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-22T18:46:43.289</CreationDate>
+	<Notes/>
+	<DefaultText>ClaimNote_ApplyIssueSummary</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B4E2-8B066D90A324"
+		/>
+	</Translations>
+</TextIdentifier>

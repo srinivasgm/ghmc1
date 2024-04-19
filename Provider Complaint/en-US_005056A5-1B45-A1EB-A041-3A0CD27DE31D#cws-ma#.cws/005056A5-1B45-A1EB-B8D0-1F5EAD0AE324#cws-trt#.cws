@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8D0-1F5EAD0B2324">
+	<DocumentID>005056A5-1B45-A1EB-B8D0-1F5EAD0AE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8D0-1F5EAD0AE324</Name>
+	<Description>Is Field Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-12T18:55:01.036</CreationDate>
+	<Notes/>
+	<Text>Is Field Valid</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8D0-1F5EAD0A6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

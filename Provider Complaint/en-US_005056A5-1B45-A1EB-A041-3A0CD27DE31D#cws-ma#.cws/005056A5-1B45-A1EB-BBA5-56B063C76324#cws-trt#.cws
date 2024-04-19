@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBA5-56B063C7A324">
+	<DocumentID>005056A5-1B45-A1EB-BBA5-56B063C76324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBA5-56B063C76324</Name>
+	<Description>Here is where you will respond to any future requests for information about this claim..!!</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T05:10:23.54</CreationDate>
+	<Notes/>
+	<Text>Here is where you will respond to any future requests for information about this claim..!!</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBA5-56B063C6E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

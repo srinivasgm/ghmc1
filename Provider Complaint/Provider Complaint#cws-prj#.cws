@@ -1,0 +1,124 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A041-3A0CD281631D">
+	<DocumentID>005056A5-1B45-A1EB-A041-3A0CD281231D</DocumentID>
+	<Name>Provider Complaint</Name>
+	<Description>Provider Complaint</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-03-09T18:31:12.87</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations>
+		<EntityConfiguration
+			type="com.opentext.entity.config.EntityConfiguration"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A9A8-39F603B4E320">
+			<DocumentID>005056A5-1B45-A1EB-A9A8-39F603B4A320</DocumentID>
+			<Name>Untitled EntityConfiguration</Name>
+			<Description>Untitled EntityConfiguration</Description>
+			<CreatedBy>kpandran@opentext.com</CreatedBy>
+			<CreationDate>2021-04-26T19:21:56.042</CreationDate>
+			<Notes/>
+			<ConfigurationEntity>
+				<uri
+					id="005056A5-1B45-A1EB-A9A8-39F603B42320"
+				/>
+			</ConfigurationEntity>
+			<Project>
+				<uri
+					id="005056A5-1B45-A1EB-A041-3A0CD281231D"
+				/>
+			</Project>
+		</EntityConfiguration>
+	</Configurations>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A041-3A0CD280231D">
+			<DocumentID>005056A5-1B45-A1EB-A041-3A0CD27FE31D</DocumentID>
+			<Name>CADMHC Provider Complaint</Name>
+			<Description>CADMHC Provider Complaint</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-03-09T18:31:12.87</CreationDate>
+			<Notes/>
+			<BuildNumber>438</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>CADMHC Provider Complaint 1.0.438</ISVPackageFileName>
+			<ISVPackageOwner>CADMHC</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Provider Complaint</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD280A31D"
+			path="Provider Complaint"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A041-3A0CD27FA31D">
+			<DocumentID>005056A5-1B45-A1EB-A041-3A0CD27F631D</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>hmehta@opentext.com</CreatedBy>
+			<CreationDate>2021-03-09T18:31:12.869</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="005056A5-1B45-A1EB-A041-3A0CD27EA31D">
+					<DocumentID>005056A5-1B45-A1EB-A041-3A0CD27E631D</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>hmehta@opentext.com</CreatedBy>
+					<CreationDate>2021-03-09T18:31:12.869</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="005056A5-1B45-A1EB-A041-3A0CD27DE31D"
+							path="Provider Complaint/en-US_005056A5-1B45-A1EB-A041-3A0CD27DE31D"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="005056A5-1B45-A1EB-A041-3A0CD27EE31D"
+					path="Provider Complaint/TranslationInformation_005056A5-1B45-A1EB-A041-3A0CD27EE31D"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

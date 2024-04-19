@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B416-B53701492324">
+	<DocumentID>005056A5-1B45-A1EB-B416-B5370148E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B416-B5370148E324</Name>
+	<Description>Claims - All Active</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-18T17:39:44.375</CreationDate>
+	<Notes/>
+	<Text>Claims - All Active</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B416-B53701486324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

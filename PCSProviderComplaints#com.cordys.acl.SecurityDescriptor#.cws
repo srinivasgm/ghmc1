@@ -1,0 +1,20 @@
+
+<SecurityDescriptor
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.acl.SecurityDescriptor"
+	typeVersion="FFB228E4-5344-4FC9-893D-77229FA7C061"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B3BE-3803F6452324">
+	<DocumentID>005056A5-1B45-A1EB-B3BE-3803F644E324</DocumentID>
+	<Name>PCSProviderComplaints</Name>
+	<Description>PCSProviderComplaints</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-17T18:09:24.045</CreationDate>
+	<Notes/>
+	<inherit>true</inherit>
+	<accesscontrolentries/>
+	<accesscontrollists/>
+	<conditions/>
+	<instanceConditions/>
+	<securedObject/>
+	<staticConditions/>
+</SecurityDescriptor>

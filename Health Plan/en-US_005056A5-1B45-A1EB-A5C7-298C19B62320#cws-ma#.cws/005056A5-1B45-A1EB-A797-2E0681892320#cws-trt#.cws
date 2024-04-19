@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A797-2E0681896320">
+	<DocumentID>005056A5-1B45-A1EB-A797-2E0681892320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A797-2E0681892320</Name>
+	<Description>HPAlias Type History Log</Description>
+	<CreatedBy>kpandran@opentext.com</CreatedBy>
+	<CreationDate>2021-04-16T02:43:30.465</CreationDate>
+	<Notes/>
+	<Text>HPAlias Type History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A5C7-298C19B6A320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A797-2E068188A320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

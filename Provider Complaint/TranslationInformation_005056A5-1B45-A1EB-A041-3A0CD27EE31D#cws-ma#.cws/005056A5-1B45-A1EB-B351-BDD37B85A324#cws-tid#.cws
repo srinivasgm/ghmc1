@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B351-BDD37B85E324">
+	<DocumentID>005056A5-1B45-A1EB-B351-BDD37B85A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B351-BDD37B85A324</Name>
+	<Description>005056A5-1B45-A1EB-B351-BDD37B85A324</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-14T19:40:22.969</CreationDate>
+	<Notes/>
+	<DefaultText>If you prefer to attach your explaanation please click on the + below. In the attachment, please briefly explain your dispute. If this is a claims dispute, please provide the specific reason(s) that the claim was paid or denied incorrectly and/or that the payer's determination was in error.</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B351-BDD37B862324"
+		/>
+	</Translations>
+</TextIdentifier>

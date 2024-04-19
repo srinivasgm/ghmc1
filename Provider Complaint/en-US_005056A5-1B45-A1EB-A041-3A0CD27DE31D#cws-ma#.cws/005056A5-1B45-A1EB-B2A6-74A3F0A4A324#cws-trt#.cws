@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2A6-74A3F0A4E324">
+	<DocumentID>005056A5-1B45-A1EB-B2A6-74A3F0A4A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2A6-74A3F0A4A324</Name>
+	<Description>Use the form shown below to identify the health plain involved, the product involved and any RBO/Capitated Provider responsible for reimbursement of any portion of the claim.</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-11T09:52:03.959</CreationDate>
+	<Notes/>
+	<Text>Use the form shown below to identify the health plain involved, the product involved and any RBO/Capitated Provider responsible for reimbursement of any portion of the claim.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B2A6-74A3F0A42324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

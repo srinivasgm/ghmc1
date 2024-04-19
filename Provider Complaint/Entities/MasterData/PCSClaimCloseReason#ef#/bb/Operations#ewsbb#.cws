@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBEE-46B6E0B6A324">
+	<DocumentID>005056A5-1B45-A1EB-BBEE-46B6E0B66324</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-28T15:38:02.474</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBEE-52AEA1172324">
+			<DocumentID>005056A5-1B45-A1EB-BBEE-52AEA116E324</DocumentID>
+			<Name>CreateUntitled_Entity</Name>
+			<Description>Create Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-07-28T15:38:02.474</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BBEC-C07DBD912324"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBEE-52AEA1162324">
+			<DocumentID>005056A5-1B45-A1EB-BBEE-52AEA115E324</DocumentID>
+			<Name>DeleteUntitled_Entity</Name>
+			<Description>Delete Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-07-28T15:38:02.474</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BBEC-C07DBD912324"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-BBEC-C07DBD912324"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBEE-52AEA116A324">
+			<DocumentID>005056A5-1B45-A1EB-BBEE-52AEA1166324</DocumentID>
+			<Name>ReadUntitled_Entity</Name>
+			<Description>Read Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-07-28T15:38:02.474</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BBEC-C07DBD912324"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-BBEE-52AEA115A324">
+			<DocumentID>005056A5-1B45-A1EB-BBEE-52AEA1156324</DocumentID>
+			<Name>UpdateUntitled_Entity</Name>
+			<Description>Update Untitled_Entity</Description>
+			<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+			<CreationDate>2021-07-28T15:38:02.459</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-BBEC-C07DBD912324"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B7F5-BCBB484B6324">
+	<DocumentID>005056A5-1B45-A1EB-B7F5-BCBB484B2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B7F5-BCBB484B2324</Name>
+	<Description>Claim_Withdrawal Claim Process</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-08T10:41:33.198</CreationDate>
+	<Notes/>
+	<DefaultText>Claim_Withdrawal Claim Process</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B7F5-BCBB484BA324"
+		/>
+	</Translations>
+</TextIdentifier>

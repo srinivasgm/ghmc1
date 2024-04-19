@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B6CD-B0CB97D72324">
+	<DocumentID>005056A5-1B45-A1EB-B6CD-B0CB97D6E324</DocumentID>
+	<Name>RFIResponseFields</Name>
+	<Description>RFIResponseFields</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-02T13:27:47.051</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B57D-19AF2D19A324"
+		/>
+	</BuildingBlock>
+</Category>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA20-0B66F024A324">
+	<DocumentID>005056A5-1B45-A1EB-BA20-0B66F0246324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA20-0B66F0246324</Name>
+	<Description>Claim_TransitionToRHPIResponse</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-19T11:00:00.11</CreationDate>
+	<Notes/>
+	<Text>Claim_TransitionToRHPIResponse</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA20-0B66F023E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

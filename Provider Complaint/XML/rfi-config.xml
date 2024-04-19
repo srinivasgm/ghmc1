@@ -1,0 +1,11 @@
+<rficonfig>
+<duedays>
+<value>5</value>
+</duedays>
+<duedaysformedical>
+<value>10</value>
+</duedaysformedical>
+<sendRfiEmailTemplate>
+<name>Complaint_RequestForAdditionalDocuments</name>
+</sendRfiEmailTemplate>
+</rficonfig>

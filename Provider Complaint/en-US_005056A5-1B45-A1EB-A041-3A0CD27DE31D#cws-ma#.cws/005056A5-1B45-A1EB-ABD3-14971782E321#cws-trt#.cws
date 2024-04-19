@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ABD3-149717832321">
+	<DocumentID>005056A5-1B45-A1EB-ABD3-14971782E321</DocumentID>
+	<Name>005056A5-1B45-A1EB-ABD3-14971782E321</Name>
+	<Description>PDR Exception already exists</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-07T15:53:13.143</CreationDate>
+	<Notes/>
+	<Text>PDR Exception already exists</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-ABD3-149717826321"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A84B-502368C52320">
+	<DocumentID>005056A5-1B45-A1EB-A84B-502368C4E320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A84B-502368C4E320</Name>
+	<Description>NPI already exists</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-19T16:40:45.874</CreationDate>
+	<Notes/>
+	<DefaultText>NPI already exists</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A5CA-C0B76D662320"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A84B-502368C56320"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9AF-3AB064236320">
+	<DocumentID>005056A5-1B45-A1EB-A9AF-3AB064232320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A9AF-3AB064232320</Name>
+	<Description>Phone</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-26T18:40:02.279</CreationDate>
+	<Notes/>
+	<Text>Phone</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A9AF-3AB06422A320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

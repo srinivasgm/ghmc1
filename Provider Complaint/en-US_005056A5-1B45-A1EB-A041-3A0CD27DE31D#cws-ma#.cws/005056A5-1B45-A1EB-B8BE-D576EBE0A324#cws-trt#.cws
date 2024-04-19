@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8BE-D576EBE0E324">
+	<DocumentID>005056A5-1B45-A1EB-B8BE-D576EBE0A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8BE-D576EBE0A324</Name>
+	<Description>Provider Category 1 Should be Unique.</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-12T10:29:48.246</CreationDate>
+	<Notes/>
+	<Text>Provider Category 1 Should be Unique.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8BE-D576EBE02324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA24-9621BB13E324">
+	<DocumentID>005056A5-1B45-A1EB-BA24-9621BB13A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA24-9621BB13A324</Name>
+	<Description>Complaint_RHPIToOneRelationship</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-19T13:46:02.44</CreationDate>
+	<Notes/>
+	<Text>Complaint_RHPIToOneRelationship</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA24-9621BB132324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

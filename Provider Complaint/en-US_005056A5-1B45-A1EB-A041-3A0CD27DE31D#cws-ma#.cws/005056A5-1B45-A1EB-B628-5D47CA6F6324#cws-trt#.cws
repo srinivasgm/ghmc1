@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B628-5D47CA6FA324">
+	<DocumentID>005056A5-1B45-A1EB-B628-5D47CA6F6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B628-5D47CA6F6324</Name>
+	<Description>Claim Complaint Form</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-29T06:47:41.099</CreationDate>
+	<Notes/>
+	<Text>Claim Complaint Form</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B628-5D47CA6EE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

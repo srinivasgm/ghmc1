@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B224-A1AE3044A324">
+	<DocumentID>005056A5-1B45-A1EB-B224-A1AE30446324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B224-A1AE30446324</Name>
+	<Description>PDR Determination Date should occur after End Date Of Service</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-08T19:59:15.607</CreationDate>
+	<Notes/>
+	<Text>PDR Determination Date should occur after End Date Of Service</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B224-A1AE3043E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

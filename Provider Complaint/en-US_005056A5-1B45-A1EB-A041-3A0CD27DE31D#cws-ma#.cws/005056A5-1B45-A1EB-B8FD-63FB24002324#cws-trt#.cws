@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B8FD-63FB24006324">
+	<DocumentID>005056A5-1B45-A1EB-B8FD-63FB24002324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B8FD-63FB24002324</Name>
+	<Description>RFI_ApplyStandardLanguage</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-13T16:15:51.582</CreationDate>
+	<Notes/>
+	<Text>RFI_ApplyStandardLanguage</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B8FD-63FB23FFA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

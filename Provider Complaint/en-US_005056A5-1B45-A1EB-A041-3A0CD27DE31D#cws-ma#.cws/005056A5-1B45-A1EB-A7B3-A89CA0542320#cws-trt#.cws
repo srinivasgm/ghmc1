@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A7B3-A89CA0546320">
+	<DocumentID>005056A5-1B45-A1EB-A7B3-A89CA0542320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A7B3-A89CA0542320</Name>
+	<Description>PCS ReasonOfIssue HistoryLog</Description>
+	<CreatedBy>kpandran@opentext.com</CreatedBy>
+	<CreationDate>2021-04-16T16:16:15.779</CreationDate>
+	<Notes/>
+	<Text>PCS ReasonOfIssue HistoryLog</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A7B3-A89CA053A320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

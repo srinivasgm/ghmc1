@@ -1,0 +1,25 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B257-70841425A324">
+	<DocumentID>005056A5-1B45-A1EB-B257-708414256324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B257-708414256324</Name>
+	<Description>005056A5-1B45-A1EB-B257-708414256324</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T20:06:35.502</CreationDate>
+	<Notes/>
+	<Text>Some of these interactions are done via email at this time - can we do these &quot;within&quot; the new system (e.g. provider opens complaint from provider portal and has a list of RFI's in the layout where they can respond, and buttons to withdraw, request extension, etc.?
+
+We can still send an email to notify the provider that there is a new RFI, with a link to the complaint which they can open to respond.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B257-70841424E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

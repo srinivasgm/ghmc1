@@ -1,0 +1,26 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B259-560750FC2324">
+	<DocumentID>005056A5-1B45-A1EB-B259-560750FBE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B259-560750FBE324</Name>
+	<Description>Need to be able to close each claim individually, plan really sees only claims
+Provider also sees final disposition on each claim</Description>
+	<CreatedBy>dkhoyi@solu-soft.com</CreatedBy>
+	<CreationDate>2021-06-09T21:38:22.903</CreationDate>
+	<Notes/>
+	<DefaultText>Need to be able to close each claim individually, plan really sees only claims
+Provider also sees final disposition on each claim</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B259-560750FC6324"
+		/>
+	</Translations>
+</TextIdentifier>

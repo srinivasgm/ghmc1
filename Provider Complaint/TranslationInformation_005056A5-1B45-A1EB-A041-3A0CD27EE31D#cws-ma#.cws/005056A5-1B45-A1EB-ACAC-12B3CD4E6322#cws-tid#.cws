@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-ACAC-12B3CD4EA322">
+	<DocumentID>005056A5-1B45-A1EB-ACAC-12B3CD4E6322</DocumentID>
+	<Name>005056A5-1B45-A1EB-ACAC-12B3CD4E6322</Name>
+	<Description>System - Daily Schedule</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-11T23:31:33.942</CreationDate>
+	<Notes/>
+	<DefaultText>System - Daily Schedule</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-ACAC-12B3CD4EE322"
+		/>
+	</Translations>
+</TextIdentifier>

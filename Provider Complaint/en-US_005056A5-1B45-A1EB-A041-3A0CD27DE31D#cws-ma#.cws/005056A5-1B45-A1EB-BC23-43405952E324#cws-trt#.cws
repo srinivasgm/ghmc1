@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC23-434059532324">
+	<DocumentID>005056A5-1B45-A1EB-BC23-43405952E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC23-43405952E324</Name>
+	<Description>Is Claim Number Available</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-29T17:44:36.495</CreationDate>
+	<Notes/>
+	<Text>Is Claim Number Available</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC23-434059526324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

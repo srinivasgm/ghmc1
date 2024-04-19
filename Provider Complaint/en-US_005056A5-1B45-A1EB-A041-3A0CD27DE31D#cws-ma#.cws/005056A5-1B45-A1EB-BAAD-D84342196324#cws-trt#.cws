@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAAD-D8434219A324">
+	<DocumentID>005056A5-1B45-A1EB-BAAD-D84342196324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAAD-D84342196324</Name>
+	<Description>PCS Determination History Log</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T06:40:33.485</CreationDate>
+	<Notes/>
+	<Text>PCS Determination History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAAD-D8434218E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

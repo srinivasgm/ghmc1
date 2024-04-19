@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AF9B-DCB15B9C2324">
+	<DocumentID>005056A5-1B45-A1EB-AF9B-DCB15B9BE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-AF9B-DCB15B9BE324</Name>
+	<Description>GI_GIN_BI</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-05-26T22:14:00.817</CreationDate>
+	<Notes/>
+	<Text>GI_GIN_BI</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AF9B-DCB15B9B6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

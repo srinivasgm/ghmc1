@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAB7-ABD0AA806324">
+	<DocumentID>005056A5-1B45-A1EB-BAB7-ABD0AA802324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAB7-ABD0AA802324</Name>
+	<Description>Transit to RHPI Response</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-22T11:20:36.286</CreationDate>
+	<Notes/>
+	<Text>Transit to RHPI Response</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAB7-ABD0AA7FA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

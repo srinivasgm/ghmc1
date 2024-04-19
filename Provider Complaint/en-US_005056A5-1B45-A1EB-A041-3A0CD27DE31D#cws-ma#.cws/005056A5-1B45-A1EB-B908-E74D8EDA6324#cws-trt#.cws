@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B908-E74D8EDAA324">
+	<DocumentID>005056A5-1B45-A1EB-B908-E74D8EDA6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B908-E74D8EDA6324</Name>
+	<Description>Is Contract Professional Services Rendered Valid</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-07-13T23:00:33.881</CreationDate>
+	<Notes/>
+	<Text>Is Contract Professional Services Rendered Valid</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B908-E74D8ED9E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

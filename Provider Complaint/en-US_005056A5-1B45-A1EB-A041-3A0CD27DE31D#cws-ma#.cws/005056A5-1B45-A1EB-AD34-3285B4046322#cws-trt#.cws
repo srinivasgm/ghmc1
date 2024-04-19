@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD34-3285B404A322">
+	<DocumentID>005056A5-1B45-A1EB-AD34-3285B4046322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD34-3285B4046322</Name>
+	<Description>Closed On Date</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-05-14T17:02:06.195</CreationDate>
+	<Notes/>
+	<Text>Closed On Date</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD34-3285B403E322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

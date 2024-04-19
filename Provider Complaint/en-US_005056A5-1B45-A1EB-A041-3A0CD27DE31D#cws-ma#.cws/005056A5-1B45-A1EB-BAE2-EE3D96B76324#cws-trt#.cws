@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BAE2-EE3D96B7A324">
+	<DocumentID>005056A5-1B45-A1EB-BAE2-EE3D96B76324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BAE2-EE3D96B76324</Name>
+	<Description>Reason of Extension Name</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-23T08:08:24.459</CreationDate>
+	<Notes/>
+	<Text>Reason of Extension Name</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BAE2-EE3D96B6E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2C4-C901C942A324">
+	<DocumentID>005056A5-1B45-A1EB-B2C4-C901C9426324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2C4-C901C9426324</Name>
+	<Description>005056A5-1B45-A1EB-B2C4-C901C9426324</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-12T00:14:57.669</CreationDate>
+	<Notes/>
+	<DefaultText>Before the Department can commence an individual review of a complaint, the provider is required to submit the dispute to the payor's Dispute Resolution Mechanism for a minimum of 45 business days or until receipt of the payor's written determination, whichever period is shorter.</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B2C4-C901C942E324"
+		/>
+	</Translations>
+</TextIdentifier>

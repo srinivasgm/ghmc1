@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B39D-ACFD1D072324">
+	<DocumentID>005056A5-1B45-A1EB-B39D-ACFD1D06E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B39D-ACFD1D06E324</Name>
+	<Description>Are you sure you want to remove this document ?</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-16T09:10:50.119</CreationDate>
+	<Notes/>
+	<DefaultText>Are you sure you want to remove this document ?</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B39D-ACFD1D076324"
+		/>
+	</Translations>
+</TextIdentifier>

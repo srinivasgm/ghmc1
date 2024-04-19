@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B225-0858B3686324">
+	<DocumentID>005056A5-1B45-A1EB-B225-0858B3682324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B225-0858B3682324</Name>
+	<Description>Date Of PDR Submission should be after End Date Of Service</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-08T20:01:15.732</CreationDate>
+	<Notes/>
+	<Text>Date Of PDR Submission should be after End Date Of Service</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B225-0858B367A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

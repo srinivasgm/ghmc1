@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA49-6F4946FDE324">
+	<DocumentID>005056A5-1B45-A1EB-BA49-6F4946FDA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA49-6F4946FDA324</Name>
+	<Description>Payment Date</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T06:56:46.313</CreationDate>
+	<Notes/>
+	<Text>Payment Date</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BA49-6F4946FD2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBE2-2E525EACA324">
+	<DocumentID>005056A5-1B45-A1EB-BBE2-2E525EAC6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBE2-2E525EAC6324</Name>
+	<Description>Determination Seleted?</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T09:48:57.792</CreationDate>
+	<Notes/>
+	<Text>Determination Seleted?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBE2-2E525EABE324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

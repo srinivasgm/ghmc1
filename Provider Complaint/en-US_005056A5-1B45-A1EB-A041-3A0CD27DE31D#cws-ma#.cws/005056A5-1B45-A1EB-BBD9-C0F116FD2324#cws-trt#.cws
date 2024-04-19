@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBD9-C0F116FD6324">
+	<DocumentID>005056A5-1B45-A1EB-BBD9-C0F116FD2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBD9-C0F116FD2324</Name>
+	<Description>Provider Contracted during the Date of Service?</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-28T06:03:00.774</CreationDate>
+	<Notes/>
+	<Text>Provider Contracted during the Date of Service?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBD9-C0F116FCA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

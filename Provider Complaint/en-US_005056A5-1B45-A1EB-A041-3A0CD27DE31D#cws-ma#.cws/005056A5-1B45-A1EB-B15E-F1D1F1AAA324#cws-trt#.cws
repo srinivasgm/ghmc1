@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B15E-F1D1F1AAE324">
+	<DocumentID>005056A5-1B45-A1EB-B15E-F1D1F1AAA324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B15E-F1D1F1AAA324</Name>
+	<Description>Were the services rendered within the last 4 years?</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-04T22:31:44.757</CreationDate>
+	<Notes/>
+	<Text>Were the services rendered within the last 4 years?</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B15E-F1D1F1AA2324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A7B3-A89CA05B6320">
+	<DocumentID>005056A5-1B45-A1EB-A7B3-A89CA05B2320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A7B3-A89CA05B2320</Name>
+	<Description>PCS OrganizationType HistoryLog</Description>
+	<CreatedBy>kpandran@opentext.com</CreatedBy>
+	<CreationDate>2021-04-16T16:15:48.41</CreationDate>
+	<Notes/>
+	<DefaultText>PCS OrganizationType HistoryLog</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-A7B3-A89CA05BA320"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA71-48E2DD4E6320">
+	<DocumentID>005056A5-1B45-A1EB-AA71-48E2DD4E2320</DocumentID>
+	<Name>005056A5-1B45-A1EB-AA71-48E2DD4E2320</Name>
+	<Description>804 Written Correspondence Provider Referral to PCS</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T15:05:56.56</CreationDate>
+	<Notes/>
+	<Text>804 Written Correspondence Provider Referral to PCS</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AA71-48E2DD4DA320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

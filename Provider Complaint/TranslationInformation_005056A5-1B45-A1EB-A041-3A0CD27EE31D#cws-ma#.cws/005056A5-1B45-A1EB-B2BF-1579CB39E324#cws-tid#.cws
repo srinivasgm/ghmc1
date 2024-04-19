@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2BF-1579CB3A2324">
+	<DocumentID>005056A5-1B45-A1EB-B2BF-1579CB39E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2BF-1579CB39E324</Name>
+	<Description>The PDR submission date is less than 45 business days. You will need to wait until 45 business days passes on {item.Properties.PDRDeterminationRespondDueDate} to continue with this complaint.</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-11T21:34:25.361</CreationDate>
+	<Notes/>
+	<DefaultText>The PDR submission date is less than 45 business days. You will need to wait until 45 business days passes on {item.Properties.PDRDeterminationRespondDueDate} to continue with this complaint.</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B2BF-1579CB3A6324"
+		/>
+	</Translations>
+</TextIdentifier>

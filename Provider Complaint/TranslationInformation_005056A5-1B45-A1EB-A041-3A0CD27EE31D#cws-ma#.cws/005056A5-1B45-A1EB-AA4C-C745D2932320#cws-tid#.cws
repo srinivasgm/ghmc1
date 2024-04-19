@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA4C-C745D2936320">
+	<DocumentID>005056A5-1B45-A1EB-AA4C-C745D2932320</DocumentID>
+	<Name>005056A5-1B45-A1EB-AA4C-C745D2932320</Name>
+	<Description>Undo Soft Delete</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-29T21:42:27.978</CreationDate>
+	<Notes/>
+	<DefaultText>Undo Soft Delete</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-AA4C-C745D293A320"
+		/>
+	</Translations>
+</TextIdentifier>

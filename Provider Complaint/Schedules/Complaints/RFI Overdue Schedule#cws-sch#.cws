@@ -1,0 +1,63 @@
+
+<Schedule
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.scheduler.Schedule"
+	typeVersion="002346V0-0008-71DF-DFF5-1F210914E83B"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B758-7CEAED58E324">
+	<DocumentID>005056A5-1B45-A1EB-B758-7CEAED58A324</DocumentID>
+	<Name>RFI Overdue Schedule</Name>
+	<Description>RFI Overdue Schedule</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-05T07:25:19.346</CreationDate>
+	<Notes/>
+	<Count>-1</Count>
+	<ScheduleType>Daily</ScheduleType>
+	<ScheduleXML>
+		<schedule
+			xmlns="http://schemas.cordys.com/scheduler/1.0"
+			name="RFI Overdue Schedule"
+			count="-1"
+			autodeploy="false"
+			targetLastModified="2021-07-05T07:22:18.549"
+			msgHolderLastModified="2021-07-05T06:42:04.746">
+			<datetime>
+				<daily>
+					<time>0:20</time>
+				</daily>
+			</datetime>
+			<parameters
+				xmlns="http://schemas.cordys.com/scheduler/1.0">
+				<ExecuteProcess
+					xmlns="http://schemas.cordys.com/bpm/execution/1.0">
+					<type>definition</type>
+					<receiver>true</receiver>
+					<source>Scheduler Engine</source>
+					<modelSpace/>
+					<message>
+						<Message
+							xmlns="">No Message</Message>
+					</message>
+				</ExecuteProcess>
+			</parameters>
+		</schedule>
+	</ScheduleXML>
+	<TargetType>bpm</TargetType>
+	<ExternalAction>
+		<BPMExternalAction
+			type="com.cordys.bpm.BPMExternalAction"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B758-7CEAED572324">
+			<DocumentID>005056A5-1B45-A1EB-B758-7CEAED56E324</DocumentID>
+			<Name>005056A5-1B45-A1EB-B758-7CEAED56E324</Name>
+			<Description>005056A5-1B45-A1EB-B758-7CEAED56E324</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-05T07:25:19.346</CreationDate>
+			<Notes/>
+			<ContainedProcess>
+				<uri
+					id="005056A5-1B45-A1EB-B756-14341812A324"
+				/>
+			</ContainedProcess>
+		</BPMExternalAction>
+	</ExternalAction>
+	<WebserviceBindingOperation/>
+</Schedule>

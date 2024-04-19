@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B827-FD422BF82324">
+	<DocumentID>005056A5-1B45-A1EB-B827-FD422BF7E324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B827-FD422BF7E324</Name>
+	<Description>Claim_TakeClaim_Process</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-09T10:31:23.929</CreationDate>
+	<Notes/>
+	<Text>Claim_TakeClaim_Process</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B827-FD422BF76324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,67 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B758-7CEAED40E324">
+	<DocumentID>005056A5-1B45-A1EB-B758-7CEAED40A324</DocumentID>
+	<Name>Complaint_RequestForAdditionalDocuments</Name>
+	<Description>Complaint_RequestForAdditionalDocuments</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-05T09:58:17.362</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>{today}&lt;br /&gt;
+&lt;br /&gt;
+Complaint #:&amp;nbsp;{item.Properties.ComplaintNumber}&lt;br /&gt;
+Provider:&amp;nbsp;{item.Complaint_ProviderNPI.Properties.ProviderOrganizationName}&lt;br /&gt;
+Health Plan:&amp;nbsp;{item.Complaint_HealthPlanAlias.Properties.AliasDisplayName}&lt;br /&gt;
+&lt;br /&gt;
+Dear&amp;nbsp;{item.Complaint_ProviderNPI.Properties.ProviderFirstName} {item.Complaint_ProviderNPI.Properties.ProviderLastName} :&lt;br /&gt;
+&lt;br /&gt;
+Thank you for submitting your provider complaint to the Department of Managed Health Care. You are receiving this email becaure additional information is required to process your claims for the complaint. Please submit the supporting documents by Deadline by clicking on the below link&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+{config.ProviderComplaint.Properties.BaseURL}/app/start/web/#/item/005056A51B45A1EBB1206401C1482324.{item.Identity.Id}/005056A51B45A1EBB291FB0BE4056324&lt;br /&gt;
+&lt;br /&gt;
+If we do not receive the documents by the deadline date, we will be unable to process your complaint.&lt;br /&gt;
+&lt;br /&gt;
+If you have any questions, please contact our office toll-free at 1-877-525-1295&lt;br /&gt;
+&lt;br /&gt;
+Sincerely,&lt;br /&gt;
+{User.Properties.IdentityDisplayName}&lt;br /&gt;
+{User.toPerson.Properties.Mobile}&lt;br /&gt;
+Provider Complaint Section&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>false</IsVisibleToEndUser>
+	<Subject>Request for Additional Documents</Subject>
+	<To></To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-B120-6401C1426324"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-B75D-D3889757A324">
+			<DocumentID>005056A5-1B45-A1EB-B75D-D38897576324</DocumentID>
+			<Name>005056A5-1B45-A1EB-B75D-D38897576324</Name>
+			<Description>005056A5-1B45-A1EB-B75D-D38897576324</Description>
+			<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+			<CreationDate>2021-07-05T09:58:17.362</CreationDate>
+			<Notes/>
+			<DeveloperText>Request for Additional Documents</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-B75D-D3889757E324"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

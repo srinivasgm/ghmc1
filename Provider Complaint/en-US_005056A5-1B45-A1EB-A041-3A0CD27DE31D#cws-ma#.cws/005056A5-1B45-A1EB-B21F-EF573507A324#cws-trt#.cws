@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B21F-EF573507E324">
+	<DocumentID>005056A5-1B45-A1EB-B21F-EF573507A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B21F-EF573507A324</Name>
+	<Description>005056A5-1B45-A1EB-B21F-EF573507A324</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-08T17:40:15.616</CreationDate>
+	<Notes/>
+	<Text>Before a provider can submit a dispute to the Department for a substantive review, the provider is required to participate in the payor's Provider Dispute Resolution (PDR) process for a minimum of 45 working days or until the payor has provided a written determination; whichever comes first.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B21F-EF5735072324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B6E0-52283BAB2324">
+	<DocumentID>005056A5-1B45-A1EB-B6E0-52283BAAE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B6E0-52283BAAE324</Name>
+	<Description>Soft delete active issue summary</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-07-02T22:15:13.418</CreationDate>
+	<Notes/>
+	<Text>Soft delete active issue summary</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B6E0-52283BAA6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA50-2C4E405F2320">
+	<DocumentID>005056A5-1B45-A1EB-AA50-2C4E405EE320</DocumentID>
+	<Name>CT_Update_IsActive</Name>
+	<Description>CT_Update_IsActive</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T00:12:21.288</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-A9AA-738D0626E320"
+		/>
+	</BuildingBlock>
+</Category>

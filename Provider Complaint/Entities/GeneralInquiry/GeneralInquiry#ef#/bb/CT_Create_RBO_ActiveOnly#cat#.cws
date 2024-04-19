@@ -1,0 +1,18 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A91B-BDC7332D2320">
+	<DocumentID>005056A5-1B45-A1EB-A91B-BDC7332CE320</DocumentID>
+	<Name>CT_Create_RBO_ActiveOnly</Name>
+	<Description>CT_Create_RBO_ActiveOnly</Description>
+	<CreatedBy>hmehta@opentext.com</CreatedBy>
+	<CreationDate>2021-04-23T20:18:34.348</CreationDate>
+	<Notes/>
+	<referenceCount>2</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-A8B6-74DF3E216320"
+		/>
+	</BuildingBlock>
+</Category>

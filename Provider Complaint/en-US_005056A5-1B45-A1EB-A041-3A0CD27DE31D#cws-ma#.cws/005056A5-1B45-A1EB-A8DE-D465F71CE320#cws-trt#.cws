@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A8DE-D465F71D2320">
+	<DocumentID>005056A5-1B45-A1EB-A8DE-D465F71CE320</DocumentID>
+	<Name>005056A5-1B45-A1EB-A8DE-D465F71CE320</Name>
+	<Description>All Active PCS Note Types</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-22T16:40:40.233</CreationDate>
+	<Notes/>
+	<Text>All Active PCS Note Types</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-A8DE-D465F71C6320"
+		/>
+	</TextIdentifier>
+</TranslatedText>

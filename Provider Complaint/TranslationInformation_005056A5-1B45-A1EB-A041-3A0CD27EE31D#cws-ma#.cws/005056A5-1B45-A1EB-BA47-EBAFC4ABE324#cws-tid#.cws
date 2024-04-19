@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BA47-EBAFC4AC2324">
+	<DocumentID>005056A5-1B45-A1EB-BA47-EBAFC4ABE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BA47-EBAFC4ABE324</Name>
+	<Description>R&amp;C Dispute-ER Services</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-20T06:10:49.95</CreationDate>
+	<Notes/>
+	<DefaultText>R&amp;C Dispute-ER Services</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-BA47-EBAFC4AC6324"
+		/>
+	</Translations>
+</TextIdentifier>

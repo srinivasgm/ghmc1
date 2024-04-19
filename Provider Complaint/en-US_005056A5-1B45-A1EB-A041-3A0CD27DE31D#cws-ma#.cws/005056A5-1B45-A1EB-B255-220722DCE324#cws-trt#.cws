@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B255-220722DD2324">
+	<DocumentID>005056A5-1B45-A1EB-B255-220722DCE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B255-220722DCE324</Name>
+	<Description>CPT Code may only include numbers and letters</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-09T18:59:48.697</CreationDate>
+	<Notes/>
+	<Text>CPT Code may only include numbers and letters</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B255-220722DC6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AD41-C98B9087E322">
+	<DocumentID>005056A5-1B45-A1EB-AD41-C98B9087A322</DocumentID>
+	<Name>005056A5-1B45-A1EB-AD41-C98B9087A322</Name>
+	<Description>The same Category and Key are already exists.</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-05-14T23:04:41.75</CreationDate>
+	<Notes/>
+	<Text>The same Category and Key are already exists.</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-AD41-C98B90872322"
+		/>
+	</TextIdentifier>
+</TranslatedText>

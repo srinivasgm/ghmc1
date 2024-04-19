@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BC1B-01A6351D2324">
+	<DocumentID>005056A5-1B45-A1EB-BC1B-01A6351CE324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BC1B-01A6351CE324</Name>
+	<Description>sasas</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-29T13:01:20.466</CreationDate>
+	<Notes/>
+	<Text>sasas</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BC1B-01A6351C6324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

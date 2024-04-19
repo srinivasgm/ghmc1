@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B2A6-00232C7FA324">
+	<DocumentID>005056A5-1B45-A1EB-B2A6-00232C7F6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B2A6-00232C7F6324</Name>
+	<Description>RBO Contract</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-11T09:46:31.051</CreationDate>
+	<Notes/>
+	<DefaultText>RBO Contract</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B2A6-00232C7FE324"
+		/>
+	</Translations>
+</TextIdentifier>

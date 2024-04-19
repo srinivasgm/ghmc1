@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBA7-09EE40E3E324">
+	<DocumentID>005056A5-1B45-A1EB-BBA7-09EE40E3A324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBA7-09EE40E3A324</Name>
+	<Description>RFI_ExecuteLifeActionSubmitRFIResponse</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T05:35:50.067</CreationDate>
+	<Notes/>
+	<Text>RFI_ExecuteLifeActionSubmitRFIResponse</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBA7-09EE40E32324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

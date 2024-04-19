@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B121-12C24368A324">
+	<DocumentID>005056A5-1B45-A1EB-B121-12C243686324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B121-12C243686324</Name>
+	<Description>Complaint_Claim_BI</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-06-03T15:58:56.536</CreationDate>
+	<Notes/>
+	<Text>Complaint_Claim_BI</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B121-12C24367E324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

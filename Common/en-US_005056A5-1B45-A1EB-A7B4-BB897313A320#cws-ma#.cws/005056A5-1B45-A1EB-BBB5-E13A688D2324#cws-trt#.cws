@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-BBB5-E13A688D6324">
+	<DocumentID>005056A5-1B45-A1EB-BBB5-E13A688D2324</DocumentID>
+	<Name>005056A5-1B45-A1EB-BBB5-E13A688D2324</Name>
+	<Description>Jurisdiction Agency History Log</Description>
+	<CreatedBy>happy.bhuva@solusofttech.com</CreatedBy>
+	<CreationDate>2021-07-27T12:49:13.896</CreationDate>
+	<Notes/>
+	<Text>Jurisdiction Agency History Log</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A7B4-BB8973142320"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-BBB5-E13A688CA324"
+		/>
+	</TextIdentifier>
+</TranslatedText>

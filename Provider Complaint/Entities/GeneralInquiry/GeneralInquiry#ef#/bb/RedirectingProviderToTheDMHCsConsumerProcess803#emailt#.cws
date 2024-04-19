@@ -1,0 +1,65 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="005056A5-1B45-A1EB-AA71-48E2DD512320">
+	<DocumentID>005056A5-1B45-A1EB-AA71-48E2DD50E320</DocumentID>
+	<Name>RedirectingProviderToTheDMHCsConsumerProcess803</Name>
+	<Description>803 Redirecting Provider to the DMHC's Consumer Process</Description>
+	<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-30T15:05:56.591</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>{now.getMonth()+1}/{now.getDayOfMonth()}/{now.getYear()}&lt;br /&gt;
+&lt;br /&gt;
+Complaint #: {item.Properties.GeneralInquiryNumber}&lt;br /&gt;
+&lt;br /&gt;
+Dear {item.Properties.ContactFirstName} {item.Properties.ContactLastName}:&lt;br /&gt;
+&lt;br /&gt;
+Thank you for submitting your complaint/inquiry to the Department of Managed Health Care (DMHC) Help Center. The mission of the DMHC is to protect consumers&amp;rsquo; health care rights and ensure a stable health care delivery system. The Department accomplishes this mission by ensuring the health care system works for consumers. The DMHC currently protects the health care rights of more than 25 million Californians through the regulation of health care service plans.&lt;br /&gt;
+&lt;br /&gt;
+The DMHC&amp;rsquo;s Provider Complaint Section accepts post-service complaints related to unfair payment patterns. After reviewing your complaint documentation dated [[date of letter]], regarding [[dispute]], it appears that the issue(s) raised in your complaint are related to a pre-service request that may be best resolved through the DMHC&amp;rsquo;s consumer Independent Medical Review (IMR) or complaint process.&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+Your patient may file an application for an Independent Medical Review or a complaint through the DMHC &amp;lt;a href=&amp;quot;https://www.dmhc.ca.goiv/fileacomplaint.aspx&amp;quot;&amp;gt;Consumer Complaint&amp;lt;/a&amp;gt;. If your patient has any questions or needs further assistance, they may contact the Help Center&amp;rsquo;s toll-free number at &amp;lt;a href=&amp;quot;tel: 1-888- 466-2219&amp;quot;&amp;gt;1-888- 466-2219&amp;lt;/a&amp;gt;.&lt;br /&gt;
+&lt;br /&gt;
+If you have any questions, you may contact the Provider&amp;nbsp; Complaint Section toll free at &amp;lt;a href=&amp;quot;tel:1-877-525-1295&amp;quot;&amp;gt;1-877-525-1295&amp;lt;/a&amp;gt;.&lt;br /&gt;
+&lt;br /&gt;
+If you wish to reply to this email, please do not edit the subject line.&amp;nbsp; This will ensure that your response is directed to the appropriate party.&lt;br /&gt;
+&lt;br /&gt;
+{User.toPerson.Properties.FirstName} {User.toPerson.Properties.LastName}&lt;br /&gt;
+Provider Complaint Section&lt;br /&gt;
+Department of Managed Health Care</Body>
+	<CC></CC>
+	<IsCustomizeAutoSuggest>false</IsCustomizeAutoSuggest>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Provider Complaint/Inquiry - PCS-{item.Properties.GeneralInquiryNumber}</Subject>
+	<To>{item.Properties.ContactEMail}</To>
+	<BuildingBlock>
+		<uri
+			id="005056A5-1B45-A1EB-A8B6-74DF3E20E320"
+		/>
+	</BuildingBlock>
+	<CustomEmailConfigurations/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="005056A5-1B45-A1EB-AA71-48E2DD4FA320">
+			<DocumentID>005056A5-1B45-A1EB-AA71-48E2DD4F6320</DocumentID>
+			<Name>005056A5-1B45-A1EB-AA71-48E2DD4F6320</Name>
+			<Description>005056A5-1B45-A1EB-AA71-48E2DD4F6320</Description>
+			<CreatedBy>Andrew.Acheson@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-30T15:05:56.607</CreationDate>
+			<Notes/>
+			<DeveloperText>803 Redirecting Provider to the DMHC's Consumer Process</DeveloperText>
+			<Identifier>
+				<uri
+					id="005056A5-1B45-A1EB-AA71-48E2DD4FE320"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

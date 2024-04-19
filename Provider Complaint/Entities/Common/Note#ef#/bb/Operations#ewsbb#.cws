@@ -1,0 +1,95 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="005056A5-1B45-A1EB-A9DF-50F5446BA320">
+	<DocumentID>005056A5-1B45-A1EB-A9DF-50F5446B6320</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+	<CreationDate>2021-04-27T17:35:56.357</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A9DF-50F5446AE320">
+			<DocumentID>005056A5-1B45-A1EB-A9DF-50F5446AA320</DocumentID>
+			<Name>CreateNote</Name>
+			<Description>Create Note</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-27T17:35:56.357</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A9AA-738D062BE320"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="005056A5-1B45-A1EB-A9AA-738D062BE320"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A9DF-50F5446A6320">
+			<DocumentID>005056A5-1B45-A1EB-A9DF-50F5446A2320</DocumentID>
+			<Name>ReadNote</Name>
+			<Description>Read Note</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-27T17:35:56.357</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A9AA-738D062BE320"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A9DF-50F544696320">
+			<DocumentID>005056A5-1B45-A1EB-A9DF-50F544692320</DocumentID>
+			<Name>SetNote_NoteType</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-27T17:35:56.357</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A9AA-738D062BE320"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="005056A5-1B45-A1EB-A9DB-A14FFA7AE320"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="005056A5-1B45-A1EB-A9DF-50F54469E320">
+			<DocumentID>005056A5-1B45-A1EB-A9DF-50F54469A320</DocumentID>
+			<Name>UpdateNote</Name>
+			<Description>Update Note</Description>
+			<CreatedBy>Henry.Chiu@dmhc.ca.gov</CreatedBy>
+			<CreationDate>2021-04-27T17:35:56.357</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="005056A5-1B45-A1EB-A9AA-738D062BE320"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

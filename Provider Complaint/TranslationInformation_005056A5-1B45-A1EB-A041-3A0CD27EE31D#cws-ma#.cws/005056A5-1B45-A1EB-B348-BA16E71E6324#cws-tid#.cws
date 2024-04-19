@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B348-BA16E71EA324">
+	<DocumentID>005056A5-1B45-A1EB-B348-BA16E71E6324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B348-BA16E71E6324</Name>
+	<Description>{date(item.Properties.EndDateOfService.getYear()+4, item.Properties.EndDateOfService.getMonth(), item.Properties.EndDateOfService.getDayOfMonth())}</Description>
+	<CreatedBy>Acheson,Andrew@DMHC</CreatedBy>
+	<CreationDate>2021-06-14T15:34:40.871</CreationDate>
+	<Notes/>
+	<DefaultText>{date(item.Properties.EndDateOfService.getYear()+4, item.Properties.EndDateOfService.getMonth(), item.Properties.EndDateOfService.getDayOfMonth())}</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27F631D"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="005056A5-1B45-A1EB-B348-BA16E71EE324"
+		/>
+	</Translations>
+</TextIdentifier>

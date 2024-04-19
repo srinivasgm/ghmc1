@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="005056A5-1B45-A1EB-B55F-E89D68896324">
+	<DocumentID>005056A5-1B45-A1EB-B55F-E89D68892324</DocumentID>
+	<Name>005056A5-1B45-A1EB-B55F-E89D68892324</Name>
+	<Description>DMHC Layout</Description>
+	<CreatedBy>pdoshi@solusofttech.com</CreatedBy>
+	<CreationDate>2021-06-25T06:54:43.883</CreationDate>
+	<Notes/>
+	<Text>DMHC Layout</Text>
+	<Language>
+		<uri
+			id="005056A5-1B45-A1EB-A041-3A0CD27E631D"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="005056A5-1B45-A1EB-B55F-E89D6888A324"
+		/>
+	</TextIdentifier>
+</TranslatedText>
